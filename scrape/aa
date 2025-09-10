@@ -1,0 +1,58 @@
+2025-09-04 17:32:41,473 - INFO - Starting Multi-Year OSHA Aggregation...
+2025-09-04 17:32:41,473 - INFO - Input files: ITA_Roofing_2020.csv, ITA_Roofing_2021.csv, ITA_Roofing_2022.csv, ITA_Roofing_2023.csv, ITA_Roofing_2024.csv
+2025-09-04 17:32:41,473 - INFO - Output file: consolidated_osha.tsv
+2025-09-04 17:32:41,476 - INFO - Loading and aggregating OSHA data from: ITA_Roofing_2020.csv (year: 2020)
+2025-09-04 17:32:41,489 - INFO - Year 2020: Processed 1239 total rows
+2025-09-04 17:32:41,489 - INFO - Year 2020: Found 943 unique companies
+2025-09-04 17:32:41,497 - INFO - Year 2020: Aggregation complete - 905 unique companies
+2025-09-04 17:32:41,497 - INFO - Loading and aggregating OSHA data from: ITA_Roofing_2021.csv (year: 2021)
+2025-09-04 17:32:41,511 - INFO - Year 2021: Processed 1312 total rows
+2025-09-04 17:32:41,512 - INFO - Year 2021: Found 979 unique companies
+2025-09-04 17:32:41,520 - INFO - Year 2021: Aggregation complete - 945 unique companies
+2025-09-04 17:32:41,521 - INFO - Loading and aggregating OSHA data from: ITA_Roofing_2022.csv (year: 2022)
+2025-09-04 17:32:41,533 - INFO - Year 2022: Processed 1434 total rows
+2025-09-04 17:32:41,534 - INFO - Year 2022: Found 1106 unique companies
+2025-09-04 17:32:41,542 - INFO - Year 2022: Aggregation complete - 1056 unique companies
+2025-09-04 17:32:41,543 - INFO - Loading and aggregating OSHA data from: ITA_Roofing_2023.csv (year: 2023)
+2025-09-04 17:32:41,558 - INFO - Year 2023: Processed 1678 total rows
+2025-09-04 17:32:41,559 - INFO - Year 2023: Found 1272 unique companies
+2025-09-04 17:32:41,568 - INFO - Year 2023: Aggregation complete - 1217 unique companies
+2025-09-04 17:32:41,569 - INFO - Loading and aggregating OSHA data from: ITA_Roofing_2024.csv (year: 2024)
+2025-09-04 17:32:41,584 - INFO - Year 2024: Processed 1584 total rows
+2025-09-04 17:32:41,584 - INFO - Year 2024: Found 1189 unique companies
+2025-09-04 17:32:41,593 - INFO - Year 2024: Aggregation complete - 1138 unique companies
+2025-09-04 17:32:41,594 - INFO - Consolidating companies across years using EIN matching (with fuzzy fallback)...
+2025-09-04 17:32:41,594 - INFO - Year 2020: 905 unique companies
+2025-09-04 17:32:41,595 - INFO - Year 2021: 945 unique companies
+2025-09-04 17:32:41,595 - INFO - Year 2022: 1056 unique companies
+2025-09-04 17:32:41,595 - INFO - Year 2023: 1217 unique companies
+2025-09-04 17:32:41,595 - INFO - Year 2024: 1138 unique companies
+2025-09-04 17:32:41,595 - INFO - Total company-year records before consolidation: 5261
+2025-09-04 17:32:41,597 - INFO - Found 1781 unique EINs across all years
+2025-09-04 17:32:41,600 - INFO - Created fuzzy matcher for 494 companies without EINs
+2025-09-04 17:32:41,634 - INFO - EIN matching: Found 1194 companies appearing in multiple years
+2025-09-04 17:32:41,634 - INFO - Processing remaining companies for year 2020...
+2025-09-04 17:32:41,636 - INFO - Fuzzy match found for 'Dakota Corp Dba Jessie Bryant Roofing': 2 matches
+2025-09-04 17:32:41,638 - INFO - Fuzzy match found for 'bollinger roofing company inc': 2 matches
+2025-09-04 17:32:41,638 - INFO - Fuzzy match found for 'Industrial Roofing & Construction LLC': 2 matches
+2025-09-04 17:32:41,638 - INFO - Fuzzy match found for 'Thomas Industries, Inc.': 2 matches
+2025-09-04 17:32:41,639 - INFO - Fuzzy match found for 'Orndorff & Spaid Inc': 2 matches
+2025-09-04 17:32:41,640 - INFO - Fuzzy match found for 'Texas Roofing Co.': 2 matches
+2025-09-04 17:32:41,640 - INFO - Fuzzy match found for 'Best Roofing': 2 matches
+2025-09-04 17:32:41,642 - INFO - Processing remaining companies for year 2021...
+2025-09-04 17:32:41,642 - INFO - Fuzzy match found for 'Advanced Roofing Co., Inc': 2 matches
+2025-09-04 17:32:41,643 - INFO - Fuzzy match found for 'Stinson Services': 2 matches
+2025-09-04 17:32:41,643 - INFO - Fuzzy match found for 'Tremco CPG Inc': 2 matches
+2025-09-04 17:32:41,644 - INFO - Processing remaining companies for year 2022...
+2025-09-04 17:32:41,647 - INFO - Processing remaining companies for year 2023...
+2025-09-04 17:32:41,648 - INFO - Fuzzy match found for 'Douglass Colony Group': 2 matches
+2025-09-04 17:32:41,649 - INFO - Processing remaining companies for year 2024...
+2025-09-04 17:32:41,651 - INFO - Fuzzy matching: Found 11 additional multi-year matches
+2025-09-04 17:32:41,651 - INFO - Consolidation complete: 1800 unique companies across all years
+2025-09-04 17:32:41,653 - INFO - Companies appearing in multiple years: 1215
+2025-09-04 17:32:41,653 - INFO - Companies appearing in only one year: 585
+2025-09-04 17:32:41,654 - INFO - Writing consolidated results to: consolidated_osha.tsv
+2025-09-04 17:32:41,669 - INFO - Output complete: 1800 companies written
+2025-09-04 17:32:41,670 - INFO - Summary: 1800 unique companies across 5 years
+2025-09-04 17:32:41,671 - INFO - Total company-year data points: 4898
+2025-09-04 17:32:41,672 - INFO - Multi-year OSHA aggregation completed successfully!

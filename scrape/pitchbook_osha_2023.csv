@@ -1,0 +1,358 @@
+establishment_name|company_name|state|establishment_type|size|annual_average_employees|total_hours_worked|ein|match_company_name|stripped_company_name|company_name_multiple_match
+Scott's Roofing Inc|Scott's Roofing Inc|OR|1|21|23|11154|453540373|'Scott's roofing'|scott's roofing|false
+Infinity Roofing, LLC|Infinity Roofing, LLC|FL|1|1|8|16640|854239518|'Infinity Roofing Contractors'|infinity roofing|false
+Diversified Roofing|Diversified Roofing|AZ|1|3|456|866910|860599690|'Diversified Roofing'|diversified roofing|false
+Wichita Office|AR Roofing|KS|2|21|25|44000|50571696|'Ar Roofing Contractors'|ar roofing|false
+McEnany Roofing, Inc T|McEnany Roofing, Inc|FL|1|22|140|219374|592583665|'Mcenany Roofing'|mcenany roofing|false
+Spann Roofing & Sheet Metal, Inc.|Spann Roofing & Sheet Metal, Inc.|SC|1|21|84|172153|570373011|'Spann Roofing & Sheet Metal'|spann roofing & sheet metal|false
+Triad Mfg|Triad Manufacturing Inc.|MO|1|3|359|685176|431587028|'Triad'|triad|false
+Roman Roofing|Roman Roofing, Inc.|FL|1|3|360|720000|473093920|'Roman Roofing'|roman roofing|false
+Rackley Roofing Co Inc|Rackley Roofing Co Inc|TN|1|22|122|180182|620932570|'Rackley Roofing'|rackley roofing|false
+Pax Deridder|Pax LLC|LA|1|1|13|34158||'PAX Services Group'|pax|false
+Pax Gonzales|Pax LLC|LA|1|21|32|73036||'PAX Services Group'|pax|false
+CertainTeed Corporation Williamsport Maryland|CertainTeed Corporation|MD|1|3|308|606068||'CertainTeed'|certainteed|false
+Quality Roofing, Inc|Quality Roofing, Inc|FL|1|22|138|346713|900679536|'Quality Roofing'|quality roofing|false
+Mueller Construction Company, LLC|Mueller Construction Company LLC|TX|1|1|16|31961|752710857|'Mueller'|mueller|false
+Advanced Roofing, Inc.|Advanced Roofing, Inc.|MI|1|21|21|33670|382819536|'Advanced Roofing', 'Advanced Roofing Services'|advanced roofing|true
+Empire Roofing Inc.|Empire Roofing Inc.|MT|1|21|20|33938|810495020|'Empire Roofing', 'Empire Roofing Contractors', 'Empire Roofing Services'|empire roofing|true
+Naomi Heights Nursing and Rehab Center|Central Management|LA|1|22|101|118787|201897905|'CENTRAL'|central|false
+Eberhard|Eberhard|CA|1|22|160|294584|953071086|'Eberhard'|eberhard|false
+Wayne's Roofing, Inc.|Wayne's Roofing, Inc.|WA|1|22|127|212937|910949176|'Wayne's Roofing'|wayne's roofing|false
+Autumn Leaves Nursing & Rehabilitation Center, LLC|Central Management Co.|LA|1|22|134|230087|721080818|'CENTRAL'|central|false
+Modern Roofing, Inc.|Modern Roofing, Inc.|MI|1|21|56|89674|382184928|'Modern Roofing'|modern roofing|false
+Sterling Commercial Roofing|Sterling Commercial Roofing, Inc.|IL|1|22|170|286973|262635202|'Sterling Commercial Roofing'|sterling commercial roofing|false
+River Oaks Nursing and Rehabilitation Center|Central Management LLC|LA|1|22|106|184523||'CENTRAL'|central|false
+Progressive Roofing Inc.|Progressive Roofing Inc.|MA|1|1|15|27147|43425540|'Progressive Roofing'|progressive roofing|false
+Skyline Roofing Inc.|Skyline Roofing, Incorporated|VA|1|21|55|126196|205864185|'Skyline Roofing Partners'|skyline roofing|false
+Apple Roofing Corp.|Apple Roofing Corp.|NY|1|21|37|66471|161198739|'Apple Roofing'|apple roofing|false
+Roseview Nursing & Rehabilitation Center, LLC|Central Management Company LLC|LA|1|22|127|217961|453200069|'CENTRAL'|central|false
+Plantation Oaks Nursing & Rehabilitation Center, LLC|Central Management Company|LA|1|21|80|171166|203778492|'CENTRAL'|central|false
+Wicks Roofing|Wicks Roofing|CA|1|21|96|198792|770418522|'Wicks Roofing'|wicks roofing|false
+CertainTeed|CertainTeed|PA|1|21|65|117115|232510893|'CertainTeed'|certainteed|false
+Revolution Company|Revolution Company|MN|1|21|75|157711||'Revolution Contractors'|revolution|false
+Landmark Nursing and Rehabilitation|Central Management Company|LA|1|22|332|249307|721376173|'CENTRAL'|central|false
+Ace Roofing LLC|Ace Roofing LLC|MT|1|21|30|57696|208967459|'ACE Roofing Services'|ace roofing|false
+Central Roofing, LLC.|Central Roofing, LLC.|IL|1|21|53|103613|454310902|'Central Roofing'|central roofing|false
+Nu-Tec Roofing Contractors|Nu-Tec Roofing Contractors LLC|IN|1|21|60|150632|352114307|'Nu-Tec Roofing Contractors'|nu-tec roofing|false
+Platinum Roofing, LLC|Platinum Roofing, LLC|AR|1|21|76|110402|472769625|'Platinum Roofing'|platinum roofing|false
+Skyline Roofing|Skyline Roofing|NH|1|1|18|24639|842129081|'Skyline Roofing Partners'|skyline roofing|false
+Pioneer Roofing Co|Pioneer Roofing Co|AZ|1|21|33|60275|861037548|'Pioneer Roofing', 'Pioneer Roofing Systems'|pioneer roofing|true
+Bone Dry Roofing Company|Bone Dry Roofing Company|SC|1|21|25|54107|861081716|'Bone Dry Roofing'|bone dry roofing|false
+Bone Dry Roofing - Athens|Bone Dry Roofing|GA|1|21|42|97050|861081716|'Bone Dry Roofing'|bone dry roofing|false
+Martin Roofing Company Inc.|Martin Roofing Company Inc.|CA|1|21|49|79872|952536694|'Martin Roofing Services'|martin roofing|false
+Clark's Quality Roofing|Clark's Quality Roofing|UT|1|21|52|107772|870441650|'Clark's Quality Roofing'|clark's quality roofing|false
+Adam Vaillancourt Roofing|Adam Vaillancourt Roofing|NH|1|21|30|40568|753184736|'Adam Vaillancourt Roofing'|adam vaillancourt roofing|false
+Port Industries Inc|Port Industries Inc|MO|1|21|54|102682|340904575|'Port Enterprises'|port|false
+Cornerstone Residence Senior Care|Cornerstone|MN|1|21|27|33272|611810761|'Cornerstone Construction'|cornerstone|false
+Dynamic Systems INC|Dynamic Systems INC|NY|1|2|51|92056|274258481|'Dynamic National'|dynamic|false
+CertainTeed|CertainTeed|MA|1|22|159|311484||'CertainTeed'|certainteed|false
+CertainTeed|CertainTeed Corporation|MI|1|22|246|462960||'CertainTeed'|certainteed|false
+Mueller Inc. (BMC)|Mueller Inc.|TX|1|3|342|751632|751964049|'Mueller'|mueller|false
+Mueller Inc.|Mueller Inc.|TX|1|21|67|164960|751964049|'Mueller'|mueller|false
+Mueller Inc (OMC)|Mueller Inc.|LA|1|21|38|185409|751964049|'Mueller'|mueller|false
+Mueller Inc (Buckeye)|Mueller Inc.|AZ|1|21|25|51690|751964049|'Mueller'|mueller|false
+Carolina Asphalt|Brothers National|NC|1|2|38|85084|873875709|'Brothers Services'|brothers|false
+Dynamic National|Dynamic Holdings|FL|1|21|40|71929|832750109|'Dynamic National'|dynamic|false
+Millwork & Panel LLC- Social Circle|CertainTeed LLC|GA|1|21|57|108443|320613145|'CertainTeed'|certainteed|false
+Farrell Roofing, Inc.|Farrell Roofing, Inc.|DE|1|21|30|6414225|208890407|'Farrell Roofing'|farrell roofing|false
+Collis Roofing, Inc.|Collis Roofing, Inc.|FL|1|3|180|383760|593511977|'Collis Roofing'|collis roofing|false
+Plygem|Cornerstone|TN|1|3|274|590742|430799731|'Cornerstone Construction'|cornerstone|false
+COASTAL ROOFING INC.|COASTAL ROOFING INC.|FL|1|21|62|111600|800624061|'Coastal Roofing Services'|coastal roofing|false
+Massey Construction|Massey Construction|TN|1|2|41|89077|620803203|'Massey Construction Group'|massey|false
+BRDOH- Cincinnati|Bone Dry Roofing, Inc|OH|1|1|18|29433|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDROH- Columbus|Bone Dry Roofing, Inc|OH|1|1|8|13200|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDROH- Dayton|Bone Dry Roofing, Inc|OH|1|1|6|10546|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDRMI-Detroit|Bone Dry Roofing, Inc.|MI|1|1|12|7956|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDRIN-Evansville|Bone Dry Roofing, Inc|IN|1|1|2|2160|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDRIN-Ft Wayne|Bone Dry Roofing, Inc|IN|1|1|12|20420|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDRKY-Lexington|Bone Dry Roofing, Inc|KY|1|1|19|37086|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDRTN-Nashville|Bone Dry Roofing, Inc|TN|1|1|16|15254|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDRMO-St Louis|Bone Dry Roofing, Inc|MO|1|1|19|37768|351883225|'Bone Dry Roofing'|bone dry roofing|false
+CertainTeed LLC Oxford Glass Mat|CertainTeed LLC|NC|1|1|11|20813|232510893|'CertainTeed'|certainteed|false
+City of Midland - Water Distribution|c|MI|3|21|18|35238|386004711|'C'|c|false
+Nations Roof of Indiana LLC|Nations Roof|IN|1|21|24|51271|822431871|'Nations Roof'|nations roof|false
+CertainTeed Jonesburg|CertainTeed|MO|1|2|157|314710|232510893|'CertainTeed'|certainteed|false
+Tecta America|Tecta America|IL|1|21|106|216664|841505685|'Tecta America'|tecta america|false
+Tecta America Southeast LLC|Tecta America|GA|1|21|81|164291|202141268|'Tecta America'|tecta america|false
+Tecta America Zero Company|Tecta America|OH|1|21|52|113687|310616378|'Tecta America'|tecta america|false
+Tecta America Zero Company-Columbus|Tecta America|OH|1|1|12|27871|310616378|'Tecta America'|tecta america|false
+Tecta America Zero Company-Dayton|Tecta America|OH|1|1|4|15422|310616378|'Tecta America'|tecta america|false
+Micro Gauge|Mueller Industries|MI|1|21|85|169752||'Mueller'|mueller|false
+Roof Services A Tecta America Company LLC|Tecta America Company LLC|VA|1|21|79|170585|832486234|'Tecta America'|tecta america|false
+Roof Services A Tecta America Company LLC Richmond unit|Tecta America Company LLC|VA|1|21|30|63163|832486234|'Tecta America'|tecta america|false
+Albuquerque Progressive|Progressive Roofing|NM|1|21|60|161532|860345657|'Progressive Roofing'|progressive roofing|false
+Mahaney, A Tecta America Company|Tecta America|KS|1|3|201|309182|882961674|'Tecta America'|tecta america|false
+Arvada Colorado|Progressive Roofing|CO|1|1|8|16185|860345657|'Progressive Roofing'|progressive roofing|false
+Maryland Progressive|Progressive Roofing|MD|1|1|16|36195|860345657|'Progressive Roofing'|progressive roofing|false
+Columbus Ohio Location|Progressive Roofing|OH|1|1|14|29580|860345657|'Progressive Roofing'|progressive roofing|false
+Dallas Progressive|Progressive Roofing|TX|1|21|81|202226|860345657|'Progressive Roofing'|progressive roofing|false
+Flagstaff Progressive|Progressive Roofing|AZ|1|1|14|33068|860345657|'Progressive Roofing'|progressive roofing|false
+Lehi Utah Location|Progressive Roofing|UT|1|1|16|57865|860345657|'Progressive Roofing'|progressive roofing|false
+Pennsylvania Location|Progressive Roofing|PA|1|1|10|23428|860345657|'Progressive Roofing'|progressive roofing|false
+Phoenix Progressive|Progressive Roofing|AZ|1|3|709|1571942|860345657|'Progressive Roofing'|progressive roofing|false
+Phoenix Service Location|Progressive Roofing|AZ|1|21|49|95604|860345657|'Progressive Roofing'|progressive roofing|false
+Tucson Progressive|Progressive Roofing|AZ|1|22|192|353046|860345657|'Progressive Roofing'|progressive roofing|false
+TMJ Construction Services|TMJ Construction Services|IA|1|21|32|41946|542149654|'TMJ Construction Services'|tmj|false
+BDRIN-Lafayette|Bone Dry Roofing, Inc|IN|1|21|51|53619|351883225|'Bone Dry Roofing'|bone dry roofing|false
+double kwik Ermine|c|KY|1|3|10|15943|810583723|'C'|c|false
+double kwik Pound|c|VA|1|3|5|7971|810583723|'C'|c|false
+double kwik Hindman 1|c|KY|1|3|20|31887|810583723|'C'|c|false
+double kwik Phelps|c|KY|1|3|11|17538|810583723|'C'|c|false
+Janney Roofing LLC|Janney Roofing|FL|1|22|100|416000|883485181|'Janney Roofing'|janney roofing|false
+BDR-IndyNorth|Bone Dry Roofing, Inc|IN|1|22|105|251018|351883225|'Bone Dry Roofing'|bone dry roofing|false
+BDRKY-Louisville|Bone Dry Roofing, Inc|KY|1|21|33|71895|351883225|'Bone Dry Roofing'|bone dry roofing|false
+COTTON PARTNERS, LLC|COTTON PARTNERS LLC|GA|1|21|21|64146|200800225|'Cotton Holdings'|cotton|false
+Premier Roofing Co.|Premier Roofing Company|CO|1|22|185|427382|651261019|'Premier Roofing Company', 'Premier Roofing Contractors'|premier roofing|true
+Tecta America South Florida|Tecta America Corp.|FL|1|21|57|113074|650056654|'Tecta America'|tecta america|false
+Nitro Roofing and Construction LLC|Nitro Roofing and Construction LLC|OH|1|21|22|47198|451562156|'Nitro Roofing and Construction'|nitro roofing and|false
+Worthmann, LLC|Worthmann Roofing|FL|1|21|50|400721|472139631|'Worthmann Roofing'|worthmann roofing|false
+Tecta America Southeast|Tecta America|FL|1|21|85|175715|202141268|'Tecta America'|tecta america|false
+Nutrition 101, LLC, Archdale|101 Inc|NC|1|21|22|44000|371168221|'101 Industries'|101|false
+Nutrition 101,LLC Pendleton|101 Inc|IN|1|21|51|106080|371168221|'101 Industries'|101|false
+Cotton Commercial USA, Inc.|Cotton Holdings|TX|1|3|845|1815207|202702810|'Cotton Holdings'|cotton|false
+Commercial Roofing & Waterproofing Hawaii, Inc|Commercial Roofing & Waterproofing Hawaii, Inc.|HI|1|21|95|176983|990301791|'commercial roofing & waterproofing hawaii'|commercial roofing & waterproofing hawaii|false
+Honolulu Roofing Company, Inc|Commercial Roofing & Waterproofing Hawaii, Inc.|HI|1|21|23|66779|912175749|'commercial roofing & waterproofing hawaii'|commercial roofing & waterproofing hawaii|false
+Greenpath Technologies, Inc|Commercial Roofing & Waterproofing Hawaii, Inc.|HI|1|1|14|26406|260709164|'commercial roofing & waterproofing hawaii'|commercial roofing & waterproofing hawaii|false
+Allen Roofing & Siding, LLC.|Allen Roofing & Siding, LLC.|MO|1|22|100|145356|881581570|'Allen Roofing & Siding'|allen roofing & siding|false
+F-Wave, LLC|F-WAVE, LLC|TX|1|21|50|93053|452568563|'F-Wave'|f-wave|false
+Katchmark, A Tecta America Co, Chantilly|Tecta America Corp.|VA|1|21|36|90346|882190831|'Tecta America'|tecta america|false
+J.P. Patti Tecta America LLC.|Tecta America|NJ|1|21|32|52343||'Tecta America'|tecta america|false
+Supreme Roofing, LP|Supreme Roofing|TX|1|3|261|424946|823769023|'Supreme Roofing Services'|supreme roofing|false
+American Roofing & Metal Louisville|American Roofing & Metal|KY|1|22|175|80099|610192077|'American Roofing & Metal Co.'|american roofing & metal|false
+D.R. Kidd Company Inc.|Kidd Roofing|TX|1|22|126|249230|742736561|'Kidd Roofing'|kidd roofing|false
+C.E. Reeve Roofing LLC.|Tecta America|IN|1|21|60|119027|822463050|'Tecta America'|tecta america|false
+Mueller Copper Tube West Co.|Mueller Industries Inc|UT|1|21|71|141053||'Mueller'|mueller|false
+Tecta America Sacramento, Inc.|Tecta America|CA|1|21|60|107685|202970607|'Tecta America'|tecta america|false
+Forest Haven Nursing and Rehabilitation Center|Central Management Company|LA|2|2|136|237984||'CENTRAL'|central|false
+Absolute Construction Enterprises, Inc.|Absolute Construction Enterprises Inc.|WI|1|2|22|34562|391668123|'Absolute Construction'|absolute|false
+ATCO Rubber Products Baltimore|Mueller Industries Inc.|MD|1|2|34|68106||'Mueller'|mueller|false
+Letner Roofing Company|Letner Roofing Company|CA|1|3|380|699316||'Letner Roofing'|letner roofing|false
+Triangle Roofing, Inc.|Triangle Roofing, Inc.|PA|1|21|43|68469|251513867|'Triangle Roofing Services'|triangle roofing|false
+RCH Roofing Corporation|RCH Roofing Corporation|MA|1|22|102|212373|43386814|'Rch Roofing Services'|rch roofing|false
+Southern Oaks Nursing & Rehabilitation Center, LLC|Central Management|LA|1|21|79|151973||'CENTRAL'|central|false
+Dynamic Manufacturing|Dynamic Manufacturing|PA|1|2|46|2104124|203933236|'Dynamic National'|dynamic|false
+Warren Roofing & Insulating Company|Warren Roofing & Insulating Company|OH|1|2|110|131588|340604460|'Warren Roofing & Insulating'|warren roofing & insulating|false
+Total Roofing Services LLC|Total Roofing Services|OH|1|2|25|30893|341862745|'Total Roofing Contractors'|total roofing|false
+David Lundberg Building & Roofing Contractor|David Lundberg Building & Roofing Contractor|FL|1|21|31|68808|526111824|'David Lundberg Building & Roofing Contractor'|david lundberg building & roofing contractor|false
+Empire Roofing Inc.|Empire Roofing Inc.|TX|1|3|255|510916|751828325|'Empire Roofing', 'Empire Roofing Contractors', 'Empire Roofing Services'|empire roofing|true
+Empire Roofing Inc..|Empire Roofing Inc..|TN|1|21|49|83968|464526366|'Empire Roofing', 'Empire Roofing Contractors', 'Empire Roofing Services'|empire roofing|true
+Pinnacle Roofing Group|Pinnacle Roofing Group|FL|1|21|45|56000|844581614|'Pinnacle Roofing Contractors'|pinnacle roofing|false
+Mueller Company|Mueller|AL|1|3|542|1088305||'Mueller'|mueller|false
+All Seasons Roofing, LLC|All Seasons Roofing, LLC|MO|1|1|18|42323|204885966|'All Seasons Roofing Services'|all seasons roofing|false
+Roofing Data 2023|Progressive Roofing Inc|NY|1|21|33|37115|161064150|'Progressive Roofing'|progressive roofing|false
+Roofing Services & Solutions|Tecta America|MO|1|21|49|123318|832215604|'Tecta America'|tecta america|false
+Holland Roofing Group|Holland Roofing Group|KY|1|21|45|94171|311551993|'Holland Roofing'|holland roofing|false
+Central Manufacturing Inc.|Central Manufacturing Inc.|WA|1|21|37|60728|455609651|'CENTRAL'|central|false
+BDRIN-Bloomington|Bone Dry Roofing, Inc|IN|1|21|23|42989|351883225|'Bone Dry Roofing'|bone dry roofing|false
+Best Roofing Services, LLC|Best Roofing|FL|1|3|268|385291||'Best Roofing'|best roofing|false
+BuildMat Plus Investments|Metroll|CA|1|21|25|43867||'Metroll'|metroll|false
+Eastgate|C|TN|1|1|2|760|582288306|'C'|c|false
+North Orlando - FL Central South|Massey Services Inc.|FL|1|21|37|75961||'Massey Construction Group'|massey|false
+AAA ROOOFING WATER PROOFING|AAA Roofing|CA|1|22|391|795966|330833682|'AAA Roofing', 'AAA ROOFING SERVICES'|aaa roofing|true
+Superior Roofing Services|Superior Roofing Services|IN|1|21|55|93093|352014930|'Superior Roofing'|superior roofing|false
+Cornerstone|Cornerstone|IL|1|1|13|21653|362936229|'Cornerstone Construction'|cornerstone|false
+TAMKO Building Products LLC - Columbus|TAMKO Building Products LLC|KS|1|2|28|53255|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - Dallas|TAMKO Building Products LLC|TX|1|2|87|180883|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - Frederick|TAMKO Building Products LLC|MD|1|2|98|197499|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - Phillipsburg|TAMKO Building Products LLC|KS|1|2|91|184461|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - Tuscaloosa|TAMKO Building Products LLC|AL|1|2|87|175741|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - Ennis|TAMKO Building Products LLC|TX|1|2|28|54447|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - High Street|TAMKO Building Products LLC|MO|1|2|98|191833|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - Knoxville|TAMKO Building Products LLC|TN|1|2|35|67255|440502367|'Tamko Building Products'|tamko building products|false
+TAMKO Building Products LLC - Rangeline|TAMKO Building Products LLC|MO|1|2|35|69796|440502367|'Tamko Building Products'|tamko building products|false
+CFS Roofing|CFS Roofing|FL|1|3|319|428353|274953359|'CFS Roofing Services'|cfs roofing|false
+Absolute Group - East Erosion Division|Absolute Group|IA|1|21|18|38966|391953384|'Absolute Construction'|absolute|false
+Absolute Group - Erosion Division|Absolute Group|IA|1|21|65|120918|391953384|'Absolute Construction'|absolute|false
+Absolute Group - Utility Division|Absolute Group|IA|1|21|36|69620|391953384|'Absolute Construction'|absolute|false
+Absolute Group - Concrete Division|Absolute Group|IA|1|22|113|228846|391953384|'Absolute Construction'|absolute|false
+Tecta America Southern California, Inc.|Tecta America Corp|CA|1|21|87|151854|10629153|'Tecta America'|tecta america|false
+Professional Roofing Services|Professional Roofing Services|NV|1|21|62|113669|201729895|'Professional Roofing Services'|professional roofing|false
+CertainTeed|CertainTeed|AL|1|21|77|114417||'CertainTeed'|certainteed|false
+Wolfe Roofing|Tecta America|PA|1|21|26|52396||'Tecta America'|tecta america|false
+Absolute Group - Residential Division|Absolute Group|IA|1|21|92|175120|391953384|'Absolute Construction'|absolute|false
+North American Roofing|North American Roofing|FL|1|22|164|326438|832410355|'North American Roofing'|north american roofing|false
+J Reynolds & Co., a Tecta America Company, LLC.|Tecta America|TX|1|22|104|180792|854217507|'Tecta America'|tecta america|false
+Tecta America West FL, LLC.|Tecta America Corp.|FL|1|1|28|33017|841505685|'Tecta America'|tecta america|false
+Advocate construction Inc|Advocate Construction Inc|IL|1|22|217|423982|461290497|'Advocate Construction'|advocate|false
+Reliant Roofing LLC|Reliant Roofing LLC|FL|1|22|200|414800|871239494|'Reliant Roofing'|reliant roofing|false
+Specialty Roofing Inc|Specialty roofing Inc|AZ|1|21|56|111104|860224636|'Specialty Roofing'|specialty roofing|false
+Feazel Roofing LLC (Raleigh)|Feazel Roofing LLC|NC|1|21|30|11632|311356520|'Feazel Roofing'|feazel roofing|false
+Feazel Roofing, LLC|Feazel Roofing, LLC|OH|1|22|168|261631|311356520|'Feazel Roofing'|feazel roofing|false
+Shanco Companies|Feazel Roofing|MD|1|2|25|49237|743062023|'Feazel Roofing'|feazel roofing|false
+Davco Roofing & Sheet Metal|Davco Roofing & Sheet Metal|NC|1|21|60|101772|263102788|'Davco Roofing & Sheet Metal'|davco roofing & sheet metal|false
+Deer Park Roofing - Louisville Branch|Deer Park Roofing|KY|1|21|38|58457|311803193|'Deer Park Roofing'|deer park roofing|false
+Williamsburg Office|Pyramid Roofing|VA|1|1|15|26415|161755493|'Pyramid Roofing'|pyramid roofing|false
+Roof Services of NY|Tecta America LLC|NY|1|21|41|74774|872633595|'Tecta America'|tecta america|false
+Bigfoot Roofing & Construction, Inc|Bigfoot Roofing & Construction|FL|1|21|23|47840|452492305|'Bigfoot Roofing & Construction'|bigfoot roofing &|false
+Meade Roofing Services|Meade Roofing Services|OH|1|1|7|14448|843693747|'Meade Roofing Services'|meade roofing|false
+O'NEAL JR. ROOFING, INC|O'NEAL JR. ROOFING, INC.|FL|1|21|22|42108|264621172|'O'Neal Jr. Roofing'|o'neal jr. roofing|false
+CB ROOFING CONSTRUCTION INC|CB ROOFING CONSTRUCTION INC.|FL|1|21|25|40249|271187783|'Cb Roofing Services'|cb roofing|false
+CMR CONSTRUCTION & ROOFING, LLC-TN|CMR CONSTRUCTION & ROOFING, LLC|TN|1|21|72|138381|710873844|'CMR Construction & Roofing'|cmr construction & roofing|false
+Mueller Corporation|Mueller Corporation|MA|1|21|78|159273|42181206|'Mueller'|mueller|false
+STRATUS ROOFING|STRATUS CONSTRUCTION & ROOFING, LLC|FL|1|21|29|57062|474208903|'Stratus Construction & Roofing'|stratus construction & roofing|false
+CMR CONSTRUCTION & ROOFING, LLC-FL|CMR CONSTRUCTION & ROOFING, LLC|FL|1|21|132|269252|710873844|'CMR Construction & Roofing'|cmr construction & roofing|false
+Kalkreuth Roofing & Sheet Metal, Inc.|Kalkreuth Roofing & Sheet Metal, Inc.|WV|1|22|152|274501|550647319|'Kalkreuth Roofing & Sheet Metal'|kalkreuth roofing & sheet metal|false
+Allied Roofing, Inc.|Allied Roofing, Inc.|FL|2|2|45|77640|592690416|'Allied Roofing, Inc.'|allied roofing|false
+Hampton Office|Pyramid Roofing|VA|1|1|22|38742|161755493|'Pyramid Roofing'|pyramid roofing|false
+Mueller Tennessee Distribution Center|Mueller Co. LLC|TN|1|2|27|48412|363658415|'Mueller'|mueller|false
+Main|On Top Roofing LLC|HI|1|1|16|11627|800237026|'On Top Roofing'|on top roofing|false
+Nations Roof of IL|Nations Roof|IL|1|21|38|76787|205762830|'Nations Roof'|nations roof|false
+Hillside 2|Dynamic Manufacturing|IL|1|3|356|719192|363989759|'Dynamic National'|dynamic|false
+Cornerstone Management|Cornerstone Management Services|MN|1|3|663|1082302|301166683|'Cornerstone Construction'|cornerstone|false
+Hillside 1|Dynamic Manufacturing|IL|1|3|669|1272877|363989759|'Dynamic National'|dynamic|false
+Chowchilla|CertainTeed Corporation|CA|1|22|196|406949|232510893|'CertainTeed'|certainteed|false
+Asheville|Baker Roofing|NC|1|1|31|48035|560130810|'Baker Roofing'|baker roofing|false
+Baker Service|Baker Roofing|NC|1|1|60|145821|560130810|'Baker Roofing'|baker roofing|false
+Birmingham|Baker Roofing|AL|1|1|12|20878|560130810|'Baker Roofing'|baker roofing|false
+Bristol|Baker Roofing|VA|1|1|11|21188|560130810|'Baker Roofing'|baker roofing|false
+Charleston|Baker Roofing|SC|1|1|53|90529|560130810|'Baker Roofing'|baker roofing|false
+Charlotte|Baker Roofing|NC|1|1|66|136499|560130810|'Baker Roofing'|baker roofing|false
+Chattanooga|Baker Roofing|TN|1|1|15|36467|560130810|'Baker Roofing'|baker roofing|false
+Chesapeake|Baker Roofing|VA|1|1|32|66740|560130810|'Baker Roofing'|baker roofing|false
+Coating|Baker Roofing|NC|1|1|11|24627|560130810|'Baker Roofing'|baker roofing|false
+Columbia|Baker Roofing|SC|1|1|16|28415|560130810|'Baker Roofing'|baker roofing|false
+Garage|Baker Roofing|NC|1|1|9|19346|560130810|'Baker Roofing'|baker roofing|false
+Greensboro|Baker Roofing|NC|1|1|49|102120|560130810|'Baker Roofing'|baker roofing|false
+Greenville NC|Baker Roofing|NC|1|1|12|20370|560130810|'Baker Roofing'|baker roofing|false
+Greenville SC|Baker Roofing|SC|1|1|16|39085|560130810|'Baker Roofing'|baker roofing|false
+Harrisonburg, VA|Baker Roofing|VA|1|1|32|66016|560130810|'Baker Roofing'|baker roofing|false
+Memphis|Baker Roofing|TN|1|1|7|21576|560130810|'Baker Roofing'|baker roofing|false
+Myrtle Beach|Baker Roofing|SC|1|1|14|29105|560130810|'Baker Roofing'|baker roofing|false
+Nashville|Baker Roofing|TN|1|1|42|79740|560130810|'Baker Roofing'|baker roofing|false
+Orlando|Baker Roofing|FL|1|1|21|36726|560130810|'Baker Roofing'|baker roofing|false
+Pensacola|Baker Roofing|FL|1|1|11|20575|560130810|'Baker Roofing'|baker roofing|false
+Baker Roofing Corporate|Baker Roofing|NC|1|1|250|540388|560130810|'Baker Roofing'|baker roofing|false
+Residential|Baker Roofing|NC|1|1|57|123140|560130810|'Baker Roofing'|baker roofing|false
+Residential Branches|Baker Roofing|NC|1|1|16|33727|560130810|'Baker Roofing'|baker roofing|false
+Restoration|Baker Roofing|NC|1|1|28|54990|560130810|'Baker Roofing'|baker roofing|false
+Savannah, GA|Baker Roofing|GA|1|1|6|11852|560130810|'Baker Roofing'|baker roofing|false
+1515 Lake Wheeler/SMS|Baker Roofing|NC|1|1|2|3880|560130810|'Baker Roofing'|baker roofing|false
+Special Projects|Baker Roofing|NC|1|1|25|48885|560130810|'Baker Roofing'|baker roofing|false
+Tampa|Baker Roofing|FL|1|1|8|14442|560130810|'Baker Roofing'|baker roofing|false
+Wilmington|Baker Roofing|NC|1|1|39|62690|560130810|'Baker Roofing'|baker roofing|false
+Woodbridge|Baker Roofing|VA|1|1|12|19126|560130810|'Baker Roofing'|baker roofing|false
+WP&C|Baker Roofing|NC|1|1|3|5821|560130810|'Baker Roofing'|baker roofing|false
+York,PA|Baker Roofing|PA|1|1|4|5699|541136608|'Baker Roofing'|baker roofing|false
+Cornerstone|Cornerstone Solutions Group|FL|1|3|265|567361|611632592|'Cornerstone Construction'|cornerstone|false
+31 - PORTLAND BRANCH|Beacon Roofing Supply Inc|ME|1|21|21|41184|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+101 - ORANGE BRANCH|Beacon Roofing Supply Inc|CA|1|21|19|37938|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+102 - GARDENA BRANCH|Beacon Roofing Supply Inc|CA|1|21|24|47710|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+112 - SAN BERNARDINO BRANCH|Beacon Roofing Supply Inc|CA|1|21|21|41555|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+118 - MESA BRANCH|Beacon Roofing Supply Inc|AZ|1|21|33|66815|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+121 - SAN JOSE BRANCH|Beacon Roofing Supply Inc|CA|1|21|21|41914|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+127 - LOS ANGELES BRANCH|Beacon Roofing Supply Inc|CA|1|21|24|47054|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+132 - ANAHEIM BRANCH|Beacon Roofing Supply Inc|CA|1|21|28|55525|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+136 - PHOENIX BRANCH|Beacon Roofing Supply Inc|AZ|1|21|34|67281|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+140 - SAN LEANDRO BRANCH|Beacon Roofing Supply Inc|CA|1|21|29|57090|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+152 - FORT COLLINS BRANCH|Beacon Roofing Supply Inc|CO|1|21|22|43415|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+171 - SPOKANE VALLEY BRANCH|Beacon Roofing Supply Inc|WA|1|21|25|50966|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+175 - SALT LAKE CITY BRANCH|Beacon Roofing Supply Inc|UT|1|21|20|40822|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+191 - ALBUQUERQUE BRANCH|Beacon Roofing Supply Inc|NM|1|21|20|40307|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+219 - OAK FOREST BRANCH|Beacon Roofing Supply Inc|IL|1|21|22|43429|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+228 - GRAND RAPIDS BRANCH|Beacon Roofing Supply Inc|MI|1|21|28|55040|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+257 - LOUISVILLE BRANCH|Beacon Roofing Supply Inc|KY|1|21|22|43667|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+262 - CLEVELAND BRANCH|Beacon Roofing Supply Inc|OH|1|21|23|45372|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+300 - DENVER HUB BRANCH|Beacon Roofing Supply Inc|CO|1|21|72|143022|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+311 - LEWES BRANCH|Beacon Roofing Supply Inc|DE|1|21|20|40656|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+331 - BRADDOCK BRANCH|Beacon Roofing Supply Inc|PA|1|21|37|73351|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+345 - LEVITTOWN BRANCH|Beacon Roofing Supply Inc|PA|1|21|26|52464|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+363 - MIDDLETOWN BRANCH|Beacon Roofing Supply Inc|NY|1|21|20|39764|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+364 - CEDAR KNOLLS BRANCH|Beacon Roofing Supply Inc|NJ|1|21|21|41783|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+365 - EAST RUTHERFORD BRANCH|Beacon Roofing Supply Inc|NJ|1|21|46|92533|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+375 - WALL TOWNSHIP BRANCH|Beacon Roofing Supply Inc|NJ|1|21|20|39514|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+380 - HICKSVILLE BRANCH|Beacon Roofing Supply Inc|NY|1|21|50|100920|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+385 - LONG ISLAND CITY BRANCH|Beacon Roofing Supply Inc|NY|1|21|28|55869|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+400 - PICO RIVERA BRANCH|Beacon Roofing Supply Inc|CA|1|21|30|60278|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+401 - GOLDSBORO BRANCH|Beacon Roofing Supply Inc|NC|1|21|27|53503|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+402 - CHARLOTTE BRANCH|Beacon Roofing Supply Inc|NC|1|21|22|44032|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+404 - RALEIGH BRANCH|Beacon Roofing Supply Inc|NC|1|21|23|46064|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+430 - MYRTLE BEACH BRANCH|Beacon Roofing Supply Inc|SC|1|21|19|38722|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+441 - MEMPHIS BRANCH|Beacon Roofing Supply Inc|TN|1|21|23|45080|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+442 - CHARLOTTE BRANCH|Beacon Roofing Supply Inc|NC|1|21|24|48988|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+444 - RALEIGH BRANCH|Beacon Roofing Supply Inc|NC|1|21|25|50377|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+447 - COLUMBIA BRANCH|Beacon Roofing Supply Inc|SC|1|21|21|41281|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+478 - TOPEKA BRANCH- MW|Beacon Roofing Supply Inc|KS|1|21|24|48861|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+487 - OVERLAND PARK- MW|Beacon Roofing Supply Inc|KS|1|21|20|40972|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+504 - ALEXANDRIA BRANCH|Beacon Roofing Supply Inc|VA|1|21|43|85157|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+505 - MANASSAS NORTH BRANCH|Beacon Roofing Supply Inc|VA|1|21|50|99553|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+509 - COLUMBIA BRANCH|Beacon Roofing Supply Inc|MD|1|21|25|49667|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+510 - WHITE PLAINS BRANCH|Beacon Roofing Supply Inc|MD|1|21|19|38466|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+512 - SALISBURY BRANCH|Beacon Roofing Supply Inc|MD|1|21|21|41155|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+529 - NORTH POINT BRANCH|Beacon Roofing Supply Inc|MD|1|21|26|52656|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+588 - HONOLULU RSI BRANCH|Beacon Roofing Supply Inc|HI|1|21|24|48605|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+601 - HIGHWAY 6 BRANCH|Beacon Roofing Supply Inc|TX|1|21|40|79208|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+603 - GULF FREEWAY BRANCH|Beacon Roofing Supply Inc|TX|1|21|24|48940|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+608 - STAFFORD BRANCH|Beacon Roofing Supply Inc|TX|1|21|21|41064|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+611 - AUSTIN BRANCH|Beacon Roofing Supply Inc|TX|1|21|26|51904|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+620 - NORTH SAN ANTONIO BRANCH|Beacon Roofing Supply Inc|TX|1|21|19|38670|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+621 - AUSTIN BRANCH|Beacon Roofing Supply Inc|TX|1|21|32|63758|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+622 - KATY BRANCH|Beacon Roofing Supply Inc|TX|1|21|22|43531|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+628 - PROVO BRANCH|Beacon Roofing Supply Inc|UT|1|21|19|37299|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+632 - SAN ANTONIO BRANCH|Beacon Roofing Supply Inc|TX|1|21|37|74767|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+635 - DALLAS BRANCH|Beacon Roofing Supply Inc|TX|1|21|72|143983|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+648 - TIGARD BRANCH|Beacon Roofing Supply Inc|OR|1|21|19|38115|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+661 - TACOMA BRANCH|Beacon Roofing Supply Inc|WA|1|21|24|47383|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+682 - NORCO BRANCH|Beacon Roofing Supply Inc|CA|1|21|22|43522|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+693 - PLYMOUTH BRANCH|Beacon Roofing Supply Inc|MN|1|21|60|120147|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+694 - ST. PAUL BRANCH|Beacon Roofing Supply Inc|MN|1|21|37|73338|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+720 - JACKSONVILLE BRANCH CP|Beacon Roofing Supply Inc|FL|1|21|19|37931|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+723 - MIAMI BRANCH CP|Beacon Roofing Supply Inc|FL|1|21|26|51589|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+800 - HOUSTON OTC|Beacon Roofing Supply Inc|TX|1|21|46|92571|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+801 - NORTH ATLANTA BRANCH|Beacon Roofing Supply Inc|GA|1|21|20|40714|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+803 - JACKSONVILLE BRANCH|Beacon Roofing Supply Inc|FL|1|21|27|54225|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+813 - KENNESAW BRANCH|Beacon Roofing Supply Inc|GA|1|21|20|39955|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+839 - DES MOINES BRANCH|Beacon Roofing Supply Inc|IA|1|21|39|77197|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+844 - TUSCALOOSA BRANCH - DC|Beacon Roofing Supply Inc|AL|1|21|21|42913|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+850 - PEARL BRANCH|Beacon Roofing Supply Inc|MS|1|21|22|44532|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+857 - BIRMINGHAM BRANCH|Beacon Roofing Supply Inc|AL|1|21|19|37269|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+860 - ORLANDO BRANCH|Beacon Roofing Supply Inc|FL|1|21|36|72543|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+861 - TAMPA BRANCH|Beacon Roofing Supply Inc|FL|1|21|36|71457|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+862 - FT. MYERS BRANCH|Beacon Roofing Supply Inc|FL|1|21|52|103464|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+863 - DEERFIELD BRANCH|Beacon Roofing Supply Inc|FL|1|21|21|41405|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+864 - MIAMI BRANCH|Beacon Roofing Supply Inc|FL|1|21|29|58310|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+865 - SOUTH ORLANDO BRANCH|Beacon Roofing Supply Inc|FL|1|21|23|46869|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+871 - PALMETTO BRANCH|Beacon Roofing Supply Inc|FL|1|21|25|50312|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+873 - ORLANDO BRANCH|Beacon Roofing Supply Inc|FL|1|21|32|63844|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+874 - POLK COUNTY BRANCH|Beacon Roofing Supply Inc|FL|1|21|23|46490|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+876 - PINELLAS PARK BRANCH|Beacon Roofing Supply Inc|FL|1|21|19|38593|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+877 - SARASOTA BRANCH|Beacon Roofing Supply Inc|FL|1|21|47|93850|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+881 - FORT PIERCE BRANCH|Beacon Roofing Supply Inc|FL|1|21|31|61039|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+886 - PALM BEACH BRANCH|Beacon Roofing Supply Inc|FL|1|21|19|38754|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+888 - LARGO BRANCH|Beacon Roofing Supply Inc|FL|1|21|27|54435|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+891 - NORTH PORT BRANCH|Beacon Roofing Supply Inc|FL|1|21|36|71346|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+939 - OFALLON BRANCH|Beacon Roofing Supply Inc|MO|1|21|20|39946|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+940 - ST. LOUIS BRANCH|Beacon Roofing Supply Inc|MO|1|21|23|46656|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+968 - FT. WORTH ROOFING BRANCH|Beacon Roofing Supply Inc|TX|1|21|23|45154|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+976 - GRAND PRAIRIE BRANCH|Beacon Roofing Supply Inc|TX|1|21|26|52943|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+997 - OKLAHOMA CITY BRANCH|Beacon Roofing Supply Inc|OK|1|21|21|42783|364173366|'Beacon Roofing Supply'|beacon roofing supply|false
+CertainTeed Athens|CertainTeed|GA|1|22|200|467072|232510893|'CertainTeed'|certainteed|false
+Advanced Roofing Inc|Advanced Roofing Inc|FL|1|3|635|133185081||'Advanced Roofing', 'Advanced Roofing Services'|advanced roofing|true
+1st Choice Roofing Company|1st Choice Roofing Company|OH|1|21|20|37156|113793690|'1st Choice Roofing Contractors'|1st choice roofing|false
+Superior Roofing, Inc.|Superior Roofing, Inc.|CO|1|21|75|158970|840917537|'Superior Roofing'|superior roofing|false
+Highland Commercial Roofing, LLC|Highland Commercial Roofing, LLC|AZ|1|21|21|41280|260502952|'Highland Commercial Roofing'|highland commercial roofing|false
+Roofing by Curry|Roofing by Curry|FL|1|22|238|497120|650847999|'Roofing by Curry'|roofing by curry|false
+COMMERCIAL ROOFING LLC|COMMERCIAL ROOFING LLC|NM|1|21|42|78389|850457633|'Commercial Roofing', 'Commercial Roofing Services'|commercial roofing|true
+Triad Corp.|Triad Corp.|TN|1|21|77|136185||'Triad'|triad|false
+Pinnacle Roofing Inc.|Pinnacle Roofing Inc.|NY|1|21|24|46539|200593022|'Pinnacle Roofing Contractors'|pinnacle roofing|false
+O'NEAL JR. ROOFING, INC|O'NEAL JR. ROOFING, INC.|FL|1|21|22|42108|264621172|'O'Neal Jr. Roofing'|o'neal jr. roofing|false
+CB ROOFING CONSTRUCTION INC|CB ROOFING CONSTRUCTION INC.|FL|1|21|25|40249|271187783|'Cb Roofing Services'|cb roofing|false
+CMR CONSTRUCTION & ROOFING, LLC-TN|CMR CONSTRUCTION & ROOFING, LLC|TN|1|21|72|138381|710873844|'CMR Construction & Roofing'|cmr construction & roofing|false
+CMR CONSTRUCTION & ROOFING, LLC-FL|CMR CONSTRUCTION & ROOFING, LLC|FL|1|21|132|269252|710873844|'CMR Construction & Roofing'|cmr construction & roofing|false
+STRATUS ROOFING|STRATUS CONSTRUCTION & ROOFING, LLC|FL|1|21|29|57062|474208903|'Stratus Construction & Roofing'|stratus construction & roofing|false
+Active Roofing LLC|Active Roofing LLC|IL|1|21|44|121780|873402093|'Active Roofing'|active roofing|false
+Central Roofing Company|Central Roofing Company|MN|1|2|153|317586|410737497|'Central Roofing'|central roofing|false
+McCoy's Building Supply-Montgomery|McCoy's Corporation|TX|1|21|48|84449|741542718|'McCoy's'|mccoy's|false
+Whitco Roofing Inc.|Whitco Roofing Inc.|GA|1|21|43|88676|271843217|'Whitco Roofing Inc.'|whitco roofing|false
+Protech Roofing Systems LLC|Protech Roofing Systems LLC|TX|1|21|59|119250|274452657|'Protech Roofing Services'|protech roofing|false
+Bill Shields Roofing, Inc.|Bill Shields Roofing, Inc.|FL|1|21|39|98266|591502277|'Bill Shields Roofing'|bill shields roofing|false
+Beldon Roofing & Remodeling Co|Beldon Roofing & Remodeling Co|TX|1|22|138|430560|741316691|'Beldon Roofing & Remodeling'|beldon roofing & remodeling|false
+New Process Steel, L.P., Butler|New Process Steel|IN|1|21|42|87830|760621168|'New Process Steel'|new process steel|false
+MT3 Corporation|Diamond Everley Roofing Contractors|KS|1|21|40|51751|481048575|'Diamond Everley Roofing Contractors'|diamond everley roofing|false
+Sutter Roofing Company|Sutter Roofing Company|FL|1|3|250|607464||'Sutter Roofing'|sutter roofing|false
+Renco Roofing|Renco Roofing|AZ|1|21|65|125664||'RENCO Roofing'|renco roofing|false
+Prowest, LLC|Prowest, LLC|AZ|1|21|40|135039||'ProWest'|prowest|false
+Ragan Construction Co., Inc.|Southern Roofing Co.|TN|1|21|30|56100|621250563|'Southern Roofing Company'|southern roofing|false
+McCoy's Reload Center|McCoy's Corporation|TX|1|21|81|153661|741542718|'McCoy's'|mccoy's|false
+Hamilton Roofing Inc|Hamilton Roofing Inc|FL|1|21|40|75460||'Hamilton Roofing'|hamilton roofing|false
+Top Line Roofing|Top Line Roofing Inc|CA|1|1|12|19200|161615195|'Top Line Roofing Contractors'|top line roofing|false
+Thomas Carter|Triad Manufacturing Inc|MO|1|3|359|685176|431587028|'Triad'|triad|false

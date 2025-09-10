@@ -1,0 +1,1270 @@
+establishment_name|company_name|state|establishment_type|size|annual_average_employees|total_hours_worked|ein|match_company_name|stripped_company_name|company_name_multiple_match
+Gluth Brothers Roofing Company Inc.|Gluth Brothers Roofing Company Inc.|IN|1|2|51|75521|351850178|'Gluth Brothers Roofing Co. Inc.'|gluth brothers roofing|false
+Rain King, Inc.|Rain King, Inc.|TX|1|2|49|92837|742775327|'Rain King Inc.'|rain king|false
+North Central Insulation|North Central Insulation|OH|1|2|121|251680|341521877|'North Central Insulation'|north central insulation|false
+DePinho Roofing, Inc.|DePinho Roofing, Inc.|CA|1|2|65|133136|330589690|'DePinho Roofing'|depinho roofing|false
+RSSI Roofing Company|RSSI Roofing Company|MD|1|2|52|97651|274644285|'RSSI Roofing Company'|rssi roofing|false
+Roof Maintenance Systems|Roof Maintenance Systems|NJ|1|2|19|30428|222016917|'Roof Maintenance Systems'|roof maintenance|false
+Precision Manufacturing Company Inc.|Precision Manufacturing Company Inc.|OH|1|2|98|179438|310735816|'Precision Construction Services'|precision|false
+O'Neal Manufacturing Services Houston|O'Neal Industries|TX|1|2|133|406675|464009440|'O'Neal Construction'|o'neal|false
+The Gehringer Corporation|The Gehringer Corporation|PA|1|2|19|38112|232299879|'The Gehringer Corp.'|the gehringer|false
+CRAWFORD ROOFING INC.|CRAWFORD ROOFING INC.|OK|1|2|73|5094450|730951924|'Crawford Roofing Corp.', 'Crawford Roofing Inc.'|crawford roofing|true
+White Castle Lincoln|White Castle Roofing|NE|1|2|163|313865|753006516|'White Castle Roofing'|white castle roofing|false
+URSM|United Roofing & Sheet Metal, Inc.|CT|1|2|41|72053|472424796|'United Roofing & Sheet Metal Inc.'|united roofing & sheet metal|false
+Merit Contracting|Merit Contracting|MN|1|2|68|118637|411426936|'Merit Contracting Inc.'|merit contracting|false
+A Brooks Roofing Inc|A Brooks Roofing Inc|NJ|1|2|45|91737|222902030|'A Brooks Roofing Inc.'|a brooks roofing|false
+Atlas Roofing Corporation|Atlas Roofing Corporation|GA|1|2|42|97279|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+M. Potteiger Inc.|M. Potteiger Inc.|PA|1|2|26|38138|231709914|'M. Potteiger Inc.'|m. potteiger|false
+ATLAS ROOFING CORPORATION|ATLAS ROOFING CORPORATION|TX|1|2|107|262372|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Buckhorn Inc|Myers Industries|MO|1|3|325|878254||'Myers Consulting'|myers|false
+Environmental Roofing & Waterproofing Main Offices|Environmental Roofing & Waterproofing|CA|1|2|43|60302|770572713|'Environmental Roofing & Waterproofing, Inc.'|environmental roofing & waterproofing|false
+Allied Roofing, Inc.|Allied Roofing, Inc.|FL|1|2|28|56584|592690416|'Allied Roofing Inc.'|allied roofing|false
+International Roofing Corporation|International Roofing Corporation|VA|1|2|27|42282|541500362|'International Roofing Corp.'|international roofing|false
+Blair Rubber Company|IKO Industries LTD|OH|1|2|65|155128|341351173|'IKO Industries'|iko|false
+United Manufacturing Inc.|United Manufacturing Inc.|KS|1|2|24|48277|480684406|'United Contractors'|united|false
+Construction Roofing|Granite City Roofing, Inc.|MN|1|2|25|34818|411266940|'Granite City Roofing Inc.'|granite city roofing|false
+Polartec Tennessee Manufacturing|Milliken & Company|TN|1|2|215|529275||'Milliken & Company'|milliken &|false
+Webco Industries - Mannford Speciality Tube|Webco Industries|OK|1|2|230|467126|731097133|'WEBCO Services LLC'|webco|false
+CertainTeed Corporation Williamsport Maryland|CertainTeed Corporation|MD|1|3|314|602216||'CertainTeed LLC'|certainteed|false
+Boak & Sons, Inc.|Boak & Sons, Inc.|OH|1|2|154|229301|341368121|'Boak & Sons Inc.'|boak & sons|false
+Custofoam Corporation|Custofoam Corporation|WI|1|2|21|36370|391178726|'Custofoam Corp.'|custofoam|false
+Nu-Tec Roofing Contractors|Nu-Tec Roofing Contractors LLC|IN|1|2|60|127813|352114307|'Nu-Tec Roofing Contractors LLC'|nu-tec roofing|false
+Restoration Systems Inc.|Restoration Systems Inc.|MN|1|2|45|87064|411890683|'Restoration Services Inc.'|restoration|false
+300 A|TRANS COASTAL CONSTRUCTION|FL|1|2|12|20194||'Trans Coastal Construction'|trans coastal|false
+Anderson Global Inc.|Anderson Global Inc.|MI|1|2|70|158120|382413917|'Anderson Associates'|anderson|false
+Red Pointe Roofing, LP|Red Pointe Roofing, LP|CA|1|2|94|192134|900957014|'Red Pointe Roofing'|red pointe roofing|false
+Weathergard Inc|Weathergard Inc|NC|1|2|29|51950||'Weathergard Inc.'|weathergard|false
+RSI of Florida, LLC|RSI of Florida, LLC|FL|1|2|47|102202|592574965|'RSI of Florida Inc.'|rsi of florida|false
+MRC Roofing, LLC|MRC Roofing, LLC|HI|1|2|32|56851|274488625|'MRC Roofing LLC'|mrc roofing|false
+Commercial Roofing Contractor|Interstate Roofing Co Inc|NC|1|2|34|78489||'Interstate Roofing Inc.'|interstate roofing|false
+O'Neal Manufacturing Services|O'Neal Manufacturing Services|IN|1|2|109|262929|464009446|'O'Neal Construction'|o'neal|false
+Viking Roofing, Inc|Viking Roofing, Inc|NH|1|2|15|29148||'Viking Roofing Inc.'|viking roofing|false
+Commonwealth Building Inc.|Commonwealth Building Inc.|MA|1|2|32|66560|42706053|'Commonwealth Building Systems LLC'|commonwealth building|false
+McEnany Roofing, Inc T|McEnany Roofing, Inc|FL|1|2|145|263514|592583665|'McEnany Roofing Inc.'|mcenany roofing|false
+Port Industries Inc|Port Industries Inc|MO|1|2|48|91635|340904575|'Port Enterprises', 'Port Enterprises Ltd.'|port|true
+Cardinal Roofing, Inc.|Cardinal Roofing, Inc.|TX|1|2|55|118974|751802132|'Cardinal Roofing', 'Cardinal Roofing Inc.'|cardinal roofing|true
+Pro Services Construction|Pro Services Construction|KY|1|2|18|42997|920193998|'Pro Services CO LLC'|pro|false
+King of Texas Roofing|King of Texas Roofing|TX|1|2|69|143899|752969578|'King of Texas Roofing Company LP'|king of texas roofing|false
+Gustav Keoni dba Precision Construction Services|Precision Construction Services|CA|1|2|43|72187||'Precision Construction Services'|precision|false
+A.H. Sturgill Roofing, Inc.|A.H. Sturgill Roofing, Inc.|OH|1|2|24|41233|311366660|'A.H. Sturgill Roofing Inc.'|a.h. sturgill roofing|false
+Tri-State Roofing & Sheet Metal Company|Tri-State Roofing & Sheet Metal|WV|1|2|23|37756|471425515|'Tri-State Roofing & Sheet Metal Company'|tri-state roofing & sheet metal|false
+Haydon Corporation TX|Haydon Corporation|TX|1|2|45|102552||'Haydon Corporation'|haydon|false
+AOC Tennessee Resins|Alpha Corporation|TN|1|2|66|166178||'Alpha Construction Services'|alpha|false
+Haydon Corporation CA|Haydon Corporation|CA|1|2|23|40447||'Haydon Corporation'|haydon|false
+Haydon Corporation NJ|Haydon Corporation|NJ|1|2|142|309957||'Haydon Corporation'|haydon|false
+Gillespie Roofing, Inc.|Gillespie Roofing, Inc.|WA|1|2|12|20867|911334128|'Gillespie Roofing Inc.'|gillespie roofing|false
+6304_14768|Architectural Metals Inc|MI|1|2|44|77865|382755753|'Architectural Metals, Inc.'|architectural metals|false
+Saukville|JT Rams LLC|WI|1|2|23|37409||'JT Rams'|jt rams|false
+Scott Construction Corporation|Scott Construction Corporation|ME|1|2|21|40000|453355039|'Scott Enterprises Inc.'|scott|false
+Platinum Roofing, LLC|Platinum Roofing, LLC|AR|1|2|43|128012|472769625|'Platinum Roofing', 'Platinum Roofing LLC', 'Platinum Roofing Solutions INC'|platinum roofing|true
+warehouse|JRT Top Notch Roofs, LLC|WI|1|2|10|17500||'JRT Top Notch Roofs LLC'|jrt top notch roofs|false
+Boone County Headquarters (Monarch Construction Company)|Monarch Construction Company|KY|2|2|62|114154|7615800|'Monarch Consulting Services'|monarch|false
+Shay Roofing Inc.|Shay Roofing INC.|IL|1|2|57|81258|371298422|'Shay Roofing Inc.'|shay roofing|false
+FoB 10|Function Inc.|PA|1|2|157|280164|474804405|'Function Enterprises Inc.'|function|false
+FoB 8|Function Inc.|MI|1|2|144|274327|474804405|'Function Enterprises Inc.'|function|false
+FoB 9|Function Inc.|NY|1|1|52|98880|474804405|'Function Enterprises Inc.'|function|false
+James R. Walls Contracting|James R. Walls Contracting|MD|1|2|43|77993|521085544|'James R. Walls Contracting Co. Inc.'|james r. walls contracting|false
+Huntsman Building Solutions - Arlington TX|Huntsman Building Solutions|TX|1|2|120|284326|463224688|'Huntsman Building Solutions'|huntsman building|false
+Atlas Molded Products, A Division of Atlas Roofing Corporation|Atlas Roofing Corporation|IA|1|2|53|104645|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Apple Roofing Corp.|Apple Roofing Corp.|NY|1|2|51|62817|161198739|'Apple Roofing Corp.'|apple roofing|false
+Detwiler Roofing, LLC|Detwiler Roofing, LLC|PA|1|2|50|70769|460559033|'Detwiler Roofing LLC'|detwiler roofing|false
+JDH Company Inc.|JDH Company|TN|1|2|55|162333||'JDH Co. Inc.'|jdh|false
+Cylinder Manufacturing Valve & Pump Plant|Cross Manufacturing|KS|1|2|59|111818|480668545|'Cross Construction CO. INC.'|cross|false
+B-E Controls LLC|B-E Controls LLC|WI|1|1|8|14069|454536522|'B-E Controls'|b-e controls|false
+Atlas - Phoenix|Atlas Roofing Corp|AZ|1|2|22|50190|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Atlas - Northglenn|Atlas Roofing Corporation|CO|1|2|31|65406|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Nations Roof of Indiana LLC|Nations Roof|IN|1|2|21|59202|822431871|'Nations Roof', 'Nations Roof LLC'|nations roof|true
+Lutz Roofing Inc|Lutz Roofing Inc|MI|1|2|209|300833|382423268|'Lutz Roofing Co. Inc.'|lutz roofing|false
+RW Screw LLC|Precision Capital LTD|OH|1|3|220|467476||'Precision Construction Services'|precision|false
+Peterson Contractors Inc|Peterson Contractors Inc|IA|1|3|492|1307055|421489470|'Peterson Consulting Group'|peterson|false
+Commercial Roofers, Inc.|Commercial Roofers, Inc.|NV|1|2|319|394252|880371026|'Commercial Roofers Inc.'|commercial roofers|false
+Peterson Cotractors, Inc.|Peterson Contractors Inc.|IA|1|3|492|1307055|420921654|'Peterson Consulting Group'|peterson|false
+Rio Roofing, Inc.|Rio Roofing, Inc.|TX|1|2|35|74413|742427440|'Rio Roofing', 'Rio Roofing Inc.'|rio roofing|true
+PAGE, INC d/b/a Save-A-Lot|PAGE, INC|KY|1|2|25|36927|611209618|'Page'|page|false
+Parsons Company INC|Parsons Company INC|IL|1|2|220|416121||'Parsons Corporation'|parsons|false
+Weathercraft, Inc.|Weathercraft, Inc.|MO|1|2|31|52704|431206531|'Weathercraft Inc.'|weathercraft|false
+Millwork & Panel LLC- Social Circle|CertainTeed LLC|GA|1|2|55|94809|320613145|'CertainTeed LLC'|certainteed|false
+Myers Industries South Bend|Myers Industries|IN|1|2|120|247460||'Myers Consulting'|myers|false
+Crabapple Roofing Contractors LLC|Crabapple Roofing Contractors LLC|GA|1|2|29|60320|272382332|'Crabapple Roofing Contractors LLC'|crabapple roofing|false
+Unilock New York Inc. Boston Division|Unilock|MA|1|2|65|124505|980103212|'Unilock'|unilock|false
+Owens Corning|Owens Corning|MO|1|2|209|438415|250729265|'Owens Corning'|owens corning|false
+Weathercraft Co. of Lincoln|Weathercraft Co. of Lincoln|NE|1|2|49|87616|470527585|'Weathercraft Co. of Lincoln'|weathercraft co. of lincoln|false
+FD Thomas|AIS|OR|1|3|25|1574247||'AIS Construction Inc'|ais|false
+J&B Installations, Inc.|J&B Installations, Inc.|NY|1|2|72|100759|161160437|'J&B Installations Inc.'|j&b installations|false
+Atlas Roofing|Atlas Roofing|MO|1|2|39|83941|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Delta Innovative Services Inc|Delta Innovative Services|KS|1|2|125|229159|200820115|'Delta Innovative Services'|delta innovative|false
+DB2 Services Inc|DB2 Services Inc|KS|1|2|67|118198|264075785|'DB2 Services Inc.'|db2|false
+Diamond Roofing Systems, LLP|Diamond Roofing Systems|OH|1|2|42|98017|462010388|'Diamond Roofing', 'Diamond Roofing Co. Inc.', 'Diamond Roofing Systems'|diamond roofing|true
+Precision Industries Inc.|Precision Industries|GA|1|2|40|106992|480758278|'Precision Construction Services'|precision|false
+Kleinfelder|Kleinfelder|CA|1|3|2165|3853919|941532513|'Kleinfelder, Inc'|kleinfelder|false
+Bornor Restoration Inc|Bornor Restoration Inc|MI|1|2|34|65163|381865292|'Bornor Restoration Inc.'|bornor restoration|false
+6651_15529|WWRC, Inc.|NM|1|2|35|45061|850424702|'WWRC Inc.'|wwrc|false
+Klein Contracting|Klein Contracting|GA|1|2|42|76704|581848504|'Klein Contracting Corp.'|klein contracting|false
+Mint Roofing|Mint Roofing|MN|1|2|51|77621|810389786|'Mint Roofing Inc.'|mint roofing|false
+Great Lakes Manufacturing|Great Lakes Manufacturing|PA|1|2|91|197592|232922556|'Great Lakes Systems Inc.'|great lakes|false
+Highland Roofing Company Inc|Highland Roofing Company Inc|KY|1|2|78|102084|610648151|'Highland Roofing Co. Inc.', 'Highland Roofing Company'|highland roofing|true
+Hertless Brothers Roofing, Inc.|Hertless Brothers Roofing, Inc.|VA|1|2|20|37480|202009976|'Hertless Brothers Roofing Inc.'|hertless brothers roofing|false
+United Construction Co Inc|United Construction Co Inc.|WV|1|2|130|282705|550676159|'United Contractors'|united|false
+Western Pacific Roofing- Palm Springs|Western Pacific Roofing Corp.|CA|1|2|22|44875|952386834|'Western Pacific Roofing Corp.'|western pacific roofing|false
+Western Pacific Roofing- Palmdale|Western Pacific Roofing Corp.|CA|1|2|38|78290|952386834|'Western Pacific Roofing Corp.'|western pacific roofing|false
+Register Roofing & Sheet Metal, Inc.|Register Roofing & Sheet Metal, Inc.|FL|1|2|83|161784|542069021|'Register Roofing & Sheet Metal Inc.'|register roofing & sheet metal|false
+Jeff Eubank Roofing|Jeff Eubank Roofing|TX|1|2|61|140113|752250258|'Jeff Eubank Roofing Co. Inc.'|jeff eubank roofing|false
+Jamestown Roofing, Inc|Jamestown Roofing, Inc.|NY|1|2|35|44292|160763355|'Jamestown Roofing Inc.'|jamestown roofing|false
+Harness Roofing HS|Harness Roofing, Inc.|AR|1|2|52|107420|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing SD|Harness Roofing, Inc.|AR|1|2|70|144604|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing FS|Harness Roofing, Inc.|AR|1|2|50|103289|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing LR|Harness Roofing, Inc.|AR|1|2|36|74368|710654212|'Harness Roofing Inc.'|harness roofing|false
+Anderson Construction|Anderson Construction|VA|1|2|75|158351|541759167|'Anderson Associates'|anderson|false
+Harness Roofing TS|Harness Roofing, Inc.|OK|1|2|38|83110|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing Corp|Harness Roofing, Inc.|AR|1|2|22|45447|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing MN|Harness Roofing Inc.|LA|1|1|8|15822|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing TX|Harness Roofing, Inc.|AR|1|1|5|10329|710654212|'Harness Roofing Inc.'|harness roofing|false
+Skyway Roofing, Inc.|Skyway Roofing, Inc.|NY|1|2|37|76960|141763964|'Skyway Roofing Inc.'|skyway roofing|false
+Willham Roofing Co. Inc.|Willham Roofing Co. Inc.|OH|1|2|22|53047||'Willham Roofing Co. Inc.'|willham roofing|false
+GM Construction LLC|GM Construction LLC|NV|1|2|46|89174|472223810|'GM Consulting LLC'|gm|false
+RSI Roofing, Inc.|RSI Roofing, Inc.|NY|1|2|35|62598|161212717|'RSI Roofing Inc.'|rsi roofing|false
+Williamsburg Office|Pyramid Roofing|VA|1|1|15|26415|161755493|'Pyramid Roofing Co. Inc.'|pyramid roofing|false
+Hampton Office|Pyramid Roofing|VA|1|1|24|42264|161755493|'Pyramid Roofing Co. Inc.'|pyramid roofing|false
+Brothers Construction LLC|Brothers Construction LLC|NC|1|2|92|89295|473488124|'Brothers Services Co.'|brothers|false
+Building Envelope Systems|Building Envelope Systems|MA|1|2|67|132169|454071476|'Building Envelope Contractors Inc.'|building envelope|false
+Summit Engineering, Inc.|Summit Engineering, Inc.|KY|1|2|37|67651|610991104|'Summit Engineering Consulting'|summit engineering|false
+Restoration Services Inc.|Restoration Services Inc.|TX|1|2|117|155952|760044493|'Restoration Services Inc.'|restoration|false
+Wayne's Roofing, Inc.|Wayne's Roofing, Inc.|WA|1|2|127|212937|910949176|'Wayne's Roofing Inc.'|wayne's roofing|false
+Webco Oklahoma Distribution|Webco Industries|OK|1|2|51|109447|731097133|'WEBCO Services LLC'|webco|false
+Webco - Texas Distribution|Webco Industries|TX|1|2|34|70779|731097133|'WEBCO Services LLC'|webco|false
+Service Roofing & Sheet Metal Co.|Service Roofing & Sheet Metal Co.|NC|1|2|33|60850|561081076|'Service Roofing & Sheet Metal Company'|service roofing & sheet metal|false
+atlas|atlas roofing corporation|TX|1|2|46|102608|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Carlisle Polyurethane Systems - Emerson|Carlisle Construction Materials|GA|1|1|8|16461|464319816|'Carlisle Construction Materials'|carlisle construction materials|false
+Ashland|Boyd Company|KY|1|2|50|102146|610401854|'Boyd Inc.'|boyd|false
+Beckley|Boyd Company|WV|1|2|59|137291|610401854|'Boyd Inc.'|boyd|false
+Belle|Boyd Company|WV|1|2|101|212976|610401854|'Boyd Inc.'|boyd|false
+Brandenburg|Boyd Company|KY|1|1|3|5220|610401854|'Boyd Inc.'|boyd|false
+Bowling Green|Boyd Company|KY|1|2|44|91891|610401854|'Boyd Inc.'|boyd|false
+Corbin|Boyd Company|KY|1|2|69|143013|610401854|'Boyd Inc.'|boyd|false
+Dry Ridge|Boyd Company|KY|1|1|16|31978|610401854|'Boyd Inc.'|boyd|false
+Elizabethtown|Boyd Company|KY|1|2|28|58056|610401854|'Boyd Inc.'|boyd|false
+Evansville|Boyd Company|IN|1|2|72|150993|610401854|'Boyd Inc.'|boyd|false
+Hopkinsville|Boyd Company|KY|1|1|14|27270|610401854|'Boyd Inc.'|boyd|false
+Beckley Hydraulic|Boyd Company|WV|1|2|20|39586|610401854|'Boyd Inc.'|boyd|false
+Jackson|Boyd Company|OH|1|1|11|22226|610401854|'Boyd Inc.'|boyd|false
+Jeffersonville|Boyd Company|IN|1|1|19|37876|610401854|'Boyd Inc.'|boyd|false
+Jeffersontown|Boyd Company|KY|1|2|35|71899|610401854|'Boyd Inc.'|boyd|false
+Lexington|Boyd Company|KY|1|2|120|251433|610401854|'Boyd Inc.'|boyd|false
+Louisville|Boyd Company|KY|1|2|168|322169|610401854|'Boyd Inc.'|boyd|false
+Louisville Support Center|Boyd Company|KY|1|2|131|243456|610401854|'Boyd Inc.'|boyd|false
+Nitro|Boyd Company|WV|1|2|40|76635|610401854|'Boyd Inc.'|boyd|false
+Paducah|Boyd Company|KY|1|2|56|123498|610401854|'Boyd Inc.'|boyd|false
+Parkersburg|Boyd Company|WV|1|2|27|53361|610401854|'Boyd Inc.'|boyd|false
+Pikeville|Boyd Company|KY|1|2|90|196017|610401854|'Boyd Inc.'|boyd|false
+JM Manufacturing|JM Manufacturing|PA|1|2|124|274272|940895616|'JM Contractors Inc'|jm|false
+Carlson Racine Roofing and Sheet Metal Inc.|Carlson Racine Roofing and Sheet Metal Inc.|WI|1|2|46|72697|390833065|'Carlson Racine Roofing and Sheet Metal Inc.'|carlson racine roofing and sheet metal|false
+Kingsley Plant|Milliken & Company|GA|1|2|122|260076|510105342|'Milliken & Company'|milliken &|false
+Owens Corning Gastonia|Owens Corning|NC|1|2|88|180863|743189734|'Owens Corning'|owens corning|false
+River Roofing Inc.|River Roofing Inc.|OR|1|2|36|60354|931046398|'River Roofing Inc.'|river roofing|false
+UNITED CONSTRUCTION CORP|UNITED CONSTRUCTION CORP|NH|1|2|42|88273|20257849|'United Contractors'|united|false
+United Group Services|United Group Services|OH|1|3|257|718732|311035659|'United Contractors'|united|false
+Elite Welding Academy|United Group Services|OH|1|1|17|38935|510606029|'United Contractors'|united|false
+Tiffin OH Soltech Owens Corning|Owens Corning|OH|1|2|65|131817|432109021|'Owens Corning'|owens corning|false
+TMJ Construction Services|TMJ Construction Services|IA|1|2|19|45814|542149654|'TMJ Construction Services LLC'|tmj|false
+OSHAA 300A|Monarch Construction|OH|2|2|62|114154|311122357|'Monarch Consulting Services'|monarch|false
+Griffith Roofing Co.|Griffith Roofing Co.|OR|1|2|40|69578||'Griffith Roofing Co.'|griffith roofing|false
+Bell Roof Company|Bell Roof Company|CA|1|2|31|51911|951620634|'Bell Roof Co.'|bell roof|false
+Service Roofing Company|Service Roofing Company|IA|1|2|24|32349|420895028|'Service Roofing Co.'|service roofing|false
+IRS Jackson|Independent Roofing Systems|MS|1|2|150|343318|640657679|'Independent Roofing Company Inc.', 'Independent Roofing Systems Inc.'|independent roofing|true
+Conklin Company Inc.|Conklin Company Inc|MN|1|2|45|94000|410754077|'Conklin Co. Inc.'|conklin|false
+TW Metals - STP|O'Neal Industries|NJ|1|2|23|49946|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Cranbury|O'Neal Industries|NJ|1|2|30|66677|464009440|'O'Neal Construction'|o'neal|false
+WATER CONTROL ROOFING COMPANY INC|WATER CONTROL ROOFING COMPANY INC|TN|1|2|31|53400|621225632|'Water Control Roofing Co.'|water control roofing|false
+TW Metals - Wichita|O'Neal Industries|KS|1|2|46|98000|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Seattle|O'Neal Industries|WA|1|2|38|79808|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - LA|O'Neal Industries|CA|1|2|60|132466|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Exton|O'Neal Industries|PA|1|2|99|206294|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Cincinnati|O'Neal Industries|OH|1|2|30|66911|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Carol Stream|O'Neal Industries|IL|1|2|96|226340|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Atlanta|O'Neal Industries|GA|1|2|38|81623|464009440|'O'Neal Construction'|o'neal|false
+Celoseal Roofing Inc.|Celoseal Roofing Inc.|CA|1|2|46|60143|952647166|'Celoseal Roofing Inc.'|celoseal roofing|false
+John A. Dalsin & Son Inc|John A. Dalsin & Son Inc|MN|1|2|75|127537|411408661|'John A. Dalsin & Son Inc.'|john a. dalsin & son|false
+McPhillips Bros. Roofing Co|McPhillips Bros. Roofing Co|MN|1|2|42|40794|411521988|'McPhillips Bros. Roofing Co.'|mcphillips bros. roofing|false
+Paradise Valley Office Bldg A|Ari|AZ|1|2|89|178000||'ARI Consulting Services Corp'|ari|false
+Delta Contracting Inc.|Delta Contracting Inc.|NC|1|2|120|283264|561880490|'Delta Contracting Services Inc.'|delta contracting|false
+ASPEN MANUFACTURING LLC|ASPEN MANUFACTURING LLC|TX|1|3|369|1050835|453120278|'Aspen Group'|aspen|false
+Schulte Roofing|Schulte Roofing|TX|1|2|26|51135|810555670|'Schulte Roofing Inc.'|schulte roofing|false
+Palmer Services LLC|Palmer Services LLC|TX|1|2|32|68135|308939364|'Palmer Construction'|palmer|false
+CRW Inc|CRW Inc|OH|1|2|60|124407|341576048|'CRW Inc.'|crw|false
+Western Building Group|BEMO USA|AZ|1|2|136|284382|261333411|'BEMO USA Corp.'|bemo usa|false
+Continental Tire the Americas LLC - Sumter Plant|Continental Tire the Americas LLC|SC|1|3|1327|2886617||'Continental Tire the Americas LLC.'|continental tire the americas|false
+HRGM Corporation|HRGM Corporation|DC|1|2|55|92669|541144392|'HRGM Corp.'|hrgm|false
+GSM Roofing|GSM Roofing|PA|1|2|102|197551|232553249|'GSM Roofing'|gsm roofing|false
+NY|Neth & Son Inc|NY|1|2|110|135100|161010131|'Neth & Son Inc.'|neth & son|false
+OC -  Delmar, NY|Owens Corning|NY|1|3|310|460790||'Owens Corning'|owens corning|false
+The Roofing Company Inc|The Roofing Company Inc|CA|1|2|45|184817132||'The Roofing Company Inc.'|the roofing|false
+Quality Roofing Contractors of Southeast Missouri, Inc.|Quality Roofing Contractors of Southeast Missouri, Inc.|MO|1|2|88|179438|431200791|'Quality Roofing Contractors of Southeast Missouri Inc.'|quality roofing contractors of southeast missouri|false
+Fort-Cica Roofing & general Contractors|Fort-Cica Roofing & general Contractors|NY|1|2|32|61447|131763196|'Fort-Cica Roofing & General Contractors Inc.'|fort-cica roofing & general|false
+Schefers Roofing Co|Schefers Roofing Co.|MO|1|2|65|127717|431715763|'Schefers Roofing Co.'|schefers roofing|false
+Schefers Roofing Company|Schefers Roofing Company|AR|1|2|25|29245|113833862|'Schefers Roofing Co.'|schefers roofing|false
+Schefers Construction Services|SCHEFERS ROOFING|MO|1|1|4|1098|202556779|'Schefers Roofing Co.'|schefers roofing|false
+OKC - Star Center Tube|Webco Industries Inc.|OK|1|2|225|485359|731097133|'WEBCO Services LLC'|webco|false
+Armstrong International - Three Rivers Division|Armstrong International Inc.|MI|1|2|304|588437|380308010|'Armstrong Group Inc.'|armstrong|false
+CertainTeed|CertainTeed|PA|1|2|81|109196|232510893|'CertainTeed LLC'|certainteed|false
+Capitol Roofing Inc.|Capitol Roofing Inc.|WY|1|2|22|52000|830328938|'Capitol Roofing Inc.'|capitol roofing|false
+The Brewer Company|The Brewer Company|WI|1|2|118|232821|391979518|'The Brewer Co.'|the brewer|false
+GUNTER CONSTRUCTION ROOFING, INC.|GUNTER CONSTRUCTION ROOFING, INC.|KY|1|2|33|66321|611065364|'Gunter Construction Roofing Inc.'|gunter construction roofing|false
+The Ray Company, Inc.|The Ray Company, Inc.|NC|1|2|17|32652|560482744|'The RAY Company, Inc.'|the ray company|false
+Aavid Thermalloy|Boyd Corporation|NH|1|2|130|261303||'Boyd Inc.'|boyd|false
+1100|CentiMark Corporation|CT|1|2|57|69950|251194990|'CentiMark Corporation'|centimark|false
+1400|CentiMark Corporation|PA|1|2|69|82423|251194990|'CentiMark Corporation'|centimark|false
+1500|CentiMark Corporation|VA|1|2|54|70914|251194990|'CentiMark Corporation'|centimark|false
+1800|CentiMark Corporation|MA|1|2|74|104648|251194990|'CentiMark Corporation'|centimark|false
+1900|CentiMark Corporation|NJ|1|2|76|113876|251194990|'CentiMark Corporation'|centimark|false
+2100|CentiMark Corporation|OH|1|2|41|52538|251194990|'CentiMark Corporation'|centimark|false
+2200|CentiMark Corporation|OH|1|2|44|57709|251194990|'CentiMark Corporation'|centimark|false
+2210|CentiMark Corporation|IN|1|2|35|42443|251194990|'CentiMark Corporation'|centimark|false
+2220|CentiMark Corporation|OH|1|2|40|75203|251194990|'CentiMark Corporation'|centimark|false
+2250|CentiMark Corporation|IN|1|2|42|56660|251194990|'CentiMark Corporation'|centimark|false
+5310|CentiMark Corporation|OR|1|2|50|72652|251194990|'CentiMark Corporation'|centimark|false
+5350|CentiMark Corporation|AZ|1|2|91|122476|251194990|'CentiMark Corporation'|centimark|false
+5400|CentiMark Corporation|CO|1|2|58|86046|251194990|'CentiMark Corporation'|centimark|false
+East Moline IIllinois|Atlas Roofing|IL|1|2|43|102627||'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Anderson Construction Company of Fort Gaines|Anderson Construction Company|GA|1|2|104|196906|580974798|'Anderson Associates'|anderson|false
+1300|CentiMark Corporation|MD|1|2|62|85280|251194990|'CentiMark Corporation'|centimark|false
+2400|CentiMark Corporation|MI|1|2|30|38350|251194990|'CentiMark Corporation'|centimark|false
+4110|CentiMark Corporation|AL|1|2|54|89037|251194990|'CentiMark Corporation'|centimark|false
+2600|CentiMark Corporation|IL|1|2|58|79904|251194990|'CentiMark Corporation'|centimark|false
+2630|CentiMark Corporation|IA|1|2|22|26287|251194990|'CentiMark Corporation'|centimark|false
+GKL Companies|GKL Companies, Inc.|AL|1|2|16|32101|631050305|'GKL Companies Inc.'|gkl companies|false
+Fort Smith Plant|Owens Corning|AR|1|2|88|126096||'Owens Corning'|owens corning|false
+Patriot Roofing|Patriot Roofing|WA|1|2|56|116512|454206993|'Patriot Roofing', 'Patriot Roofing LLC'|patriot roofing|true
+Academy Roofing Inc.|Academy Roofing Inc.|CO|1|2|78|167194|840858941|'Academy Roofing Inc.'|academy roofing|false
+Stiles Roofing Inc|Stiles Roofing Inc|MO|1|2|37|62473||'Stiles Roofing Inc.'|stiles roofing|false
+NMS 100 Hecate|McCarthy Building Companies, Inc.|OH|1|2|29|60305|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Calhoun|McCarthy Building Companies, Inc.|MI|1|2|244|507878|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Arrow Canyon|McCarthy Building Companies, Inc.|NV|1|2|97|202176|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Banner Gateway Expansion|McCarthy Building Companies, Inc.|AZ|1|2|52|107188|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+PSHIA T4-S1|McCarthy Building Companies, Inc.|AZ|1|2|20|42639|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Mayo Clinic East Expansion|McCarthy Building Companies, Inc.|AZ|1|2|43|89763|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+APS HUBwest|McCarthy Building Companies, Inc.|AZ|1|2|42|86499|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Maple Flats|McCarthy Building Companies, Inc.|IL|1|2|157|327387|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Bright Arrow|McCarthy Building Companies, Inc.|TX|1|2|166|345472|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Phoenix Office|McCarthy Building Companies, Inc.|AZ|1|3|268|556888|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+U of A - Applied Research Building|McCarthy Building Companies, Inc.|AZ|1|2|32|65745|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+ASU Mill Avenue Garage|McCarthy Building Companies, Inc.|AZ|1|2|26|53916|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+YUHSD - Somerton High School|McCarthy Building Companies, Inc.|AZ|1|2|32|66867|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+NW Ph II Light Rail Expansion|McCarthy Building Companies, Inc.|AZ|1|2|17|35311|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Rabbitbrush 1 & 2 Solar|McCarthy Building Companies, Inc.|CA|1|2|35|73286|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Chaparral Springs Solar|McCarthy Building Companies, Inc.|CA|1|2|72|149593|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Continental Tire The Americas, LLC|Continental Tire The Americas, LLC|MS|2|3|661|1334060|341417030|'Continental Tire the Americas LLC.'|continental tire the americas|false
+Sun Mountain Solar 1|McCarthy Building Companies, Inc.|CO|1|2|228|474162|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Willowbrook Solar|McCarthy Building Companies, Inc.|OH|1|2|60|123784||'McCarthy Building Companies'|mccarthy building companies|false
+Bighorn Metalworks, Inc.|Bighorn Metalworks, Inc.|CO|1|1|18|33484||'Bighorn Metalworks Inc.'|bighorn metalworks|false
+Agave Solar|McCarthy Building Companies, Inc.|AZ|1|2|126|262626|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Cattlemen 1 Solar|McCarthy Building Companies, Inc.|TX|1|2|31|64992|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Horizon Solar|McCarthy Building Companies, Inc.|TX|1|2|42|87062|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Sioux Falls WRF|McCarthy Building Companies, Inc.|SD|1|2|37|77749|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Chandler WRF Improvements|McCarthy Building Companies, Inc.|AZ|1|2|49|102118|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Chandler Yard|McCarthy Building Companies, Inc.|AZ|1|2|27|56149|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+23rd Ave WWTP|McCarthy Building Companies, Inc.|AZ|1|2|21|42682|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Binghamton Slag Roofing Co Inc|Binghamton Slag Roofing Co Inc|NY|1|2|25|40344|150246460|'Binghamton Slag Roofing Co. Inc.'|binghamton slag roofing|false
+Owens Corning|Owens Corning|SC|1|2|40|85621||'Owens Corning'|owens corning|false
+2650|CentiMark Corporation|WI|1|2|30|44268|251194990|'CentiMark Corporation'|centimark|false
+2700|CentiMark Corporation|KS|1|2|50|61950|251194990|'CentiMark Corporation'|centimark|false
+2800|CentiMark Corporation|MO|1|2|38|58407|251194990|'CentiMark Corporation'|centimark|false
+2701|CentiMark Corporation|NE|1|2|35|50322|251194990|'CentiMark Corporation'|centimark|false
+2900|CentiMark Corporation|PA|1|2|62|70301|251194990|'CentiMark Corporation'|centimark|false
+2300|CentiMark Corporation|MI|1|2|26|34791|251194990|'CentiMark Corporation'|centimark|false
+2910|CentiMark Corporation|NY|1|2|44|63811|251194990|'CentiMark Corporation'|centimark|false
+3450|CentiMark Corporation|TN|1|2|47|83248|251194990|'CentiMark Corporation'|centimark|false
+3600|CentiMark Corporation|TX|1|2|82|100507|251194990|'CentiMark Corporation'|centimark|false
+4100|CentiMark Corporation|GA|1|2|79|112961|251194990|'CentiMark Corporation'|centimark|false
+3610|CentiMark Corporation|TX|1|2|78|140245|251194990|'CentiMark Corporation'|centimark|false
+4210|CentiMark Corporation|NC|1|2|63|100073|251194990|'CentiMark Corporation'|centimark|false
+4300|CentiMark Corporation|NC|1|2|105|178863|251194990|'CentiMark Corporation'|centimark|false
+4400|CentiMark Corporation|TN|1|2|34|53673|251194990|'CentiMark Corporation'|centimark|false
+Rackley Roofing Co Inc|Rackley Roofing Co Inc|TN|1|2|123|259709|620932570|'Rackley Roofing Co. Inc.'|rackley roofing|false
+4750|CentiMark Corporation|FL|1|2|81|113304|251194990|'CentiMark Corporation'|centimark|false
+4800|CentiMark Corporation|FL|1|2|36|67026|251194990|'CentiMark Corporation'|centimark|false
+5110|CentiMark Corporation|ID|1|2|36|96482|251194990|'CentiMark Corporation'|centimark|false
+Dynamic Metals Goup|Dynamic Metals, LLC|IN|1|2|144|241852|900106552|'Dynamic Metals'|dynamic metals|false
+Independent Roofing Company Inc|Independent Roofing Company Inc|NE|1|2|31|49088|470410807|'Independent Roofing Company Inc.', 'Independent Roofing Systems Inc.'|independent roofing|true
+Mountain States Roofing, Incorporated|Mountain States Roofing, Incorporated|ID|1|2|42|70303|261702268|'Mountain States Roofing Inc.'|mountain states roofing|false
+Milliken & Company Dewey Plant|Milliken & Company|SC|1|2|157|337970|510105342|'Milliken & Company'|milliken &|false
+Jim Murray Roofing, Inc.|Jim Murray Roofing, Inc.|CA|1|2|40|72369|814059502|'Jim Murray Roofing Inc'|jim murray roofing|false
+Great Lakes Roofing Corp - Menasha|Great Lakes Roofing Corporation|WI|1|2|20|40490|391583074|'Great Lakes Roofing Corp.'|great lakes roofing|false
+Great Lakes Roofing Corp - Madison|Great Lakes Roofing Corporation|WI|1|2|23|39761|391583074|'Great Lakes Roofing Corp.'|great lakes roofing|false
+D&L Roofing, LLC|D&L Roofing, LLC|NV|1|2|61|86638|272001551|'D&L Roofing LLC'|d&l roofing|false
+Warren Construction & Roofing, Inc|Warren Construction & Roofing, Inc|CA|1|2|32|57054|202626621|'Warren Construction & Roofing Inc.'|warren construction & roofing|false
+Quincy 2|Royal Technologies|MI|1|1|31|48167|382726351|'Royal industries LLC'|royal|false
+Highland|Royal Technologies|MI|1|2|32|49024|382726351|'Royal industries LLC'|royal|false
+Royal Center|Royal Technologies|MI|1|2|139|272141|382726351|'Royal industries LLC'|royal|false
+Cullman|Royal Technologies|MI|1|2|215|396519|382726351|'Royal industries LLC'|royal|false
+Mission|Royal Technologies|MI|1|2|138|292158|382726351|'Royal industries LLC'|royal|false
+Corp Grove|Royal Technologies|MI|1|3|264|525835|382726351|'Royal industries LLC'|royal|false
+Quincy|Royal Technologies|MI|1|3|369|758130|382726351|'Royal industries LLC'|royal|false
+Architectural Sheet Metal, Inc.|Architectural Sheet Metal, Inc.|FL|1|2|34|74622|593178660|'Architectural Sheet Metal Inc.'|architectural sheet metal|false
+Crescent Park Corporation - C-11|Crescent Corporation|OH|1|2|287|526488|311222308|'Crescent Construction Services'|crescent|false
+Superior Roofing, Inc.|Superior Roofing, Inc.|CO|1|2|72|142272|840917537|'Superior Roofing Inc.', 'Superior Roofing LLC', 'Superior Roofing Services Inc.', 'Superior Roofing Systems Inc.'|superior roofing|true
+Owens Corning|Owens Corning|OR|1|2|47|87674|383737830|'Owens Corning'|owens corning|false
+Bonitz of Georgia|Bonitz of Georgia|GA|1|2|35|82104|581897306|'Bonitz of Georgia Inc.'|bonitz of georgia|false
+Markham Building|Village Associates|WI|1|2|23|50691||'Village Management Services Inc.'|village|false
+Molloy Roofing Company|Molloy Roofing Company|OH|1|2|51|98138|310787317|'Molloy Roofing Co.'|molloy roofing|false
+Coleman Home Health and Hospice|Preferred Management Corp.|TX|1|2|6|10430|463113740|'Preferred Construction Services Inc.'|preferred|false
+West Texas Home Health, Inc dba Bluebonnet Home Health and Hospice|Preferred Management Corp|TX|1|1|11|20532|203346677|'Preferred Construction Services Inc.'|preferred|false
+Graham Prewett, Inc.|Graham Prewett, Inc.|CA|1|2|78|137794|770565773|'Graham Prewett Inc.'|graham prewett|false
+CBRE @ Novartis East Hanover|CBRE Inc.|NJ|1|2|92|177616|952743174|'CBRE'|cbre|false
+Jottan, Inc.|Jottan, Inc.|NJ|1|2|81|156558|222768915|'Jottan Inc.'|jottan|false
+Corporate Office|GAF|NJ|1|3|746|1747200|364866695|'GAF'|gaf|false
+Atlas Molded Products - Denver|Atlas Roofing|CO|1|2|16|34343|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Quality Roofing, Inc|Quality Roofing, Inc|FL|1|2|163|401171|900679536|'Quality Roofing', 'Quality Roofing Inc.', 'Quality Roofing Solutions', 'Quality Roofing Solutions LLC'|quality roofing|true
+Chinook Roofing|Chinook Roofing|WA|1|2|140|246401|800628673|'Chinook Roofing'|chinook roofing|false
+R.K. Hydro-Vac, PA, Inc|R.K. Hydro-Vac, PA, Inc|PA|1|2|37|83000|311290225|'R.K. Hydro-Vac Inc.'|r.k. hydro-vac|false
+The Emeralds At Grand Rapids|Monarch|MN|1|2|15|118154|833143692|'Monarch Consulting Services'|monarch|false
+Laraway Roofing, Inc.|Laraway Roofing, Inc.|MN|1|1|10|17141|410986127|'Laraway Roofing Inc.'|laraway roofing|false
+Redwood Distribution Center|Milliken & Company|SC|1|2|20|24960|510105342|'Milliken & Company'|milliken &|false
+Carolina Asphalt|Brothers National|NC|1|2|41|88294|873875709|'Brothers Services Co.'|brothers|false
+D.A. Nolt, Inc.|D.A. Nolt, Inc.|NJ|1|2|47|88196|223062854|'D.A. Nolt Inc.'|d.a. nolt|false
+Columbus OH Soltech Owens Corning|Owens Corning|OH|1|2|38|80450|432109021|'Owens Corning'|owens corning|false
+Trilogy Plastics Plant 1|Myers Industries|OH|1|2|140|255008|871574815|'Myers Consulting'|myers|false
+Trilogy Plastics Plant 2|Myers Industries|OH|1|2|54|98360|871574815|'Myers Consulting'|myers|false
+Sullivan Roofing, Inc.|Sullivan Roofing, Inc.|IL|1|2|75|164580||'Sullivan Roofing Inc.'|sullivan roofing|false
+Pinnacle Roofing Inc.|Pinnacle Roofing Inc.|NY|1|2|26|45130|200593022|'Pinnacle Roofing'|pinnacle roofing|false
+D.R. Kidd Company Inc.|Kidd Roofing|TX|1|2|84|160475|742736561|'Kidd Roofing'|kidd roofing|false
+Stickney WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3|3|645|1067141||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+O'Brien WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3|2|182|303704||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Main Office Building Annex (MOBA)|Metropolitan Water Reclamation District of Greater Chicago|IL|3|3|274|266464||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Main Office Building (MOB)|Metropolitan Water Reclamation District of Greater Chicago|IL|3|2|221|233732||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Kirie WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3|2|42|68410||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Hanover Park WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3|2|22|37191||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Egan WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3|2|66|114205||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Aspen Group LTD.|BlueThread Services|CO|1|2|33|85800||'BlueThread Services'|bluethread|false
+Calumet WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3|3|266|436073||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Peak View Roofing|BlueThread Services|CO|1|2|50|130000||'BlueThread Services'|bluethread|false
+Revelation Roofing LLC|BlueThread Services|CO|1|2|35|91000||'BlueThread Services'|bluethread|false
+RoofCARE|BlueThread Services|NM|1|2|55|143000||'BlueThread Services'|bluethread|false
+CertainTeed, LLC|CertainTeed, LLC|MO|1|3|287|639280|232510893|'CertainTeed LLC'|certainteed|false
+Morgan Advanced Materials|GreenWood, Inc.|GA|1|2|39|80834|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. -   Home Office|GreenWood, Inc.|SC|1|1|14|27120|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. -  Merck|GreenWood, Inc.|VA|1|2|99|182183|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Fuji (Medical|GreenWood, Inc.|SC|1|1|1|1931|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - GE Aviation|GreenWood, Inc.|AL|1|1|20|38427|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - GE Durham|GreenWood, Inc.|NC|1|2|1|2189|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Honeywell|GreenWood, Inc.|SC|1|2|23|41086|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Kureha|GreenWood, Inc.|WV|1|1|13|23154|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Toyota|GreenWood, Inc.|WV|1|2|23|42088|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - ZF Transmission|GreenWood, Inc.|SC|1|2|28|54171|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.-  Mitsubishi|GreenWood, Inc.|SC|1|2|35|64355|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Caterpiller|GreenWood, Inc.|GA|1|2|46|86510|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Dow (South Charleston)|GreenWood, Inc.|WV|1|2|78|146727|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Fuji Film|GreenWood, Inc.|IL|1|2|41|79861|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- GE Piedmont|GreenWood, Inc.|SC|1|1|16|30155|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Greer - West Projects|GreenWood, Inc.|SC|1|1|5|8738|570967122|'Greenwood Industries Inc.'|greenwood|false
+Bayside Manor|Monarch|MN|1|2|80|100308|873755613|'Monarch Consulting Services'|monarch|false
+GreenWood, Inc.- Optima|GreenWood, Inc.|WV|1|1|2|3667|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Solvay|GreenWood, Inc.|GA|1|2|47|92248|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Fujifilm|GreenWood, Inc.|SC|1|2|40|69275|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Standard Aero|GreenWood, Inc.|GA|1|1|4|7982|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Altivia|GreenWood, Inc.|WV|1|2|7|12288|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Eaton Aerospace Group|GreenWood|SC|1|1|6|11183|570967122|'Greenwood Industries Inc.'|greenwood|false
+Bennett & Brosseau Roofing, Inc.|Bennett & Brosseau Roofing, Inc.|IL|1|2|104|197174|363035239|'Bennett & Brosseau Roofing Inc.'|bennett & brosseau roofing|false
+Morgan Thermal Ceramics - MKS|GreenWood, Inc.|SC|1|1|3|7478|570967122|'Greenwood Industries Inc.'|greenwood|false
+Clearon Corp - CLN|GreenWood, Inc.|SC|1|1|4|1210|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.|GreenWood, Inc.|SC|1|3|648|1216678|570967122|'Greenwood Industries Inc.'|greenwood|false
+Noble Pride Roofing Company Inc.|Noble Pride Roofing Company Inc.|CA|1|2|22|86282|542186604|'Noble Pride Roofing'|noble pride roofing|false
+Sutter Roofing Company of Florida|Sutter Roofing|FL|1|2|235|543043|591923325|'Sutter Roofing', 'Sutter Roofing Co.'|sutter roofing|true
+FITZ-FAHL|ROBERTS ROOFING COMPANY|OH|1|2|19|42793|341418432|'Roberts Roofing Co.', 'Roberts Roofing Co. Inc.'|roberts roofing|true
+Great Lakes Solutions LLC|Great Lakes Solutions LLC|MI|1|2|73|96670|872485066|'Great Lakes Systems Inc.'|great lakes|false
+Aspen Corporation|Aspen Corporation|WV|1|2|105|241669||'Aspen Group'|aspen|false
+Damschroder Roofing, Inc.|DAMSCHRODER ROOFING INC|OH|1|2|40|73066|342037110|'Damschroder Roofing LLC'|damschroder roofing|false
+SiVance LLC|Milliken & Company|FL|1|2|156|318301|510105342|'Milliken & Company'|milliken &|false
+Bone Roofing Supply, Inc.|Bone Roofing Supply, Inc|IL|1|2|50|80000|362729296|'Bone Roofing Supply Inc.'|bone roofing supply|false
+AECOM DCS (US Operations)|AECOM|TX|1|3|15192|30384975|952661922|'AECOM'|aecom|false
+Highland - Wilmington|Highland Roofing Company|NC|1|2|40|75412||'Highland Roofing Co. Inc.', 'Highland Roofing Company'|highland roofing|true
+Unilock Chicago|Unilock Inc.|IL|1|2|150|331954|363480878|'Unilock'|unilock|false
+Highland - Raleigh|Highland Roofing Company|NC|1|1|17|33720||'Highland Roofing Co. Inc.', 'Highland Roofing Company'|highland roofing|true
+DAUGHERTY CONSTRUCTION INC|DAUGHERTY CONSTRUCTION INC|OH|1|2|40|41087|341617760|'Daugherty Construction Inc.'|daugherty|false
+COASTAL ROOFING INC.|COASTAL ROOFING INC.|FL|1|2|70|11440|800624061|'Coastal Roofing Co. Inc.'|coastal roofing|false
+Woodlands Healthcare Center|Aspen Corporation|CA|1|2|88|132482||'Aspen Group'|aspen|false
+Pfeifer Roofing, Inc|Pfeifer Roofing, Inc.|OR|1|2|74|142446|931225470|'Pfeifer Roofing Inc.'|pfeifer roofing|false
+Hilton Boston Woburn|Interstate management company LLC|MA|1|2|107|165610|474951937|'Interstate Corp.'|interstate|false
+Alloy Architectural Solutions|Alloy Architectural Solutions|IL|1|1|15|22012|824789224|'Alloy Architectural Solutions LLC'|alloy architectural|false
+Greenwood Plastics South|Greenwood Inc|IL|1|2|63|43949|370816080|'Greenwood Industries Inc.'|greenwood|false
+Waterview Shores Skilled Nursing Facility|Monarch|MN|1|2|53|86738|834662774|'Monarch Consulting Services'|monarch|false
+SI|Sampco, Inc.|MA|1|2|33|69075|43110392|'Sampco Inc.'|sampco|false
+Bone Dry Roofing Company|Bone Dry Roofing Company|SC|1|2|25|61096|861081716|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Bone Dry Roofing - Athens|Bone Dry Roofing|GA|1|2|45|106627|861081716|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Trigard Memorials|Greenwood Inc|IL|1|2|25|22726|370816080|'Greenwood Industries Inc.'|greenwood|false
+The Vertex Companies|The Vertex Companies|MA|1|3|741|1198627||'The Vertex Companies'|the vertex companies|false
+PHRG ATL|Power Home Remodeling|GA|1|2|238|476000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+Precision Manufacturing Group Inc|Precision Manufacturing Group Inc|MI|1|2|27|55378|833049373|'Precision Construction Services'|precision|false
+Fidelity Roof Company|Fidelity Roof Company|CA|1|2|63|102159|941326440|'Fidelity Roof Co.'|fidelity roof|false
+Preferred Management Corporation|Preferred Management Corporation|OK|1|2|34|70731|731312311|'Preferred Construction Services Inc.'|preferred|false
+Watkins Roofing, Inc.|Watkins Roofing, Inc.|MO|1|2|53|92988|431003848|'Watkins Roofing Inc.'|watkins roofing|false
+Gold Bond Building Products, LLC|National Gypsum Company|OK|1|2|90|189445|854331127|'National Gypsum Co.'|national gypsum|false
+Allen Roofing & Siding, LLC.|Allen Roofing & Siding, LLC|MO|1|2|100|77136|881581570|'Allen Roofing & Siding'|allen roofing & siding|false
+McDonnell Roofing Inc|McDonnell Roofing Inc|CA|1|2|27|39205|330992075|'McDonnell Roofing Inc.'|mcdonnell roofing|false
+Edwards Roofing Company Inc|Edwards Roofing Company inc|FL|1|2|39|64675|591101925|'Edwards Roofing Co. Inc.'|edwards roofing|false
+PHRG TPA|Power Home Remodeling|FL|1|2|219|438000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG NJ|Power Home Remodeling|NJ|1|2|301|602000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG NSH|Power Home Remodeling|TN|1|2|167|334000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG LI Sales & Marketing|Power Home Remodeling|NY|1|2|310|620000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG HOU|Power Home Remodeling|TX|1|2|305|610000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG HQ|Power Home Remodeling|PA|1|3|1059|2118000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG MD Ops|Power Home Remodeling|MD|1|2|45|90000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG MD Sales & Marketing|Power Home Remodeling|MD|1|2|402|804000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG DET Sales & Marketing|Power Home Remodeling|MI|1|2|184|368000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG DEN|Power Home Remodeling|CO|1|2|242|484000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG DAL|Power Home Remodeling|TX|1|2|294|588000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG CT Sales & Marketing|Power Home Remodeling Group|CT|1|2|249|498000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG CHI|Power Home Remodeling|IL|1|2|266|532000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG CLT|Power Home Remodeling|NC|1|2|168|336000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG-BOS Sales & Marketing|Power Home Remodeling|MA|1|2|272|544000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+PHRG AUS|Power Home Remodeling|TX|1|2|254|508000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+Anderson Group International San Jose|Anderson Group International|CA|1|2|35|72860|770507782|'Anderson Associates'|anderson|false
+Anderson Group International|Anderson Group International|CA|1|2|60|124645|770507782|'Anderson Associates'|anderson|false
+Burger King 8744|MRB Holdings LLC|NV|1|2|21|24632|200816567|'MRB Contractors LLC'|mrb|false
+Browning Chapman, LLC|Browning Chapman, LLC|IN|1|2|134|278953|461327461|'Browning Chapman, LLC'|browning chapman|false
+120-NBH-ATLANTA|N.B. HANDY COMPANY|GA|1|2|20|42485|540238570|'N.B. Handy Co.'|n.b. handy|false
+140-NBH-BALTIMORE|N.B. HANDY COMPANY|MD|1|1|4|5782|540238570|'N.B. Handy Co.'|n.b. handy|false
+210-NBH-CHARLESTON|N.B. HANDY COMPANY|SC|1|1|10|19579|540238570|'N.B. Handy Co.'|n.b. handy|false
+150-NBH-COLUMBIA|N.B. HANDY COMPANY|SC|1|1|8|15031|540238570|'N.B. Handy Co.'|n.b. handy|false
+080-NBH-CHARLOTTE|N.B. HANDY COMPANY|NC|1|2|25|52272|540238570|'N.B. Handy Co.'|n.b. handy|false
+010-NBH-CORPORATE|N.B. HANDY COMPANY|VA|1|2|42|104134|540238570|'N.B. Handy Co.'|n.b. handy|false
+190-NBH-DAVENPORT|N.B. HANDY COMPANY|FL|1|1|14|31009|540238570|'N.B. Handy Co.'|n.b. handy|false
+060-NBH-GREENSBORO|N.B. HANDY COMPANY|NC|1|2|17|33422|540238570|'N.B. Handy Co.'|n.b. handy|false
+110-NBH-GREENVILLE|N.B. HANDY COMPANY|SC|1|1|15|33061|540238570|'N.B. Handy Co.'|n.b. handy|false
+090-NBH-HANOVER|N.B. HANDY COMPANY|MD|1|2|20|41906|540238570|'N.B. Handy Co.'|n.b. handy|false
+020-NBH-LYNCHBURG|N.B. HANDY COMPANY|VA|1|1|7|11225|540238570|'N.B. Handy Co.'|n.b. handy|false
+160-NBH-MACHINERY|N.B. HANDY COMPANY|VA|1|1|10|18561|540238570|'N.B. Handy Co.'|n.b. handy|false
+070-NBH-NORFOLK|N.B. HANDY COMPANY|VA|1|1|18|37878|540238570|'N.B. Handy Co.'|n.b. handy|false
+030-NBH-RALEIGH|N.B. HANDY COMPANY|NC|1|2|21|41777|540238570|'N.B. Handy Co.'|n.b. handy|false
+050-NBH-RICHMOND|N.B. HANDY COMPANY|VA|1|2|21|41119|540238570|'N.B. Handy Co.'|n.b. handy|false
+040-NBH-ROANOKE|N.B. HANDY COMPANY|VA|1|2|17|30718|540238570|'N.B. Handy Co.'|n.b. handy|false
+500-NBH-STEEL CENTER|N.B. HANDY COMPANY|VA|1|1|18|37780|540238570|'N.B. Handy Co.'|n.b. handy|false
+Rayco Roof Service, Inc.|Rayco Roof Service, Inc.|VA|1|2|24|42748|541142276|'Rayco Roof Service Inc.'|rayco roof service|false
+National Gypsum|National Gypsum|LA|1|2|65|163262|854331127|'National Gypsum Co.'|national gypsum|false
+CertainTeed Jonesburg|CertainTeed|MO|1|2|153|296943|232510893|'CertainTeed LLC'|certainteed|false
+Kreiling Roofing Co|Kreiling Roofing Co|IL|1|2|82|143081|371151409|'Kreiling Roofing Co.'|kreiling roofing|false
+Mid-South Roof Systems|Mid-South Roof Systems|GA|1|2|168|395405|581876904|'Mid-South Roof Systems'|mid-south roof|false
+MRB Contractors|MRB Contractors|TX|1|2|120|184230|455100627|'MRB Contractors LLC'|mrb|false
+Pax Deridder|Pax LLC|LA|1|1|13|44413||'PAX Services Group'|pax|false
+Pax Gonzales|Pax LLC|LA|1|2|32|72859||'PAX Services Group'|pax|false
+Elens & Maichin Roofing & Sheet Metal, Inc.|Elens & Maichin Roofing & Sheet Metal, Inc.|IL|1|2|33|56172|362807358|'Elens & Maichin Roofing & Sheet Metal Inc.'|elens & maichin roofing & sheet metal|false
+Construction|Haydon Construction Inc.|CA|1|2|35|57791|770032290|'Haydon Corporation'|haydon|false
+West Hills Health and Rehabilitation|Goodman Group|OR|1|2|147|253307||'Goodman Construction LLC'|goodman|false
+CERTAINTEED LLC|CERTAINTEED LLC|MN|1|3|250|557355|232510893|'CertainTeed LLC'|certainteed|false
+CertainTeed Polymer Shakes McPherson, KS|CertainTeed Corporation|KS|1|2|73|130115||'CertainTeed LLC'|certainteed|false
+Milliken & Co. Gerrish Plant|Milliken & Co.|SC|1|2|165|275815|510105342|'Milliken & Company'|milliken &|false
+All In One Services, LLC|All In One Services|CA|1|2|25|25290|384133019|'All In One Construction Group'|all in one|false
+Holt Roofing Company|Holt Roofing Company|OH|1|2|19|36000|341283297|'Holt Roofing Co. Inc.'|holt roofing|false
+Johnson's Roofing Service Inc|Johnson's Roofing Service Inc|SC|1|2|93|151186|561458196|'Johnson's Roofing Service Inc.'|johnson's roofing service|false
+Modern Roofing, Inc.|Modern Roofing, Inc.|MI|1|2|61|100013|382184928|'Modern Roofing Inc.', 'Modern Roofing LLC'|modern roofing|true
+Deer park Roofing|Deer Park Roofing|OH|1|2|121|235132|311803193|'Deer Park Roofing, LLC'|deer park roofing|false
+Great Wolf Lodge|Great Lakes Services LLC|GA|1|3|600|845624|271371313|'Great Lakes Systems Inc.'|great lakes|false
+NorthStar Construction Services|NorthStar Construction Services|MA|1|2|63|114820||'NorthStar Construction Services Corp.'|northstar|false
+The Haskell Company|The Haskell Company|FL|1|3|2127|4218587|592387450|'The Haskell Co.'|the haskell|false
+J.D. Miles & Sons Inc.|J.D. Miles & Sons Inc|VA|1|2|25|47292|540623631|'J.D. Miles & Sons Inc.'|j.d. miles & sons|false
+Bemo USA Corporation|Bemo USA Corporation|AZ|1|2|36|70048|861017750|'BEMO USA Corp.'|bemo usa|false
+Ridgeworth Roofing|Ridgeworth Roofing|IL|1|1|18|30188|362791119|'Ridgeworth Roofing Co. Inc.'|ridgeworth roofing|false
+Atlas Roofing|Atlas Roofing|OH|1|2|104|241889|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Atlas Roofing Paper Mill|Atlas Roofing|OH|1|2|52|106904|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Main Office|Dickson Company|WA|1|2|130|215343|910779580|'Dickson Contractors Inc.'|dickson|false
+Superior Services RSH, Inc.|Superior Services RSH, Inc.|MI|1|1|17|20906|382491879|'Superior Services RSH Inc.'|superior services rsh|false
+UE Manufacturing LLC OKC|United Holdings|OK|1|2|168|379579|841585012|'United Contractors'|united|false
+United Engines Little Rock|United Holdings|AR|1|2|29|56081|841585010|'United Contractors'|united|false
+United Engines Shreveport|United Holdings|LA|1|2|22|41274|841585010|'United Contractors'|united|false
+United Engines Tulsa|United Holdings|OK|1|2|22|44272|841585012|'United Contractors'|united|false
+7281_16685|Great Lakes Systems|MI|1|2|44|87056|381868212|'Great Lakes Systems Inc.'|great lakes|false
+Thermo King of Houston|United Holdings|TX|1|2|41|93136|562426273|'United Contractors'|united|false
+United Holdings|United Holdings|OK|1|2|78|158293|270002970|'United Contractors'|united|false
+Thermo King Dallas Convoy Servicing|United Holdings|TX|1|2|85|118825|364953426|'United Contractors'|united|false
+United Engines|United Holdings|OK|1|2|64|56081|841585010|'United Contractors'|united|false
+Thermo King of San Antonio|United Holdings|TX|1|2|18|41898|562426273|'United Contractors'|united|false
+Hale Construction|Hale Construction|CA|1|2|115|230000|813372946|'Hale Associates LLC'|hale|false
+Atlas Roofing Corporation|Atlas Roofing Corporation|MS|1|2|199|597621|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+CST-BNT - Bennettsville|Crescent|SC|1|2|26|29072|450699531|'Crescent Construction Services'|crescent|false
+NRG Joliet Generating Station|NRG|IL|1|2|40|101132|463985344|'NRG Construction LLC'|nrg|false
+NRG Will County Generating Station|NRG|IL|1|2|32|70838|463985344|'NRG Construction LLC'|nrg|false
+Industrial Cork|Industrial Cork|IL|1|2|24|53485|362068142|'Industrial Cork Co. Inc.'|industrial cork|false
+Owens Corning - Amarillo, TX|Owens Corning|TX|1|3|515|1154835||'Owens Corning'|owens corning|false
+Brazos Urethane|Brazos Urethane, Inc.|TX|1|2|116|252738|742466058|'Brazos Urethane Inc'|brazos urethane|false
+Roof Asset Management Inc.|Roof Asset Management Inc.|CA|1|2|39|78049|812728224|'Roof Asset Management Inc.'|roof asset|false
+LLC|Peterson Manufacturing LLC|FL|1|1|23|40335|843193744|'Peterson Consulting Group'|peterson|false
+Camp Hill|Atlas Roofing|PA|1|2|55|114400|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Coleman County Medical Center|Preferred Management Corp|OK|1|2|121|192553||'Preferred Construction Services Inc.'|preferred|false
+Don Kennedy Roofing Co.|Don Kennedy Roofing Co.|TN|1|2|98|97114|621387025|'Don Kennedy Roofing Co. Inc.'|don kennedy roofing|false
+Magnolia Finishing Plant|Milliken & Company|SC|1|3|391|671868|510105342|'Milliken & Company'|milliken &|false
+Gold Bond Building Products, LLC|National Gypsum|NC|1|2|72|17961370|854331127|'National Gypsum Co.'|national gypsum|false
+PHRG PHX|Power Home Remodeling|AZ|1|2|106|212000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+Black Hawk Roof Company|Black Hawk Roof Co.|IA|1|2|50|138650|421405570|'Black Hawk Roof Co. Inc.'|black hawk roof|false
+AGH Inc|AGH Inc|OR|1|2|11|17858|205834807|'AGH'|agh|false
+Simpson Unlimited, Inc.|Simpson Unlimited, Inc.|VA|1|2|163|344125|541771632|'Simpson Unlimited Inc.', 'Simpson Unlimited, Inc.'|simpson unlimited|true
+Pioneer Roofing Co|Pioneer Roofing Co|AZ|1|2|24|46800|861037548|'Pioneer Roofing Co.', 'Pioneer Roofing Company', 'Pioneer Roofing Systems Inc.'|pioneer roofing|true
+Pioneer Roofing, A Tecta America Company, LLC|Pioneer Roofing, A Tecta America Company, LLC|WI|1|2|55|80767|874105658|'Pioneer Roofing, a Tecta America Company, LLC'|pioneer roofing, a tecta america|false
+Pioneer Roofing, LLC|Pioneer Roofing, LLC|WI|1|2|29|12982|134225857|'Pioneer Roofing Co.', 'Pioneer Roofing Company', 'Pioneer Roofing Systems Inc.'|pioneer roofing|true
+The Bri-Den Co.|The Bri-Den Co.|KY|1|2|34|65924|825212554|'The Bri-Den Co. Inc.'|the bri-den|false
+Crawford Roofing Experts|Crawford Roofing Experts|IL|1|1|22|29009|320359884|'Crawford Roofing Experts LLC'|crawford roofing experts|false
+McCarthy Building Companies, Inc. - POH Berth 8|McCarthy Building Companies|TX|1|2|66|137578|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - NEWPP Central Plant|McCarthy Building Companies|TX|1|2|147|305799|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - POH Wharf 6|McCarthy Building Companies, Inc.|TX|1|2|57|118495|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+POB Main Str Term 1 - Phase B|McCarthy Building Companies, Inc.|TX|1|2|35|72765|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - Dallas Office|McCarthy Building Companies, Inc.|TX|1|2|99|205748|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - Southern Region Atlanta Office|McCarthy Building Companies, Inc|GA|1|2|103|213368|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - Marine & Industrial Office|McCarthy Building Companies|TX|1|2|56|115839|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Midwest Coating, Inc.|Midwest Coating, Inc.|KS|1|2|38|77543|480896503|'Midwest Coating Inc.'|midwest coating|false
+Southeast Roofing Solutions|Southeast Roofing Solutions|GA|1|2|65|136894|580976458|'Southeast Roofing Solutions Inc.'|southeast roofing|false
+McCarthy Building Companies - Houston Office|McCarthy Building Companies|TX|1|2|42|81540||'McCarthy Building Companies'|mccarthy building companies|false
+TCH Austin Main Project|McCarthy Building Companies|TX|1|2|75|160346|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Dayco, Inc.|Dayco, Inc.|VT|1|2|12|25776|30340853|'Dayco Inc.'|dayco|false
+Ismali Center Houston|McCarthy Building Companies, Inc.|TX|1|2|80|176044|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Restoration Systems Inc.|Restoration Systems Inc.|MN|1|2|45|87064|411890683|'Restoration Services Inc.'|restoration|false
+Texas Fifth Wall Roofing Systems|Texas Fifth Wall Roofing Systems|TX|1|2|125|276712||'Texas Fifth Wall Roofing Systems Inc.'|texas fifth wall roofing|false
+Continental Tire Mt. Vernon|Continental Tire the Americas llc|IL|1|3|3900|8873272||'Continental Tire the Americas LLC.'|continental tire the americas|false
+MONARCH, Inc.|MONARCH, INC.|OK|1|2|45|93600|731209599|'Monarch Consulting Services'|monarch|false
+Houston Methodist - Cypress|McCarthy Building Companies, Inc.|TX|1|2|68|112688|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Core Scientific Data Center|McCarthy Building Companies, Inc.|TX|1|2|31|65092|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Redd Roofing Company|Redd Roofing Company|UT|1|2|131|272357|870310391|'Redd Roofing Co. Inc.'|redd roofing|false
+ASPEN TECHNOLOGIES INC - Michigan|Aspen Technologies|MI|1|1|60|124711|141886899|'Aspen Group'|aspen|false
+ASPEN TECHNOLOGIES INC - Tennessee|Aspen Technologies Inc|TN|1|2|37|79445|141886899|'Aspen Group'|aspen|false
+Turner Morris, Inc. Silverthorne|Turner Morris, Inc.|CO|1|2|29|64170|841199856|'Turner Morris Inc.'|turner morris|false
+Turner Morris, Inc.|TURNER MORRIS, INC.|CO|1|2|43|96685|841199856|'Turner Morris Inc.'|turner morris|false
+Muleshoe Area Medical Center|Preferred Management|TX|1|2|87|136933|471743325|'Preferred Construction Services Inc.'|preferred|false
+Tremco East 80th|Tremco CPG Inc|OH|1|2|43|109765||'Tremco CPG Inc.'|tremco cpg|false
+Royal Manufacturing - Buda Facility|Royal Manufacturing|TX|1|1|19|50846|471169363|'Royal industries LLC'|royal|false
+Baltimore|GAF|MD|1|2|166|402243|223626208|'GAF'|gaf|false
+Myerstown|GAF|PA|1|2|150|293457|741925368|'GAF'|gaf|false
+New Columbia TPO|GAF|PA|1|2|105|266981|813158452|'GAF'|gaf|false
+Dallas|GAF|TX|1|2|154|290561|205980312|'GAF'|gaf|false
+Mt. Vernon Shingle|GAF|IN|1|2|235|490779|223626208|'GAF'|gaf|false
+Statesboro|GAF|GA|1|2|78|169265|223626208|'GAF'|gaf|false
+Cedar City|GAF|UT|1|2|81|172844|461261209|'GAF'|gaf|false
+Gainesville|GAF|TX|1|2|115|241202|204921692|'GAF'|gaf|false
+Minneapolis|GAF|MN|1|2|127|310665|223626208|'GAF'|gaf|false
+Shafter Glass Mat|GAF|CA|1|1|90|236124|741925368|'GAF'|gaf|false
+Ideal Building Solutions|Ideal Building Solutions|GA|1|2|57|115408|271966870|'Ideal Building Solutions'|ideal building|false
+Phoenix|GAF|AR|1|2|27|63463|270673916|'GAF'|gaf|false
+Burgaw|GAF|NC|1|2|240|481144|582394554|'GAF'|gaf|false
+Fontana|GAF|CA|1|2|120|257192|223626208|'GAF'|gaf|false
+Ennis Mat|GAF|TX|1|2|76|234782|741925368|'GAF'|gaf|false
+Ennis Roofing|GAF|TX|1|2|173|543498|741925368|'GAF'|gaf|false
+Tecta America Colorado LLC|Tecta America Colorado LLC|CO|1|2|70|122378|202909369|'Tecta America Colorado LLC'|tecta america colorado|false
+Hale Contracting, Inc.|Hale Contracting, Inc.|NY|1|2|90|128581|161513772|'Hale Contracting Inc.'|hale contracting|false
+ARS, a Tecta America Company, LLC.|ARS, a Tecta America Company, LLC.|SD|1|2|55|117443|841505685|'ARS, A Tecta America Company'|ars, a tecta america|false
+Tecta America Sacramento, Inc.|Tecta America Sacramento, Inc.|CA|1|2|45|102259|202970607|'Tecta America Sacramento Inc.'|tecta america sacramento|false
+RW-NA MAR|Rockwool|MS|2|2|237|501596|990378111|'ROCKWOOL'|rockwool|false
+Spann Roofing & Sheet Metal, Inc.|Spann Roofing & Sheet Metal, Inc.|SC|1|2|82|142626|570373011|'Spann Roofing & Sheet Metal Inc.'|spann roofing & sheet metal|false
+Holland Roofing Group|Holland Roofing Group|KY|1|2|52|104961|311551993|'Holland Roofing Co. Inc.', 'Holland Roofing Group'|holland roofing|true
+Owens Corning Denver Roofing|Owens Corning|CO|1|2|140|240502|320176634|'Owens Corning'|owens corning|false
+Owens Corning Denver Asphalt|Owens Corning|CO|1|2|24|45471|320176634|'Owens Corning'|owens corning|false
+The Quality Roofing Company|The Quality Roofing Company|MO|1|2|25|40963|440400020|'The Quality Roofing Co. Inc.'|the quality roofing|false
+Supreme Roofing, LP|Supreme Roofing|TX|1|2|194|386320|823769023|'Supreme Roofing', 'Supreme Roofing Systems'|supreme roofing|true
+Alpha Services Idaho|Alpha Services LLC|ID|1|3|224|317864|820534879|'Alpha Construction Services'|alpha|false
+Monarch Instrument|Monarch International Inc|NH|1|2|41|84792|20333450|'Monarch Consulting Services'|monarch|false
+General Coatings Corp|General Coatings Corp|CA|1|3|285|578230|330259909|'General Coatings Manufacturing Corp.'|general coatings|false
+Diversified Roofing|Diversified Roofing|AZ|1|3|420|447005|860599690|'Diversified Roofing'|diversified roofing|false
+Benchmark Construction|Benchmark Construction|IL|1|2|58|86655|362812213|'Benchmark Inc.'|benchmark|false
+Spring Sheet Metal & Roofing, LLC|Spring Sheet Metal & Roofing, LLC|NY|1|2|41|74106|814111885|'Spring Sheet Metal & Roofing, LLC'|spring sheet metal & roofing|false
+KASCO STRUCTURES LLC|KASCO STRUCTURES LLC|TX|1|2|53|63406||'Kasco Structures LLC'|kasco structures|false
+Sheet Metal|Metal Alliance, Inc.|PA|1|2|27|48917|232749020|'Metal Alliance, Inc.'|metal alliance|false
+Empire Roofing Inc.|Empire Roofing Inc.|TX|1|3|238|491189|751828325|'Empire Roofing Corp.', 'Empire Roofing Inc.', 'Empire Roofing LLC', 'Empire Roofing Solutions', 'Empire Roofing Systems Inc.', 'Empire Roofing, Inc.'|empire roofing|true
+Empire Roofing of Oklahoma Inc|Empire Roofing of Oklahoma Inc|OK|1|2|30|74029|464038268|'Empire Roofing of Oklahoma, Inc.'|empire roofing of oklahoma|false
+Empire Roofing Company of Georgia Inc|Empire Roofing Company of Georgia Inc|GA|1|2|26|72388|271811195|'Empire Roofing Company of Georgia, Inc.'|empire roofing company of georgia|false
+NRG Cedar Bayou Generating Station|NRG|TX|1|2|65|147506|442011440|'NRG Construction LLC'|nrg|false
+Empire Roofing Companies Inc|Empire Roofing Companies Inc|TX|1|2|165|423562|752759310|'Empire Roofing Companies, Inc.'|empire roofing companies|false
+Empire Roofing Company Southeast LLC|Empire Roofing Company Southeast LLC|FL|1|2|85|161939|261887467|'Empire Roofing Company Southeast, LLC'|empire roofing company southeast|false
+Benchmark Winona|Benchmark|MN|1|3|781|1533739|742211011|'Benchmark Inc.'|benchmark|false
+Benchmark Rochester|Benchmark|MN|1|3|598|1175409|742211011|'Benchmark Inc.'|benchmark|false
+FONTAINE WEATHERPROOFING INC|FONTAINE WEATHERPROOFING INC|CA|1|2|56|132448|204014128|'Fontaine Weatherproofing LLC'|fontaine weatherproofing|false
+Scholten Roofing inc|Scholten Roofing Inc|WA|1|2|45|38256|910890646|'Scholten Roofing Inc.'|scholten roofing|false
+Performance Roofing LLC|Performance Roofing LLC|FL|1|2|55|39851|205739365|'Performance Roofing Inc.', 'Performance Roofing Systems Inc.'|performance roofing|true
+Kulp's of Stratford|Kulp's of Stratford|WI|1|2|39|70500|391915695|'Kulp's of Stratford LLC'|kulp's of stratford|false
+US Ply, Inc - Corp|US Ply, Inc|TX|1|2|59|114631||'US Ply Inc.'|us ply|false
+D&L Roofing LLC|D&L Roofing LLC|NV|3|2|61|86638|272001551|'D&L Roofing LLC'|d&l roofing|false
+Burger King 4758|MRB Holdings LLC|CA|1|2|23|29914|200816567|'MRB Contractors LLC'|mrb|false
+BK 7804|MRB Holdings LLC|NV|1|2|20|25890|200816567|'MRB Contractors LLC'|mrb|false
+Scott Enterprises|Scott Enterprises|NE|1|2|77|143361||'Scott Enterprises Inc.'|scott|false
+Tuscaloosa|GAF|AL|1|2|153|299179|751509396|'GAF'|gaf|false
+Tampa|GAF|FL|1|2|126|318787|223626208|'GAF'|gaf|false
+Cumming|GAF|GA|1|2|35|74347|203531649|'GAF'|gaf|false
+Chester|GAF|SC|1|2|96|179704|223626208|'GAF'|gaf|false
+AECOM: CS Federal|AECOM|VA|1|2|48|120190||'AECOM'|aecom|false
+Hunt Construction Group|AECOM|IN|1|3|885|1841072||'AECOM'|aecom|false
+Tishman Construction Corporation|AECOM|NY|1|3|1154|2185387||'AECOM'|aecom|false
+Leading Builders Group LLC (Master)|AECOM|NY|1|2|190|362826||'AECOM'|aecom|false
+Commercial Roofing|Commercial Roofing A Tecta America Company|WI|1|2|20|29982|842696369|'Commercial Roofing a Tecta America Company LLC'|commercial roofing a tecta america|false
+Stockton|GAF|CA|1|2|32|78601|223626208|'GAF'|gaf|false
+Michigan City|GAF|IN|1|2|179|378037|223626208|'GAF'|gaf|false
+Bitec Inc|Bitec Inc|AR|1|2|43|106106|710640983|'Bitec Inc.'|bitec|false
+United Industries Corp. - Chapin Manufacturing|United Industries Corporation|MO|1|3|400|886347||'United Contractors'|united|false
+Pickens Contracting, Inc.|Pickens Contracting, Inc.|SC|1|2|67|139193|570481031|'Pickens Contracting Inc.'|pickens contracting|false
+Boyd Corporation - Elkhart, IN|Boyd Corporation|IN|1|2|92|172331|204672193|'Boyd Inc.'|boyd|false
+Boyd Corporation Allenton|Boyd Corp|WI|1|2|123|251462|274599147|'Boyd Inc.'|boyd|false
+Tecta America Seattle LLC|Tecta America Seattle LLC|WA|1|2|30|47813|260150494|'Tecta America Seattle LLC'|tecta america seattle|false
+ARCHITECTURAL SHEET METAL, INC|ARCHITECTURAL SHEET METAL, INC|WA|1|2|38|44638|911160776|'Architectural Sheet Metal Inc.'|architectural sheet metal|false
+Ardizzone Enterprises Inc|Ardizzone Enterprises Inc|IN|1|2|35|73324|351805237|'Ardizzone Enterprises Inc.'|ardizzone|false
+Campany Roof Maintenance|Campany Roof Maintenance|FL|1|2|35|86063|270278579|'Campany Roof Maintenance LLC'|campany roof maintenance|false
+Shafter Shingle|GAF|CA|1|2|159|408929|741925368|'GAF'|gaf|false
+Tecta America West Florida, LLC|Tecta America West Florida, LLC|FL|1|1|19|37196||'Tecta America West Florida LLC'|tecta america west florida|false
+Mt. Vernon TPO|GAF|IN|1|2|36|7877|223626208|'GAF'|gaf|false
+JB Roofing a Tecta America Company LLC|JB Roofing a Tecta America Company LLC|OH|1|2|29|49017|814397282|'JB Roofing a Tecta America Company LLC'|jb roofing a tecta america|false
+JB Roofing a Tecta America Company LLC Akron Office|JB Roofing a Tecta America Company LLC|OH|1|2|23|38890|814397282|'JB Roofing a Tecta America Company LLC'|jb roofing a tecta america|false
+JB Roofing a Tecta America Company LLC Louisville|JB Roofing a Tecta America Company LLC|KY|1|1|7|11795|814397282|'JB Roofing a Tecta America Company LLC'|jb roofing a tecta america|false
+JB Roofing a Tecta America Company LLC Worthington Office|JB Roofing a Tecta America Company LLC|OH|1|2|20|33546|814397282|'JB Roofing a Tecta America Company LLC'|jb roofing a tecta america|false
+Atlas Fabrication, LLC|Atlas Fabrication, LLC|OK|1|2|30|66957|823064794|'Atlas Fabrication'|atlas fabrication|false
+Central States Manufacturing - Corporate|Central States Manufacturing|AR|1|2|135|261200||'Central States Manufacturing'|central states|false
+L.E. Schwartz & Son, Inc.|L.E. Schwartz & Son, Inc.|GA|1|2|50|103078|580670431|'L.E. Schwartz & Son Inc.'|l.e. schwartz & son|false
+Columbia Roofing, Inc|Columbia Roofing, Inc|MD|1|2|20|31807|521224368|'Columbia Roofing Inc.'|columbia roofing|false
+Central States Manufacturing - Lowell|Central States Manufacturing|AR|1|2|198|426416||'Central States Manufacturing'|central states|false
+White Bear Lake - BIC|Braun Intertec Corporation|MN|1|2|51|96919|411684205|'Braun Intertec Corp.'|braun intertec|false
+St Cloud - BIC|Braun Intertec Corp.|MN|1|2|21|39219|411684205|'Braun Intertec Corp.'|braun intertec|false
+Hibbing - BIC|Braun Intertec Corporation|MN|1|2|22|38714|411684205|'Braun Intertec Corp.'|braun intertec|false
+Bloomington - BIC|Braun Intertec Corporation|MN|1|3|354|723625|411684205|'Braun Intertec Corp.'|braun intertec|false
+Tallahassee Roofing Inc|Tallahassee Roofing Inc|FL|1|2|40|46632|261356134|'Tallahassee Roofing Inc.'|tallahassee roofing|false
+Central States Manufacturing - Michigan City|Central States Manufacturing|IL|1|2|76|149876||'Central States Manufacturing'|central states|false
+Central States Manufacturing - Cedar Hill|Central States Manufacturing|TX|1|2|117|248902||'Central States Manufacturing'|central states|false
+Central States Manufacturing - Mount Airy|Central States Manufacturing|NC|1|2|67|129613||'Central States Manufacturing'|central states|false
+Central States Manufacturing - Claysburg|Central States Manufacturing|PA|1|2|82|166543||'Central States Manufacturing'|central states|false
+Central States Manufacturing - Graniteville|Central States Manufacturing|SC|1|2|78|151969||'Central States Manufacturing'|central states|false
+WEST TENN PAVING & GRADING|DELTA CONTRACTING COMPANY LLC|TN|1|2|103|205912|204291579|'Delta Contracting Services Inc.'|delta contracting|false
+CST - COL - Columbia|Crescent|SC|1|2|34|21202|450699531|'Crescent Construction Services'|crescent|false
+PermaBASE Building Products, LLC|National Gypsum|IN|1|2|27|53451|852993904|'National Gypsum Co.'|national gypsum|false
+Central States Manufacturing - Jasper|Central States Manufacturing|AL|1|2|131|244381||'Central States Manufacturing'|central states|false
+TECTA AMERICA DAKOTAS LLC|TECTA AMERICA DAKOTAS LLC|ND|1|2|104|188895|450278200|'Tecta America Dakotas LLC'|tecta america dakotas|false
+Central States Manufacturing - St. Peters|Central States Manufacturing|MO|1|2|55|112169||'Central States Manufacturing'|central states|false
+Central States Manufacturing - Sequin|Central States Manufacturing|TX|1|2|77|156885||'Central States Manufacturing'|central states|false
+C.L. Linfoot Co|C.L. Linfoot Co|ND|1|2|64|112217||'C.L. Linfoot Co.'|c.l. linfoot|false
+Central States Manufacturing - Scottsville|Central States Manufacturing|KY|1|2|43|81125||'Central States Manufacturing'|central states|false
+Central States Manufacturing - Hartford|Central States Manufacturing|SD|1|2|81|157929||'Central States Manufacturing'|central states|false
+Advanced Industrial Roofing, Inc.|Advanced Industrial Roofing, Inc.|OH|1|2|80|119604||'Advanced Industrial Roofing Inc.'|advanced industrial roofing|false
+Corporate|Corporate|MN|1|2|87|159183|411989305|'Corporate Contractors Inc.'|corporate|false
+Princeton|Smith Services|WV|1|2|79|163519|300756134|'Smith Group'|smith|false
+DMI OH-1|Dimensional Metals Inc|OH|1|2|63|116448|311225408|'Dimensional Metals Inc.'|dimensional metals|false
+O'Neal Roofing Company|O'Neal Roofing Company|FL|1|2|36|35648|592015309|'O'Neal Roofing Co. Inc.'|o'neal roofing|false
+O'Neal Contracting, Inc.|O'Neal Roofing Company|FL|1|2|32|26059|593126643|'O'Neal Roofing Co. Inc.'|o'neal roofing|false
+Milliken Golden Valley|Milliken & Company|NC|1|2|105|218733|510105342|'Milliken & Company'|milliken &|false
+Milliken Hatch|Milliken & Company|NC|1|2|88|181041|510105342|'Milliken & Company'|milliken &|false
+Anthony Roofing Tecta America.com|Anthony Roofing Tecta America|IL|1|2|85|141688|362699848|'Anthony Roofing Tecta America LLC'|anthony roofing tecta america|false
+O'Neal Inc|O'Neal Inc.|SC|1|2|245|434304|570619503|'O'Neal Construction'|o'neal|false
+Tech Manufacturing|Tech Manufacturing|MO|1|2|88|43645|912188411|'Tech Corp LLC', 'Tech Systems Inc.'|tech|true
+Horch Roofing, Inc.|Horch Roofing, Inc.|ME|1|2|56|105472|272039379|'Horch Roofing'|horch roofing|false
+Gustafson Industries Inc|Gustafson Industries Inc|FL|1|2|30|65002|592741607|'Gustafson Industries Inc.'|gustafson|false
+Tecta America Austin, LLC|Tecta America Austin, LLC|TX|1|2|22|50744|841505685|'Tecta America Austin LLC'|tecta america austin|false
+Roofing|Progressive Roofing Inc|NY|1|2|33|33960|161064150|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Warren Roofing & Insulating Company|Warren Roofing & Insulating Company|OH|1|2|70|122105|340604460|'Warren Roofing & Insulating Co.'|warren roofing & insulating|false
+Mid-State Roofing and Coating, Inc|Mid-State Roofing and Coating, Inc|PA|1|2|36|76165|392050264|'Mid-State Roofing and Coating Inc.'|mid-state roofing and coating|false
+Pressure Point Roofing|Pressure Point Roofing|OR|1|2|41|85076|931052886|'Pressure Point Roofing'|pressure point roofing|false
+The Fania Company|The Fania Company|NJ|1|2|31|56003|221501476|'The Fania Co.'|the fania|false
+Royal Management Corp|Royal Management Corporation|IL|1|2|27|56043|363678107|'Royal industries LLC'|royal|false
+Alliance Roofing Holdings Inc|Alliance Roofing|CO|1|2|19|42015|853598851|'Alliance Roofing', 'Alliance Roofing, LLC'|alliance roofing|true
+Logan Airport Terminal E|Titan Roofing, Inc|MA|1|2|29|54335|42630303|'Titan Roofing'|titan roofing|false
+Electric Boat|Titan Roofing Inc|CT|1|1|6|11269|42630303|'Titan Roofing'|titan roofing|false
+Albany Office|Titan Roofing, Inc.|NY|1|2|138|270675|42630303|'Titan Roofing'|titan roofing|false
+Newburgh Office|Titan Roofing, Inc|NY|1|2|16|30336|42630303|'Titan Roofing'|titan roofing|false
+Syracuse Office|Titan Roofing, Inc.|NY|1|2|25|46046|42630303|'Titan Roofing'|titan roofing|false
+Plattsburgh|Titan Roofing, Inc|NY|1|2|2|3887|42630303|'Titan Roofing'|titan roofing|false
+New Haven Office|Titan Roofing, Inc.|CT|1|2|7|12680|42630303|'Titan Roofing'|titan roofing|false
+Worcester|Titan Roofing, Inc.|MA|1|2|5|10932|42630303|'Titan Roofing'|titan roofing|false
+Commonwealth Pier|Titan Roofing, Inc|MA|1|2|13|24668|42630303|'Titan Roofing'|titan roofing|false
+Quincy Office|Titan Roofing, Inc.|MA|1|2|75|128630|42630303|'Titan Roofing'|titan roofing|false
+Springfield Office|Titan Roofing, Inc.|MA|1|2|76|146341|42630303|'Titan Roofing'|titan roofing|false
+LR Management Company Related Midwest Office|LR Management Company|IL|1|2|64|133536|363537319|'LR Construction LLC'|lr|false
+COLLINS ROOFING INC|Collins Roofing Inc.|UT|1|2|34|81618|870306507|'Collins Roofing Inc.'|collins roofing|false
+Atlas roofing|Atlas Roofing Corporation|OK|2|2|88|242026|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Roof Check Inc|Roof Check Inc|CO|1|2|50|99708|841035057|'Roof Check Inc.'|roof check|false
+Academy|Academy Roofing Corporation|NH|1|2|32|67799|43758635|'Academy Roofing Inc.'|academy roofing|false
+Nor-Son Custom Builders|Anderson Group Inc|MN|1|2|65|121391|411321194|'Anderson Associates'|anderson|false
+Nor-Son Construction|Anderson Group Inc|MN|1|2|62|122725|873873087|'Anderson Associates'|anderson|false
+Nations Roof Gulf Coast, LLC|Nations Roof Gulf Coast, LLC|AL|1|2|28|57654|475521881|'Nations Roof Gulf Coast'|nations roof gulf coast|false
+Barr Roofing Company|Barr Roofing Company|TX|1|2|34|76048||'Barr Roofing Co.'|barr roofing|false
+Roof Tech|Roof Tech, Inc.|MN|1|2|33|41296|411738553|'Roof Tech Inc.'|roof tech|false
+Crescent Manufacturing|Crescent Manufacturing|NY|1|2|155|306728|222998620|'Crescent Construction Services'|crescent|false
+DDP Roofing Services Inc.|DDP Roofing Services Inc.|PA|1|2|98|275111||'DDP Roofing Services Inc.'|ddp roofing|false
+Anderson Construction Company of North Florida|Anderson Construction Company|FL|1|1|17|35360|522388318|'Anderson Associates'|anderson|false
+Hart Street Warehouse|Window World, Inc.|HI|1|2|70|134400|942978093|'Window World Inc.'|window world|false
+Capitol Roofing Solutions LLC|Capitol Roofing Solutions LLC|IL|1|1|3|2616|821629584|'Capitol Roofing Inc.'|capitol roofing|false
+Premier Construction Group|Premier Construction Group|PA|1|2|31|64000|251847591|'Premier Enterprises'|premier|false
+American Building Systems LLC.|American Building Systems LLC|NV|1|2|142|287320|463600668|'American Building Contractors Inc'|american building|false
+Pacific Home Health & Hospice|Preferred Management|OR|1|2|11|18155|931213338|'Preferred Construction Services Inc.'|preferred|false
+Kalkreuth Roofing & Sheet Metal, Inc.|Kalkreuth Roofing & Sheet Metal, Inc.|WV|1|2|164|213520|550647319|'Kalkreuth Roofing & Sheet Metal Inc.'|kalkreuth roofing & sheet metal|false
+Central States Roofing|Central States Roofing|IA|1|2|45|94931|420939475|'Central States Roofing Co.'|central states roofing|false
+US Gypsum Auburn|USG|WA|1|2|48|89256|361898410|'USG Corporation'|usg|false
+USG Interiors Cartersville|USG|GA|1|2|29|57210|453811432|'USG Corporation'|usg|false
+USG Interiors Cloquet|USG|MN|1|3|312|665350|453811432|'USG Corporation'|usg|false
+US Gyspum Delavan|USG|WI|1|2|23|50018|361898410|'USG Corporation'|usg|false
+USG Interiors Greenville|USG|MS|1|2|188|412774|453811432|'USG Corporation'|usg|false
+Ceilings Plus|USG|CA|1|2|182|344598|384049706|'USG Corporation'|usg|false
+USG Interiors Red Wing|USG|MN|1|1|30|67544|453811432|'USG Corporation'|usg|false
+USG Interiors Stockton|USG|CA|1|2|22|40479|453811432|'USG Corporation'|usg|false
+USG Interiors Walworth|USG|WI|1|2|45|100074|453811432|'USG Corporation'|usg|false
+0000000001 ALLIED SERVICES REHAB HOSPITA|ALLIED SERVICES|PA|1|3|405|482886|232523395|'Allied Construction Services'|allied|false
+0000000002 DEVELOPMENTAL SERVICES|ALLIED SERVICES|PA|1|3|310|395340|240860110|'Allied Construction Services'|allied|false
+0000000003 VOCATIONAL SERVICES|ALLIED SERVICES|PA|1|3|312|449295|240860110|'Allied Construction Services'|allied|false
+0000000004 SKILLED NURSING CENTER|ALLIED SERVICES|PA|1|3|470|519804|232523688|'Allied Construction Services'|allied|false
+0000000005 JOHN HEINZ INSTITUTE OF REHAB|ALLIED SERVICES|PA|1|3|382|437861|232262852|'Allied Construction Services'|allied|false
+0000000006 BURNLEY WORK SHOP DIV 06|ALLIED SERVICES|PA|1|3|116|116027|231642528|'Allied Construction Services'|allied|false
+0000000010 MENTAL HEALTH SERVICES|ALLIED SERVICES|PA|1|3|152|150715|240860110|'Allied Construction Services'|allied|false
+0000000015 HOME HEALTH|ALLIED SERVICES|PA|1|3|65|88097|240860110|'Allied Construction Services'|allied|false
+0000000016 CORPORATE SERVICES|ALLIED SERVICES|PA|1|3|306|384694|240860110|'Allied Construction Services'|allied|false
+0000000030 PHARMACY|ALLIED SERVICES|PA|1|3|45|58721|240860110|'Allied Construction Services'|allied|false
+0000000040 MEADE STREET SKILLED NURSING|ALLIED SERVICES|PA|1|3|239|262403|232862231|'Allied Construction Services'|allied|false
+0000000045 CENTER CITY SKILLED NURSING|ALLIED SERVICES|PA|1|3|94|115119|232862231|'Allied Construction Services'|allied|false
+0000000034 HOSPICE|ALLIED SERVICES|PA|1|3|99|112298|240860110|'Allied Construction Services'|allied|false
+USG Interiors Westlake|USG|OH|1|2|166|313218|453811432|'USG Corporation'|usg|false
+US Gypsum Galena Park|USG|TX|1|3|210|449846|361898410|'USG Corporation'|usg|false
+US Gypsum North Kansas City|USG|MO|1|2|52|107037|361898410|'USG Corporation'|usg|false
+US Gypsum Oakfield|USG|NY|1|2|113|222147|361898410|'USG Corporation'|usg|false
+US Gypsum Otsego|USG|MI|1|3|142|293414|204479731|'USG Corporation'|usg|false
+US Gypsum Baltimore|USG|MD|1|2|203|428439|361898410|'USG Corporation'|usg|false
+US Gypsum Dallas|USG|TX|1|2|57|122123|361898410|'USG Corporation'|usg|false
+US Gypsum Detroit|USG|MI|1|2|100|201721|361898410|'USG Corporation'|usg|false
+USG Denver|USG|CO|1|1|15|33964|361898410|'USG Corporation'|usg|false
+US Gypsum Fort Dodge|USG|IA|1|2|121|254715|361898410|'USG Corporation'|usg|false
+US Gypsum New Orleans|USG|LA|1|2|61|125466|361898410|'USG Corporation'|usg|false
+US Gypsum Phoenix|USG|AZ|1|1|18|37021|361898410|'USG Corporation'|usg|false
+US Gypsum Southard|USG|OK|1|2|204|413721|361898410|'USG Corporation'|usg|false
+US Gypsum Torrance|USG|CA|1|2|42|82307|361898410|'USG Corporation'|usg|false
+US Gypsum Weirton|USG|WV|1|2|24|44932|361898410|'USG Corporation'|usg|false
+US Gypsum Aliquippa|USG|PA|1|2|164|328387|361898410|'USG Corporation'|usg|false
+United States Gypsum Co  Bridgeport Plant|USG|AL|1|2|209|416752|361898410|'USG Corporation'|usg|false
+US Gypsum East Chicago|USG|IN|1|2|156|315375|361898410|'USG Corporation'|usg|false
+US Gypsum Rainier|USG|OR|1|2|105|199718|361898410|'USG Corporation'|usg|false
+US Gypsum Washingtonville|USG|PA|1|2|168|314577|361898410|'USG Corporation'|usg|false
+US Gypsum Jacksonville|USG|FL|1|3|231|478937|361898410|'USG Corporation'|usg|false
+US Gypsum Plaster City|USG|CA|1|3|260|579390|361898410|'USG Corporation'|usg|false
+US Gypsum Shoals|USG|IN|1|2|233|470917|361898410|'USG Corporation'|usg|false
+US Gypsum Sigurd|USG|UT|1|2|100|195444|361898410|'USG Corporation'|usg|false
+PROtect, LLC|PROtect, LLC|KS|1|3|293|711578|470758334|'ProTect LLC'|protect|false
+US Gypsum Sperry|USG|IA|1|2|219|495830|361898410|'USG Corporation'|usg|false
+US Gypsum Sweetwater|USG|TX|1|2|248|513325|361898410|'USG Corporation'|usg|false
+Turner Roofing Company|Turner Roofing Company|MD|2|2|40|67458|521503035|'Turner Roofing Co.'|turner roofing|false
+US Gypsum Port Reading|USG|NJ|1|2|80|155800|361898410|'USG Corporation'|usg|false
+Paragon Medical - Indianapolis|MW Industries|IN|1|2|80|410847|351831457|'MW'|mw|false
+Paragon Medical - Instruments & Implants - Pierceton|MW Industries|IN|1|3|300|576989|351831457|'MW'|mw|false
+Paragon Medical - Cases & Trays - Pierceton|MW Industries|IN|1|3|267|680555|351831457|'MW'|mw|false
+Paragon Medical - Smithfield|MW Industries|UT|1|2|190|421518|351831457|'MW'|mw|false
+MW Life Sciences - Vandalia|MW Industries|OH|1|2|111|211467|760806287|'MW'|mw|false
+Graham Roofing Incorporated|Graham Roofing Incorporated|MS|1|2|42|82477|640512412|'Graham Roofing Inc.'|graham roofing|false
+Vestal Park Rehabilitation and Nursing Center|USG|NY|1|2|148|231128|274402705|'USG Corporation'|usg|false
+Stonebrook Exterior - Colorado|Stonebrook Exterior|CO|1|2|28|58897|260431159|'Stonebrook Exterior'|stonebrook exterior|false
+Stonebrook Exterior - Nebraska|Stonebrook Exterior|NE|1|2|137|234714|260431159|'Stonebrook Exterior'|stonebrook exterior|false
+JHS Restoration, Inc.|JHS Restoration, Inc.|CT|1|1|18|32214|272097915|'JHS Restoration Inc.'|jhs restoration|false
+The Garland Company|The Garland Company|OH|1|3|341|709280|341115246|'The Garland Company Inc.'|the garland|false
+Scalo Inc.|Scalo Inc.|PA|1|2|32|67789|232885490|'Scalo Incorporated'|scalo|false
+Benchmark|Benchmark|AZ|1|2|126|237316|742211011|'Benchmark Inc.'|benchmark|false
+CertainTeed-Orem|CertainTeed|UT|1|2|95|174260|232510893|'CertainTeed LLC'|certainteed|false
+United States Roofing Corporation|United States Roofing Corporation|PA|1|2|156|250054|231528668|'United States Roofing Corp.'|united states roofing|false
+Willow Lake|Corporate|MN|1|3|453|900576|410268370|'Corporate Contractors Inc.'|corporate|false
+Recovery Roofing Inc|Recovery Roofing Inc|FL|1|2|25|56534|843651605|'Recovery Roofing Inc.'|recovery roofing|false
+BK 11809|MRB Holdings LLC|NV|1|2|20|28686|200816567|'MRB Contractors LLC'|mrb|false
+BK 3993|MRB Holdings LLC|NV|1|2|20|25356|200816567|'MRB Contractors LLC'|mrb|false
+Owens Corning|Owens Corning|TX|1|2|106|221223||'Owens Corning'|owens corning|false
+JM Eagle PCP|JM Manufacturing|CA|1|1|14|24790|840895616|'JM Contractors Inc'|jm|false
+Corporate Technologies LLC|Corporate Technologies LLC|MN|1|2|203|356252|202409337|'Corporate Contractors Inc.'|corporate|false
+MONARCH CONSTRUCTION CO|MONARCH CONSTRUCTION CO|IL|1|2|60|128748|363603650|'Monarch Consulting Services'|monarch|false
+ALVA ROOFING COMPANY|ALVA ROOFING COMPANY|OK|1|2|50|55221||'Alva Roofing Co.'|alva roofing|false
+Hytech Roofing, INC|Hytech Roofing, INC|WA|1|2|52|106438|911202974|'HyTech Roofing Inc.'|hytech roofing|false
+Interstate Construction Development Company|Interstate Construction Development Company|MD|1|2|116|208564|522190821|'Interstate Corp.'|interstate|false
+Owens Corning Foam - Rockford|Owens Corning|IL|1|2|68|136274||'Owens Corning'|owens corning|false
+Palmer International Inc|Palmer International Inc|PA|1|2|49|90163||'Palmer Construction'|palmer|false
+RAS Services, Inc.|RAS Services Inc|TX|1|2|74|120280|870733880|'RAS Systems LLC'|ras|false
+C.O. Beck & Sons|C.O. Beck & Sons|ME|1|2|22|35000|10246859|'C.O. Beck & Sons Inc.'|c.o. beck & sons|false
+Roofing by Curry|Roofing by Curry|FL|1|2|175|364000||'Roofing by Curry'|roofing by curry|false
+Silktown Roofing, Inc./Derby CT|Silktown Roofing, Inc.|CT|1|2|50|81092|61350674|'Silktown Roofing Inc.'|silktown roofing|false
+Silktown Roofing, Inc./Manchester CT|Silktown Roofing, Inc.|CT|1|2|75|162071|61350674|'Silktown Roofing Inc.'|silktown roofing|false
+Silktown Roofing, Inc.-North/Douglas, MA|Silktown Roofing, Inc.|MA|1|2|25|45014|61350674|'Silktown Roofing Inc.'|silktown roofing|false
+Skyline Construction Inc|Skyline Construction Inc|CA|1|2|205|293563|943250856|'Skyline Construction Services Inc.'|skyline|false
+TAMKO Building Products LLC - Columbus|TAMKO Building Products LLC|KS|1|2|23|42086|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - Dallas|TAMKO Building Products LLC|TX|1|2|89|180410|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - Frederick|TAMKO Building Products LLC|MD|1|2|105|212073|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - Phillipsburg|TAMKO Building Products LLC|KS|1|2|96|186468|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - Tuscaloosa|TAMKO Building Products LLC|AL|1|2|94|197872|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - Ennis|TAMKO Building Products LLC|TX|1|2|28|55075|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - High Street|TAMKO Building Products LLC|MO|1|2|104|210838|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - Knoxville|TAMKO Building Products LLC|TN|1|2|37|74825|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO Building Products LLC - Rangeline|TAMKO Building Products LLC|MO|1|2|38|75630|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+Savannah|GAF|GA|1|2|151|356059|223626208|'GAF'|gaf|false
+Cross Technologies Inc Greenville|Cross Technologies Inc|SC|1|2|24|46565|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Raleigh|Cross Technologies Inc|NC|1|2|21|42682|560600094|'Cross Construction CO. INC.'|cross|false
+Alpha New Jersey|Alpha|NJ|1|3|580|118898|363601505|'Alpha Construction Services'|alpha|false
+CertainTeed|CertainTeed|MI|1|2|238|455465|232510893|'CertainTeed LLC'|certainteed|false
+River City Roofing|River City Roofing|FL|1|2|18|22780|200703878|'River City Roofing', 'River City Roofing Co. Inc.'|river city roofing|true
+Russell Roofing Company|Russell Roofing Company|PA|1|2|37|59815|232680214|'Russell Roofing Co. Inc.'|russell roofing|false
+McKinnis Inc.|McKinnis Inc.|NE|1|2|82|151483|470752353|'McKinnis Inc.'|mckinnis|false
+Allweather Roof|Allweather Roof|MN|1|2|79|138402|411536214|'Allweather Roof'|allweather roof|false
+Owens Corning|Owens Corning|FL|1|2|90|108425|432109021|'Owens Corning'|owens corning|false
+EXCEL Home Office|EXCEL|LA|1|2|75|137127||'Excel Construction Group'|excel|false
+EXCEL Fabrication|EXCEL|LA|1|2|60|165909|721329331|'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Shintech, Freeport|EXCEL|TX|1|3|423|1108858|721503785|'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Westlake, Calvert City KY|EXCEL|KY|1|2|78|165114|721503785|'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Shintech, Addis|EXCEL|LA|1|2|92|186358|721503785|'Excel Construction Group'|excel|false
+A. W. Farrell & Son, Inc. - Erie|A. W. Farrell & Son, Inc.|PA|1|2|35|57513|160954042|'A. W. Farrell & Son'|a. w. farrell & son|false
+A. W. Farrell & Son, Inc. - Las Vegas|A. W. Farrell & Son, Inc.|NV|1|2|36|51678|160954042|'A. W. Farrell & Son'|a. w. farrell & son|false
+A. W. Farrell & Son, Inc. - Plattsburgh|A. W. Farrell & Son, Inc.|NY|1|2|22|47195|160954042|'A. W. Farrell & Son'|a. w. farrell & son|false
+EXCEL Maintenance @ Westlake, Geismar|EXCEL|LA|1|2|37|94732|721503785|'Excel Construction Group'|excel|false
+A. W. Farrell & Son, Inc. - Dunkirk|A. W. Farrell & Son, Inc.|NY|1|2|28|46642|160954042|'A. W. Farrell & Son'|a. w. farrell & son|false
+CCM|Carlisle Construction Materials|PA|1|3|982|1965999|161449809|'Carlisle Construction Materials'|carlisle construction materials|false
+Owens Corning Irving Roofing & Asphalt Plant LLC|Owens Corning|TX|1|2|237|573443||'Owens Corning'|owens corning|false
+Delta T Construction|Delta T Construction|WI|1|2|79|201191|391421168|'Delta T Construction Co. Inc.'|delta t|false
+Snyder Roofing of Oregon, LLC|Snyder Roofing and Sheet Metal, LLC.|OR|1|2|92|191777|911676752|'Snyder Roofing and Sheet Metal, Inc.'|snyder roofing and sheet metal|false
+Snyder Roofing of Washington, LLC|Snyder Roofing and Sheet Metal, LLC.|WA|1|2|163|333732|911976752|'Snyder Roofing and Sheet Metal, Inc.'|snyder roofing and sheet metal|false
+IKO Northeast Inc|IKO Industries|MD|1|2|60|111695|611847605|'IKO Industries'|iko|false
+Consolidated Industries|Consolidated Industries|CT|1|2|76|136699|61547622|'Consolidated Enterprises Inc.'|consolidated|false
+Cross Technologies Inc Nissan Canton|Cross Technologies Inc|MS|1|2|29|55584|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Nissan Smyrna|Cross Technologies Inc|TN|1|2|36|67485|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Oklahoma City|Cross Technologies Inc|OK|1|2|44|89416|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Whitsett|Cross Technologies Inc|NC|1|2|126|125885|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Automation Group|Cross Technologies Inc|NC|1|2|51|97718|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Knoxville|Cross Technologies Inc|TN|1|2|51|97318|560600094|'Cross Construction CO. INC.'|cross|false
+INNOVATIVE ROOFING INC.|INNOVATIVE ROOFING INC.|FL|1|2|15|24469|274530568|'Innovative Roofing', 'Innovative Roofing Systems LLC'|innovative roofing|true
+KAM ROOFING SERVICES LLC|KAM ROOFING SERVICES LLC|FL|1|2|27|51032|833997083|'KAM Roofing Services'|kam roofing|false
+CMR CONSTRUCTION & ROOFING, LLC-FL|CMR CONSTRUCTION & ROOFING, LLC|FL|1|2|151|305386|710873844|'CMR Construction & Roofing'|cmr construction & roofing|false
+CMR CONSTRUCTION & ROOFING, LLC-OK|CMR CONSTRUCTION & ROOFING, LLC|OK|1|2|39|78148|710873844|'CMR Construction & Roofing'|cmr construction & roofing|false
+Gordon Solutions LLC|Gordon Solutions LLC|WI|1|2|18|27119|272409745|'Gordon Contractors Inc.'|gordon|false
+Office|BP Builders|MO|1|2|20|43780|811488183|'BP Builders'|bp builders|false
+Continental Tire the Americas, LLC|Continental Tire the Americas LLC|GA|1|3|257|623226|341417030|'Continental Tire the Americas LLC.'|continental tire the americas|false
+Memphis Trumbull Asphalt Plant|Owens Corning|TN|1|2|20|37075|320176634|'Owens Corning'|owens corning|false
+Owens Corning Roofing Plant|Owens Corning|TN|1|2|105|257175|320176634|'Owens Corning'|owens corning|false
+OKC - Southwest Tube|Webco Industries|OK|1|3|213|506452|731097133|'WEBCO Services LLC'|webco|false
+7445_17135|Encore Roofing, Inc.|GA|1|2|60|130537|10551453|'Encore Roofing Inc.'|encore roofing|false
+O'Neal Steel Incoporated_Knoxville|O'Neal Industries|TN|1|2|20|42420|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporate_Waterloo|O'Neal Industries|IA|1|2|24|51857|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Birmingham|O'Neal Industries|AL|1|2|117|250345|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Evansville|O'Neal Industries|IN|1|2|20|43453|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Ft. Wayne|O'Neal Industries|IN|1|2|22|46671|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Grand Pairie|O'Neal Industries|TX|1|2|50|144970|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Greensboro|O'Neal Industries|NC|1|2|30|63838|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Jackson|O'Neal Industries|MS|1|2|24|50963|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Jacksonville|O'Neal Industries|FL|1|2|22|47208|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Lafayette|O'Neal Industries|LA|1|2|21|44704|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_LIttle Rock|O'Neal Industries|AR|1|2|19|40055|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Mobile|O'Neal Industries|AL|1|2|26|55129|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Nashville|O'Neal Industries|TN|1|2|21|44347|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Pittsburgh|O'Neal Industries|PA|1|2|21|43989|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Shelbyville|O'Neal Industries|IN|1|2|73|156644|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel LLC Corporate Office|O'Neal Industries|AL|1|2|185|396617|630196990|'O'Neal Construction'|o'neal|false
+New Excelsior Inc|Alpha Industries Inc|NC|1|2|76|151909|464271510|'Alpha Construction Services'|alpha|false
+Mt. Vernon|Owens Corning|OH|1|2|40|94868|371525228|'Owens Corning'|owens corning|false
+Precision Construction Company|Precision Construction Company|OR|1|2|31|66888|930984839|'Precision Construction Services'|precision|false
+COMMERCIAL ROOFING LLC|COMMERCIAL ROOFING LLC|NM|1|2|41|82951|850457633|'Commercial Roofing Co. LLC', 'Commercial Roofing LLC', 'Commercial Roofing Systems Inc.'|commercial roofing|true
+Westlake Royal Roofing LLC|Westlake Royal Roofing LLC|CA|1|2|33|65478|330769563|'Westlake Royal Roofing'|westlake royal roofing|false
+Westlake Royal Roofing LLC - Stockton|Westlake Royal Roofing LLC|CA|1|2|37|78484|330769563|'Westlake Royal Roofing'|westlake royal roofing|false
+Berridge Florida Sales Corporation|Berridge Manufacturing|FL|1|1|3|6272|811958099|'Berridge Manufacturing Co.'|berridge|false
+Berridge California Sales Corporation|Berridge Manufacturing|CA|1|1|4|7636|710960386|'Berridge Manufacturing Co.'|berridge|false
+Berridge - Phoenix|Berridge Manufacturing Company|AZ|1|1|3|4941|742125639|'Berridge Manufacturing Co.'|berridge|false
+G&L Tube LLC|O'Neal Industries|TN|1|2|148|310267|842568461|'O'Neal Construction'|o'neal|false
+Berridge - Kansas|Berridge Manufacturing Company|KS|1|1|3|6140|742125639|'Berridge Manufacturing Co.'|berridge|false
+Owens Corning|Owens Corning|OH|1|3|464|931972||'Owens Corning'|owens corning|false
+Berridge - Denver|Berridge Manufacturing Company|CO|1|1|6|13866|742125639|'Berridge Manufacturing Co.'|berridge|false
+Berridge - Dallas|Berridge Manufacturing Company|TX|1|1|6|12170|742125639|'Berridge Manufacturing Co.'|berridge|false
+Berridge - Chicago|Berridge Manufacturing Company|IL|1|1|3|5868|742125639|'Berridge Manufacturing Co.'|berridge|false
+Westlake Royal Roofing LLC-Corona|Westlake Royal Roofing LLC|CA|1|2|53|119733|330769563|'Westlake Royal Roofing'|westlake royal roofing|false
+Berridge - Atlanta|Berridge Manufacturing Company|GA|1|1|4|6728|742125639|'Berridge Manufacturing Co.'|berridge|false
+Momentum Builders Inc|Momentum Builders Inc|PA|1|1|14|17712|251413147|'Momentum Builders Inc.'|momentum builders|false
+Chowchilla|CertainTeed Corporation|CA|1|2|176|363744|232510893|'CertainTeed LLC'|certainteed|false
+Berridge - Oklahoma|Berridge Manufacturing Company|OK|1|1|4|7973|742125639|'Berridge Manufacturing Co.'|berridge|false
+Berridge - Corporate|Berridge Manufacturing|TX|1|2|30|68364|742125639|'Berridge Manufacturing Co.'|berridge|false
+COOPER ROOFING & SOLAR, INC.|COOPER ROOFING & SOLAR, INC.|NV|1|3|378|812700|270365569|'Cooper Roofing & Solar INC'|cooper roofing & solar|false
+Westlake Royal Roofing LLC-Denver|Westlake Royal Roofing LLC|CO|1|1|15|33646|330769563|'Westlake Royal Roofing'|westlake royal roofing|false
+Charleston SC IW Plant|Owens Corning|SC|1|2|33|59502|930957943|'Owens Corning'|owens corning|false
+PAPT - AIS|AIS|PA|1|2|49|96687|251399868|'AIS Construction Inc'|ais|false
+JR Roofing|JR Roofing|NE|1|1|6|8882|263983582|'JR Roofing, LLC'|jr roofing|false
+Wicks Roofing|Wicks Roofing|CA|1|2|75|152486|770418522|'Wicks Roofing Inc'|wicks roofing|false
+Foster Contracting, Inc.|Foster Contracting, Inc.|IN|1|1|16|25907|901194237|'Foster Contracting, Inc.'|foster contracting|false
+Certainteed Corporation|Certainteed|CA|1|2|87|189611|232510895|'CertainTeed LLC'|certainteed|false
+Westlake Royal Roofing LLC - Rialto|Westlake Royal Roofing LLC|CA|1|2|91|223425|330769563|'Westlake Royal Roofing'|westlake royal roofing|false
+Home instead Senior care|Allied LLC|CO|1|2|192|220967|841494367|'Allied Construction Services'|allied|false
+Westlake Royal Roofing LLC - Oceanside|Westlake Royal Roofing LLC|CA|1|2|60|108059|330769563|'Westlake Royal Roofing'|westlake royal roofing|false
+CFS Roofing|CFS Roofing|FL|1|2|204|357361|274953359|'CFS Roofing Services'|cfs roofing|false
+Webco VAF|Webco Industries Inc|PA|1|2|59|120374|731097133|'WEBCO Services LLC'|webco|false
+Oil City Tube Division|Webco Industries Inc.|PA|1|2|174|381968|731097133|'WEBCO Services LLC'|webco|false
+Webco|Webco Industries Inc|PA|1|2|174|381968||'WEBCO Services LLC'|webco|false
+karnak corp north|karnak corporation|NJ|1|2|53|111631|135207035|'KARNAK'|karnak|false
+Business Interiors|Facilitech, Inc.|TX|1|2|101|203889|752253859|'Facilitech Construction Group'|facilitech|false
+BRDOH- Cincinnati|Bone Dry Roofing, Inc|OH|1|2|50|79713|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+TCR Systems|TCR Systems LLC|IL|1|2|123|227782|141845838|'TCR Construction Group'|tcr|false
+BDROH- Columbus|Bone Dry Roofing, Inc|OH|1|1|15|25326|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Piedmont National Corp.|Piedmont National Corp.|GA|1|3|278|537753|580707747|'Piedmont Construction Company'|piedmont|false
+BDROH- Dayton|Bone Dry Roofing, Inc|OH|1|1|3|5310|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Paramount Roofing, Inc|Paramount Roofing, Inc|NY|1|2|20|46211|262459527|'Paramount Roofing Inc.', 'Paramount Roofing LLC'|paramount roofing|true
+Dynamic Systems INC|Dynamic Systems INC|NY|1|2|45|84479|274258481|'Dynamic National'|dynamic|false
+Tech Roofing Service, Inc.|Tech Roofing Service, Inc.|MA|1|2|23|45418|42730706|'Tech Roofing Service Inc.'|tech roofing service|false
+Superior Metals|Superior Metal Technologies|IN|1|2|110|5000|371446269|'Superior Metal Systems Inc.'|superior metal|false
+BDRIN-Evansville|Bone Dry Roofing, Inc|IN|1|1|3|5112|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Tri-Lam Roofing & Waterproofing, Inc.|Tri-Lam Roofing & Waterproofing, Inc.|TX|1|2|35|75827|262227683|'Tri-Lam Roofing & Waterproofing Inc.'|tri-lam roofing & waterproofing|false
+Asheville|Baker Roofing|NC|1|1|24|41324|560130810|'Baker Roofing Co.'|baker roofing|false
+Birmingham|Baker Roofing|AL|1|1|9|17226|560130810|'Baker Roofing Co.'|baker roofing|false
+Charleston|Baker Roofing|SC|1|1|57|96648|560130810|'Baker Roofing Co.'|baker roofing|false
+Charlotte|Baker Roofing|NC|1|1|62|126336|560130810|'Baker Roofing Co.'|baker roofing|false
+Chattanooga|Baker Roofing|TN|1|1|15|32921|560130810|'Baker Roofing Co.'|baker roofing|false
+Coating|Baker Roofing|NC|1|1|10|21043|560130810|'Baker Roofing Co.'|baker roofing|false
+Garden Roofing|Baker Roofing|NC|1|1|11|21973|560130810|'Baker Roofing Co.'|baker roofing|false
+Greensboro|Baker Roofing|NC|1|1|47|101106|560130810|'Baker Roofing Co.'|baker roofing|false
+Greenville NC|Baker Roofing|NC|1|1|13|25247|560130810|'Baker Roofing Co.'|baker roofing|false
+Greenville SC|Baker Roofing|SC|1|1|12|25241|560130810|'Baker Roofing Co.'|baker roofing|false
+Memphis|Baker Roofing|TN|1|1|9|26009|560130810|'Baker Roofing Co.'|baker roofing|false
+Myrtle Beach|Baker Roofing|SC|1|1|18|31741|560130810|'Baker Roofing Co.'|baker roofing|false
+Nashville|Baker Roofing|TN|1|1|37|79809|560130810|'Baker Roofing Co.'|baker roofing|false
+Orlando|Baker Roofing|FL|1|1|20|61330|560130810|'Baker Roofing Co.'|baker roofing|false
+Pensacola|Baker Roofing|FL|1|1|9|16341|560130810|'Baker Roofing Co.'|baker roofing|false
+Baker Roofing Corporate|Baker Roofing|NC|1|1|257|550647|560130810|'Baker Roofing Co.'|baker roofing|false
+Residential|Baker Roofing|NC|1|1|59|137309|560130810|'Baker Roofing Co.'|baker roofing|false
+Residential Branches|Baker Roofing|NC|1|1|59|37720|560130810|'Baker Roofing Co.'|baker roofing|false
+Restoration|Baker Roofing|NC|1|1|18|56182|560130810|'Baker Roofing Co.'|baker roofing|false
+Savannah, GA|Baker Roofing|GA|1|1|7|12438|560130810|'Baker Roofing Co.'|baker roofing|false
+1515 Lake Wheeler/SMS|Baker Roofing|NC|1|1|22|2080|560130810|'Baker Roofing Co.'|baker roofing|false
+Wilmington|Baker Roofing|NC|1|1|33|55723|560130810|'Baker Roofing Co.'|baker roofing|false
+VA Offices Baker Roofing LLC|Baker Roofing|VA|1|1|192|385163|541136608|'Baker Roofing Co.'|baker roofing|false
+Roofs, Inc.|Roofs, Inc.|IL|1|2|17|29630|362874756|'Roofs Inc.'|roofs|false
+BDRIN-Ft Wayne|Bone Dry Roofing, Inc|IN|1|1|17|28450|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Rockwell Roofing, Inc.|Rockwell Roofing, Inc.|MA|1|2|44|101824|42652947|'Rockwell Roofing Inc.'|rockwell roofing|false
+Sherriff-Goslin Company|Sherriff-Goslin Company|MI|1|2|150|211023||'Sherriff-Goslin Co.'|sherriff-goslin|false
+BDR-IndyNorth|Bone Dry Roofing, Inc|IN|1|2|217|398075|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+BDRIN-Lafayette|Bone Dry Roofing, Inc|IN|1|2|26|36901|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+BDRKY-Lexington|Bone Dry Roofing, Inc|KY|1|2|31|53851|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+BDRKY-Louisville|Bone Dry Roofing, Inc|KY|1|2|45|84005|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+BDRTN-Nashville|Bone Dry Roofing, Inc|TN|1|1|14|23557|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+BDRMO-St Louis|Bone Dry Roofing, Inc|MO|1|2|30|51356|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Tarheel Roofing, Inc.|Tarheel Roofing, Inc.|FL|1|2|57|122696|592679504|'Tarheel Roofing Inc.'|tarheel roofing|false
+BDRIN-Bloomington|Bone Dry Roofing, Inc|IN|1|2|22|45861|351883225|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+Langer Roofing & Sheet Metal Inc.|Langer Roofing & Sheet Metal Inc.|WI|1|2|142|219850|390667560|'Langer Roofing & Sheet Metal Inc.'|langer roofing & sheet metal|false
+United Services Inc.|United Services Inc|MO|1|2|57|106499|431647434|'United Contractors'|united|false
+Dixie Roofing, Inc. - Powell|Dixie Roofing, Inc.|TN||2|52|115768|621136030|'Dixie Roofing Inc.'|dixie roofing|false
+Dixie Roofing, Inc. - LaFollette|Dixie Roofing, Inc.|TN||2|123|278319|621136030|'Dixie Roofing Inc.'|dixie roofing|false
+Raymond Construction|Raymond Construction|TX|1|2|20|27685||'Raymond Group'|raymond|false
+Best Roofing Services, LLC|Best Roofing|FL|1|3|281|405396||'Best Roofing Company'|best roofing|false
+Milliken & Company Two Rivers Plant|Milliken & Company|NC|1|2|173|145055|510105342|'Milliken & Company'|milliken &|false
+Scott Construction Inc.|Scott Construction Inc.|WI|1|2|97|227685|390979191|'Scott Enterprises Inc.'|scott|false
+Service First|Service First|CA|1|2|61|239864|330155871|'Service First Solutions'|service first|false
+Wichita Falls TX OCV|Owens Corning|TX|1|2|99|203270||'Owens Corning'|owens corning|false
+General Coatings Manufacturing Corp.|General Coatings Manufacturing Corp.|CA|1|2|28|44929|461269090|'General Coatings Manufacturing Corp.'|general coatings|false
+West Blanche Street Group Home|Monarch|NC|1|1|5|7294|561326126|'Monarch Consulting Services'|monarch|false
+Valleyview Group Home|Monarch|NC|1|1|8|8515|561326126|'Monarch Consulting Services'|monarch|false
+Tanglewood Arbor|Monarch|NC|1|2|25|38167|561326126|'Monarch Consulting Services'|monarch|false
+Studio 651|Monarch|NC|1|2|86|100773|561326126|'Monarch Consulting Services'|monarch|false
+Spencer's Place Group Home|Monarch|NC|1|1|5|8366|561326126|'Monarch Consulting Services'|monarch|false
+Southridge Road Group Home|Monarch|NC|1|1|12|18940|561326126|'Monarch Consulting Services'|monarch|false
+Simbelyn Group Home|Monarch|NC|1|1|9|10725|561326126|'Monarch Consulting Services'|monarch|false
+SECU Youth Crisis Center|Monarch|NC|1|2|40|54954|561326126|'Monarch Consulting Services'|monarch|false
+Second Street Group Home|Monarch|NC|1|1|12|13236|561326126|'Monarch Consulting Services'|monarch|false
+Schooner Shores Group Home|Monarch|NC|1|1|6|8031|561326126|'Monarch Consulting Services'|monarch|false
+River City Achievement Center-Pasquotank|Monarch|NC|1|2|28|29819|561326126|'Monarch Consulting Services'|monarch|false
+Richmond Adult Group Home|Monarch|NC|1|1|4|4919|561326126|'Monarch Consulting Services'|monarch|false
+Vanceboro Group Home|Monarch|NC|1|1|3|3268|561326126|'Monarch Consulting Services'|monarch|false
+Pineview Group Home|Monarch|NC|1|1|15|18281|561326126|'Monarch Consulting Services'|monarch|false
+Pilotview Group Home|Monarch|NC|1|1|12|12699|561326126|'Monarch Consulting Services'|monarch|false
+Pence Place Group Home|Monarch|NC|1|2|35|39886|561326126|'Monarch Consulting Services'|monarch|false
+Parkland Group Home|Monarch|NC|1|1|7|8677|561326126|'Monarch Consulting Services'|monarch|false
+North 7th Street Group Home|Monarch|NC|1|1|6|11104|561326126|'Monarch Consulting Services'|monarch|false
+New View Apartments|Monarch|NC|1|1|3|3177|561326126|'Monarch Consulting Services'|monarch|false
+New Horizon Enterprises|Monarch|NC|1|1|9|11643|561326126|'Monarch Consulting Services'|monarch|false
+Myrtlewood Group Home|Monarch|NC|1|1|14|21785|561326126|'Monarch Consulting Services'|monarch|false
+Mt. Gilead Children's Home|Monarch|NC|1|1|13|17443|561326126|'Monarch Consulting Services'|monarch|false
+Moss II Group Home|Monarch|NC|1|1|19|24012|561326126|'Monarch Consulting Services'|monarch|false
+Moss I Group Home|Monarch|NC|1|1|16|18578|561326126|'Monarch Consulting Services'|monarch|false
+Monarch Behavioral Health Urgent Care|Monarch|NC|1|1|10|12401|561326126|'Monarch Consulting Services'|monarch|false
+Middleton Street Group Home|Monarch|NC|1|1|5|6353|561326126|'Monarch Consulting Services'|monarch|false
+Meadowview Group Home|Monarch|NC|1|1|19|21077|561326126|'Monarch Consulting Services'|monarch|false
+Mallard Lane Group Home|Monarch|NC|1|1|18|22062|561326126|'Monarch Consulting Services'|monarch|false
+Mainstream Group Home|Monarch|NC|1|1|6|11490|561326126|'Monarch Consulting Services'|monarch|false
+Lillian Mill Administration Office|Monarch|NC|1|2|209|337872|561326126|'Monarch Consulting Services'|monarch|false
+Lighthouse Club of Currituck|Monarch|NC|1|1|5|6173|561326126|'Monarch Consulting Services'|monarch|false
+Lafayette Group Home|Monarch|NC|1|1|10|10020|561326126|'Monarch Consulting Services'|monarch|false
+Karen Lane Group Home|Monarch|NC|1|1|13|18136|561326126|'Monarch Consulting Services'|monarch|false
+Hoke Street Group Home|Monarch|NC|1|1|8|9333|561326126|'Monarch Consulting Services'|monarch|false
+Health Drive Center|Monarch|NC|1|2|22|27911|561326126|'Monarch Consulting Services'|monarch|false
+Green Street Group Home|Monarch|NC|1|1|6|11408|561326126|'Monarch Consulting Services'|monarch|false
+Goodale School and Recovery Community|Monarch|NC|1|1|25|30988|561326126|'Monarch Consulting Services'|monarch|false
+Forsyth Psychosocial Rehabilitation|Monarch|NC|1|1|4|5443|561326126|'Monarch Consulting Services'|monarch|false
+Dogwood House Group Home|Monarch|NC|1|1|18|24593|561326126|'Monarch Consulting Services'|monarch|false
+Dogwood Circle Group Home|Monarch|NC|1|1|5|9090|561326126|'Monarch Consulting Services'|monarch|false
+Creative Arts and Community Center|Monarch|NC|1|2|70|86650|561326126|'Monarch Consulting Services'|monarch|false
+Columbus Industries|Monarch|NC|1|1|19|21392|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Gaston (Court Drive)|Monarch|NC|1|2|19|33463|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Cleveland (West Marion Street)|Monarch|NC|1|1|18|22129|561326126|'Monarch Consulting Services'|monarch|false
+Beach Club of Dare|Monarch|NC|1|1|5|5755|561326126|'Monarch Consulting Services'|monarch|false
+Ansonville Group Home|Monarch|NC|1|1|10|15496|561326126|'Monarch Consulting Services'|monarch|false
+Anderson Road Group Home|Monarch|NC|1|1|10|10802|561326126|'Monarch Consulting Services'|monarch|false
+Administration Annex|Monarch|NC|1|2|35|45255|561326126|'Monarch Consulting Services'|monarch|false
+Andrea Drive Group Home|Monarch|NC|1|1|5|5361|561326126|'Monarch Consulting Services'|monarch|false
+Anson Adult Group Home|Monarch|NC|1|1|6|7499|561326126|'Monarch Consulting Services'|monarch|false
+Asheboro School Road Group Home|Monarch|NC|1|1|7|7694|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Davidson (Grimes Blvd)|Monarch|NC|1|1|15|28145|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Forsyth (Cherry Street)|Monarch|NC|1|2|58|89566|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Guilford (Northline Avenue)|Monarch|NC|1|2|48|66698|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Lincoln (McBee Street)|Monarch|NC|1|1|7|12426|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Mecklenburg (Executive Center)|Monarch|NC|1|2|90|137256|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Nash (Tiffany Blvd)|Monarch|NC|1|1|28|31825|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Robeson (Godwin Avenue)|Monarch|NC|1|2|27|47643|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Scotland (McAlpine Lane)|Monarch|NC|1|1|7|9381|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wake (Ashville Avenue)|Monarch|NC|1|1|7|13505|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wake (Judd Parkway)|Monarch|NC|1|1|1|1891|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wake (Navaho Drive)|Monarch|NC|1|2|46|57346|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wilson (Forest Hills Rd)|Monarch|NC|1|1|11|14403|561326126|'Monarch Consulting Services'|monarch|false
+Bladen Opportunities Unlimited|Monarch|NC|1|1|6|6664|561326126|'Monarch Consulting Services'|monarch|false
+Briar Creek Group Home|Monarch|NC|1|1|4|4840|561326126|'Monarch Consulting Services'|monarch|false
+Brices Creek Road Group Home|Monarch|NC|1|1|10|18169|561326126|'Monarch Consulting Services'|monarch|false
+Brighter Vision|Monarch|NC|1|1|3|4575|561326126|'Monarch Consulting Services'|monarch|false
+Buffalo Creek Apartments|Monarch|NC|1|1|2|2769|561326126|'Monarch Consulting Services'|monarch|false
+Campus Park Drive|Monarch|NC|1|1|5|5899|561326126|'Monarch Consulting Services'|monarch|false
+Carmel Forest Drive Group Home|Monarch|NC|1|1|6|9278|561326126|'Monarch Consulting Services'|monarch|false
+Cauthen Drive Group Home|Monarch|NC|1|1|5|8376|561326126|'Monarch Consulting Services'|monarch|false
+Charlotte Street Group Home|Monarch|NC|1|1|6|11225|561326126|'Monarch Consulting Services'|monarch|false
+Circle Drive Group Home|Monarch|NC|1|1|8|12793|561326126|'Monarch Consulting Services'|monarch|false
+Circlewood Drive Group Home|Monarch|NC|1|1|8|13694|561326126|'Monarch Consulting Services'|monarch|false
+Club Horizon Psychosocial Rehabilitation|Monarch|NC|1|1|5|6130|561326126|'Monarch Consulting Services'|monarch|false
+Cohen House Group Home|Monarch|NC|1|1|8|10581|561326126|'Monarch Consulting Services'|monarch|false
+Connecticut Avenue Group Home|Monarch|NC|1|1|6|9419|561326126|'Monarch Consulting Services'|monarch|false
+Corvair Drive Group Home|Monarch|NC|1|1|5|7804|561326126|'Monarch Consulting Services'|monarch|false
+East Main Group Home|Monarch|NC|1|1|10|12170|561326126|'Monarch Consulting Services'|monarch|false
+Eklund Apartments|Monarch|NC|1|1|2|3070|561326126|'Monarch Consulting Services'|monarch|false
+George Street Group Home|Monarch|NC|1|1|2|2535|561326126|'Monarch Consulting Services'|monarch|false
+Grand Oaks Apartments|Monarch|NC|1|1|4|4593|561326126|'Monarch Consulting Services'|monarch|false
+Greenwood AUP Center|Monarch|NC|1|1|11|14896|561326126|'Monarch Consulting Services'|monarch|false
+Harnett Psychosocial Rehabilitation|Monarch|NC|1|1|4|4663|561326126|'Monarch Consulting Services'|monarch|false
+Hoke County #1 Group Home|Monarch|NC|1|1|6|6604|561326126|'Monarch Consulting Services'|monarch|false
+Hoke County #2 Group Home|Monarch|NC|1|1|5|7558|561326126|'Monarch Consulting Services'|monarch|false
+Hope House Group Home|Monarch|NC|1|1|6|10315|561326126|'Monarch Consulting Services'|monarch|false
+Jones County Group Home|Monarch|NC|1|1|9|10560|561326126|'Monarch Consulting Services'|monarch|false
+Kimberly Road Group Home|Monarch|NC|1|1|13|21126|561326126|'Monarch Consulting Services'|monarch|false
+Lake Monroe Group Home|Monarch|NC|1|1|6|10510|561326126|'Monarch Consulting Services'|monarch|false
+McAlway Road Group Home|Monarch|NC|1|1|5|6801|561326126|'Monarch Consulting Services'|monarch|false
+Montgomery Adult Group Home|Monarch|NC|1|1|6|8473|561326126|'Monarch Consulting Services'|monarch|false
+Montgomery Community Living Skills|Monarch|NC|1|1|7|7966|561326126|'Monarch Consulting Services'|monarch|false
+New Hanover Psychosocial Rehabilitation|Monarch|NC|1|1|2|2105|561326126|'Monarch Consulting Services'|monarch|false
+Newport Group Home|Monarch|NC|1|1|5|6824|561326126|'Monarch Consulting Services'|monarch|false
+North Willow Street Group Home|Monarch|NC|1|1|3|4637|561326126|'Monarch Consulting Services'|monarch|false
+Oak Drive Group Home|Monarch|NC|1|1|4|6109|561326126|'Monarch Consulting Services'|monarch|false
+Pamlico County Group Home|Monarch|NC|1|1|4|4028|561326126|'Monarch Consulting Services'|monarch|false
+Pennsylvania Avenue Group Home|Monarch|NC|1|1|4|7728|561326126|'Monarch Consulting Services'|monarch|false
+Richmond Psychosocial Rehabilitation|Monarch|NC|1|1|4|4971|561326126|'Monarch Consulting Services'|monarch|false
+Ridgefield Group Home|Monarch|NC|1|1|12|18864|561326126|'Monarch Consulting Services'|monarch|false
+Seawell Street Group Home|Monarch|NC|1|1|5|7533|561326126|'Monarch Consulting Services'|monarch|false
+Southgate Group Home|Monarch|NC|1|1|10|12280|561326126|'Monarch Consulting Services'|monarch|false
+Stanly Industrial Services|Monarch|NC|1|2|21|30518|561326126|'Monarch Consulting Services'|monarch|false
+Stokes Opportunity Center|Monarch|NC|1|1|3|3481|561326126|'Monarch Consulting Services'|monarch|false
+The Oaks Group Home|Monarch|NC|1|1|5|6550|561326126|'Monarch Consulting Services'|monarch|false
+Tri-City Group Home|Monarch|NC|1|1|7|9217|561326126|'Monarch Consulting Services'|monarch|false
+Vocational Opportunities in the Community|Monarch|NC|1|1|9|15234|561326126|'Monarch Consulting Services'|monarch|false
+Vocational Options of Hoke County|Monarch|NC|1|2|22|29985|561326126|'Monarch Consulting Services'|monarch|false
+Walnut Cove Apartments|Monarch|NC|1|1|2|2022|561326126|'Monarch Consulting Services'|monarch|false
+Wayfarer Court Group Home|Monarch|NC|1|1|8|15530|561326126|'Monarch Consulting Services'|monarch|false
+Wiregrass Apartments|Monarch|NC|1|1|2|2692|561326126|'Monarch Consulting Services'|monarch|false
+Plant Street Group Home|Monarch|NC|1|1|6|10017|561326126|'Monarch Consulting Services'|monarch|false
+Roofing|Grace Roofing & Sheet Metal Enterprise|FL|1|2|30|5472275|263981778|'Grace Roofing & Sheet Metal Enterprise'|grace roofing & sheet metal enterprise|false
+ABR Construction Inc.|ABR Construction Inc.|KY|1|2|99|167561|610971502|'ABR Construction Inc.'|abr|false
+Thoroughbred Contractors LLC|Thoroughbred Contractors LLC|KY|1|2|37|74283|412088912|'Thoroughbred Contractors'|thoroughbred|false
+Turner Roofing Company LTD|Turner Roofing Company LTD|TX|1|2|65|84338|742271636|'Turner Roofing Co.'|turner roofing|false
+Hillside 1|Dynamic Manufacturing|IL|1|3|662|1244754|363989759|'Dynamic National'|dynamic|false
+Hillside 2|Dynamic Manufacturing|IL|1|3|295|594292|363989759|'Dynamic National'|dynamic|false
+CARDINAL ROOFING, INC.|CARDINAL ROOFING, INC.|MO|1|2|39|81151|431981484|'Cardinal Roofing', 'Cardinal Roofing Inc.'|cardinal roofing|true
+Progressive Roofing Inc.|Progressive Roofing Inc.|MA|1|2|14|26810|43425540|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Straightline Sheet Metal LLC|Straightline Sheet Metal LLC|MI|1|2|35|81947|273726120|'Straightline Sheet Metal'|straightline sheet metal|false
+Gordon Contractors Inc.|Gordon Contractors Inc.|MD|1|2|84|166370|412043935|'Gordon Contractors Inc.'|gordon|false
+Aspen Contracting Inc|Aspen Contracting Inc|MO|1|3|234|444600|510587434|'Aspen Contracting Inc.'|aspen contracting|false
+Window World of Baton Rouge|Window World|LA|1|2|160|323391|943427277|'Window World Inc.'|window world|false
+Filotto Construction, Inc.|Filotto Roofing|IL|1|2|35|64283|363964971|'Filotto Roofing, Inc.'|filotto roofing|false
+NRG Maintenance Services LLC.|NRG|TX||2|33|79951|208088165|'NRG Construction LLC'|nrg|false
+The Original Roofing Company|The Original Roofing Company|NV|1|2|197|393347|562335100|'The Original Roofing Company'|the original roofing|false
+Great Lakes Management GTHI Global Pointe Senior Living|Great Lakes Management|MN|1|2|75|57596|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI NorBella Champlin|Great Lakes Management|MN|1|2|20|11033|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management Laurel Village|Great Lakes Management|MN|1|2|23|40052|411614587|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Talamore St. Cloud|Great Lakes Management|MN|1|2|121|58483|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Seven Hills Senior Living|Great Lakes Management|MN|1|2|60|47122|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood  Buffalo AL|Great Lakes Management|MN|1|2|70|66614|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI The Glenn Minnetonka|Great Lakes Management|MN|1|2|80|107859|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI The Glenn Hopkins Terraces|Great Lakes Management|MN|1|2|84|112814|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood  Buffalo MC|Great Lakes Management|MN|1|2|57|64201|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Comfort Residence St. Louis Park|Great Lakes Management|MN|1|2|21|26276|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Comfort Residence Le Sueur|Great Lakes Management|MN|1|2|23|29943|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Comfort Residence Blaine|Great Lakes Management|MN|1|2|32|34938|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood  Mankato|Great Lakes Management|MN|1|2|35|38199|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood Rochester|Great Lakes Management|MN|1|2|215|311053|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Hayden Grove|Great Lakes Management|MN|1|2|59|76098|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI NorBella Prior Lake|Great Lakes Management|MN|1|2|35|35137|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Amira Choice Bloomington|Great Lakes Management|MN|1|2|71|71317|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI NorBella Savage|Great Lakes Management|MN|1|1|35|37075|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Talamore Sun Prairie|Great Lakes Management|WI|1|2|75|62887|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management Corporate|Great Lakes Management|MN|1|2|41|79559|411614587|'Great Lakes Systems Inc.'|great lakes|false
+Owens Corning|Owens Corning|IN|1|2|115|214658|320176634|'Owens Corning'|owens corning|false
+Construction|Cedar Roofing Company|IL|1|2|90|187200|830344362|'Cedar Roofing Co. LLC'|cedar roofing|false
+Command Roofing|COMMAND ROOFING|OH|1|2|35|36747||'Command Roofing Co.'|command roofing|false
+ConstructoMax Corporation|ConstructoMax Corporation|FL|1|2|28|29015|473047886|'ConstructoMax Corporation'|constructomax|false
+ARI INDUSTRIES, INC|ARi Industries. Inc.|IL|1|2|64|10053159||'ARI Consulting Services Corp'|ari|false
+Bloom Roofing Systems Inc|Bloom Roofing Systems Inc.|MI|1|2|111|206974||'Bloom Roofing Systems Inc.'|bloom roofing|false
+Sibley Inc|Sibley Inc|OH|1|2|25|42070|340897897|'Sibley Inc.'|sibley|false
+Primary Branch|Summit Point Roofing|MI|1|2|34|70720|473363896|'Summit Point Roofing'|summit point roofing|false
+Owens Corning Roofing Plant|Owens Corning|IL|1|2|108|228343||'Owens Corning'|owens corning|false
+Summit Asphalt Plant|Owens Corning|IL|1|2|26|59428||'Owens Corning'|owens corning|false
+Atlanta|Allied Management Inc|GA|1|2|30|62406|301007753|'Allied Construction Services'|allied|false
+BBB|Allied Management Inc|TX|1|2|40|107689|301007753|'Allied Construction Services'|allied|false
+Denver|Allied Management Inc|CO|1|1|15|26508|301007753|'Allied Construction Services'|allied|false
+FB1|Allied Management Inc|TX|1|2|30|103100|301007753|'Allied Construction Services'|allied|false
+Fort Mill|Allied Management Inc|SC|1|1|12|18030|301007753|'Allied Construction Services'|allied|false
+Mira Loma|Allied Management Inc|CA|1|1|18|37826|301007753|'Allied Construction Services'|allied|false
+Mykawa|Allied Management Inc|TX|1|2|300|421545|301007753|'Allied Construction Services'|allied|false
+Ohio|Allied Management Inc|OH|1|2|40|70015|301007753|'Allied Construction Services'|allied|false
+Ridgefield|Allied Management Inc|WA|1|1|13|18288|301007753|'Allied Construction Services'|allied|false
+Dayton|Allied Management Inc|NJ|1|2|10|15942|301007753|'Allied Construction Services'|allied|false
+StLouis|Allied Management Inc|MO|1|1|6|17694|301007753|'Allied Construction Services'|allied|false
+Warren Valve|Allied Management Inc|TX|1|2|100|208630|301007753|'Allied Construction Services'|allied|false
+Mykawa6666|Allied Management Inc|TX|1|1|10|26626|301007753|'Allied Construction Services'|allied|false
+Allied Pipe HOU|Allied Management Inc|TX|1|1|15|43839|301007753|'Allied Construction Services'|allied|false
+Allied Pipe Ill|Allied Management Inc|IL|1|1|10|12723|301007753|'Allied Construction Services'|allied|false
+Owens Corning Compton Roofing & Asphalt|Owens Corning|CA|1|2|115|264756||'Owens Corning'|owens corning|false
+Jolly Roofing & Contracting Company Overall|Jolly Roofing and Contracting|TN|1|2|453|449997|621624798|'Jolly Roofing and Contracting Co. Inc.'|jolly roofing and contracting|false
+Alumni Roofing Lexington|Alumni Roofing Co.|OH|1|2|23|44434|341865113|'Alumni Roofing Company'|alumni roofing|false
+Tabcon Inc.|Tabcon Inc.|AZ|1|2|23|34329|742606736|'TABCON Inc.'|tabcon|false
+Atlanta Roofing Plant|Owens Corning|GA|1|2|103|236580||'Owens Corning'|owens corning|false
+Atlanta Asphalt Plant|Owens Corning|GA|1|1|16|37019||'Owens Corning'|owens corning|false
+NG Ancona (Streator) Storage Station|Southern Company|IL|1|2|26|52104||'Southern National'|southern|false
+NG Aurora Fleet Facility|Southern Company|IL|1|2|31|62124||'Southern National'|southern|false
+NG Bellwood Reporting Center|Southern Company|IL|1|2|106|212424||'Southern National'|southern|false
+NG Bloomington Reporting Center|Southern Company|IL|1|2|41|82164||'Southern National'|southern|false
+NG Crestwood Reporting Center|Southern Company|IL|1|2|76|152304||'Southern National'|southern|false
+NG Crystal Lake Reporting Center|Southern Company|IL|1|2|81|162324||'Southern National'|southern|false
+NG DeKalb Reporting Center|Southern Company|IL|1|2|23|46092||'Southern National'|southern|false
+NG Des Plaines Reporting Center|Southern Company|IL|1|2|81|162324||'Southern National'|southern|false
+Haeber Roofing Company|Haeber Roofing Company|TX|1|2|33|66174||'Haeber Roofing'|haeber roofing|false
+American Roofing & Metal|American Roofing & Metal|KY|1|2|236|232151|610192077|'American Roofing & Metal Co. Inc.'|american roofing & metal|false
+J.L. Adler Roofing & Sheet Metal, Inc.|J.L. Adler Roofing & Sheet Metal, Inc.|IL|1|2|58|102522|362302162|'J.L. Adler Roofing & Sheet Metal Inc.'|j.l. adler roofing & sheet metal|false
+Mandals Inc.|Mandal's Inc.|MS|1|2|71|152877|640430853|'Mandal's Inc.'|mandal's|false
+Amazon Station -- DJE6|SBR Holdings|NJ|1|2|85|80000|852699857|'SBR Inc.'|sbr|false
+Alpha Technologies Services Inc.|Alpha Technologies Services Inc.|WA|1|2|168|199325|912025134|'Alpha Construction Services'|alpha|false
+Four Seasons Kanga Roof|Four Seasons Kanga Roof|MI|1|2|49|86900|371532159|'Four Seasons Kanga Roof'|four seasons kanga roof|false
+Anderson Systems Inc.|Anderson Systems Inc.|CA|1|2|99|182717|770106803|'Anderson Associates'|anderson|false
+NG Dixon Reporting Center|Southern Company|IL|1|2|25|50100||'Southern National'|southern|false
+NG Elgin Reporting Center & Weld School|Southern Company|IL|1|2|47|94188||'Southern National'|southern|false
+NG Glen Ellyn Reporting Center|Southern Company|IL|1|3|267|535068||'Southern National'|southern|false
+NG Glenwood Reporting Center|Southern Company|IL|1|2|115|230460||'Southern National'|southern|false
+NG Ingleside Reporting Center|Southern Company|IL|1|2|23|46092||'Southern National'|southern|false
+NG Joliet Reporting Center|Southern Company|IL|1|2|129|258516||'Southern National'|southern|false
+NG Kankakee Reporting Center|Southern Company|IL|1|2|28|56112||'Southern National'|southern|false
+NG Naperville Reporting Center|Southern Company|IL|1|3|725|1452900||'Southern National'|southern|false
+NG Ottawa Reporting Center|Southern Company|IL|1|2|34|68136||'Southern National'|southern|false
+NG Rockford Service Center|Southern Company|IL|1|2|63|126252||'Southern National'|southern|false
+NG Schaumburg Reporting Center|Southern Company|IL|1|2|66|132264||'Southern National'|southern|false
+NG Shorewood Transmission Center|Southern Company|IL|1|2|22|44088||'Southern National'|southern|false
+NG Troy Grove Storage Station|Southern Company|IL|1|2|21|42084||'Southern National'|southern|false
+NG Yorkville Reporting Center|Southern Company|IL|1|2|67|134268||'Southern National'|southern|false
+Anderson Development Company|Anderson Development Company|MI|1|2|121|249221||'Anderson Associates'|anderson|false
+Excel Manufacturing|Excel Manufacturing|TX|1|3|350|731022|742760565|'Excel Construction Group'|excel|false
+Professional Group Management Inc.|Professional Group Management Inc|FL|1|2|23|90594|650840982|'Professional Construction Services Inc.'|professional|false
+4028-1980|Arrow|TX|1|2|22|44000|751238083|'Arrow Consulting Corp.'|arrow|false
+4028-ARW01|Arrow|CO|1|3|373|746000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW02|Arrow|CO|1|3|1083|2166000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW04|Arrow|NY|1|2|48|96000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW07|Arrow|TX|1|2|64|128000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW13|Arrow|CA|1|2|70|140000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW14|Arrow|IL|1|2|24|48000|274093199|'Arrow Consulting Corp.'|arrow|false
+4028-ARW15|Arrow|AL|1|2|39|78000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW18|Arrow|IL|1|2|40|100000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW19|Arrow|FL|1|2|38|76000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW27|Arrow|NY|1|2|28|56000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW28|Arrow|CA|1|2|22|44000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW29|Arrow|CA|1|2|32|64000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW30|Arrow|OH|1|2|38|76000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW31|Arrow|CA|1|2|48|96000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW32|Arrow|MN|1|2|71|142000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW33|Arrow|CA|1|2|25|50000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW35|Arrow|WA|1|2|22|44000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW37|Arrow|CA|1|2|24|48000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-ARW38|Arrow|TX|1|2|36|72000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-AZ001|Arrow|AZ|1|3|268|536000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-CON01|Arrow|MA|1|2|160|320000|113678390|'Arrow Consulting Corp.'|arrow|false
+4028-IMX01|Arrow|VA|1|2|87|174000|541908609|'Arrow Consulting Corp.'|arrow|false
+4028-NV01|Arrow|NV|1|3|755|1510000|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-NV02|Arrow|NV|1|2|22|45664|111806155|'Arrow Consulting Corp.'|arrow|false
+4028-SEN01|Arrow|NY|1|2|38|76000|30471707|'Arrow Consulting Corp.'|arrow|false
+Industrial First, Inc.|Industrial First, Inc.|OH|1|2|139|270654||'Industrial First Inc.'|industrial first|false
+Evolve|Evolve|TX|1|2|21|40006||'Evolve Contractors'|evolve|false
+ESI Inc.|ESI Inc.|OH|1|3|632|1422426|341002467|'ESi'|esi|false
+Colorado Moisture Control, Inc.|Colorado Moisture Control, Inc.|CO|1|2|62|138183|840866575|'Colorado Moisture Control Inc.'|colorado moisture control|false
+Guy Roofing Inc.|Guy Roofing Inc.|SC|1|2|118|259096|208994230|'Guy Roofing Inc.'|guy roofing|false
+McCarthy Building Companies, Inc.|McCarthy Building Companies, Inc.|MO|1|3|206|536858|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Central Yard|McCarthy Building Companies|MO|1|2|15|40513|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+WUSM Research Bilding|McCarthy Building Companies, Inc.|MO|1|2|58|150174|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+HC NATIONWIDE LLC|HC NATIONWIDE LLC|OH|1|2|33|42262|300632487|'HC Nationwide LLC'|hc nationwide|false
+Allied Crawford Steel|Allied Properties Inc|OH|1|2|34|79307||'Allied Construction Services'|allied|false
+Macri Roofing, Inc.|Macri Roofing, Inc.|CT|1|2|25|62700|60887578|'Macri Roofing Inc.'|macri roofing|false
+Maintenance Inc.|Maintenance Inc.|TX|1|1|9|18320|751423619|'Maintenance Management Inc.'|maintenance|false
+Forsyth Pointe|McCarthy Building Companies, Inc.|MO|1|2|35|90738|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Mid State Roofing Inc|Mid State Roofing Inc|SC|1|2|22|42202|202017040|'Mid State Roofing Inc.'|mid state roofing|false
+QSI Eagle Mountain|Tyson Foods|UT|1|2|30|64158|821059183|'Tyson Foods Inc.'|tyson foods|false
+Crowther Roofing & Sheet Metal of Florida, Inc|Crowther Roofing & Sheet Metal of Florida, Inc|FL|1|3|610|1190275|650653836|'Crowther Roofing & Sheet Metal of Florida', 'Crowther Roofing & Sheet Metal of Florida, Inc.'|crowther roofing & sheet metal of florida|true
+Premier Services|Premier Services|TX|1|2|22|30481|204499270|'Premier Enterprises'|premier|false
+KPost Roofing and Waterproofing|KPost Company|TX|1|3|386|783095|270073666|'KPost Company'|kpost|false
+Lakeside Construction Fasteners|Lakeside Construction Fasteners|AR|1|2|36|65816|464156870|'Lakeside Construction Fasteners'|lakeside construction fasteners|false
+Interstate Ventures|Interstate Ventures|TN|1|2|32|81109|943422031|'Interstate Corp.'|interstate|false
+HIGHLAND COMMERCIAL ROOFING INC. Oakland|HIGHLAND COMMERCIAL ROOFING, INC.|CA|1|2|25|50711|262593390|'Highland Commercial Roofing'|highland commercial roofing|false
+Metalmaster Roofmaster|Metalmaster Roofmaster|IL|1|2|127|264160|363376644|'Metalmaster Roofmaster Inc.'|metalmaster roofmaster|false
+BJC - Medical Center Campus Renewal|McCarthy Building Companies|MO|1|2|55|114699|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+NGA - Project Eero|McCarthy Building Companies|MO|2|2|90|234673|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Englert Inc|Englert Inc|NJ|1|2|200|581785||'Englert Inc.'|englert|false
+Axiom Division 7|Axiom Division 7|WA|1|2|274|384949|261489962|'Axiom Division 7 Inc.'|axiom division 7|false
+Corporate|Sun Coast Roofing Services, Inc|FL|1|2|98|210080|274860846|'Sun Coast Roofing Services, Inc'|sun coast roofing services|false
+Whitco Roofing Inc.|Whitco Roofing Inc.|GA|1|2|59|123368|271843217|'Whitco Roofing Inc.'|whitco roofing|false
+Premier Construction Services Inc.|Premier Construction Services Inc.|GA|1|2|28|40535|582337560|'Premier Enterprises'|premier|false
+Corey Construction-HOU|Corey Management Group|TX|1|2|69|141278|464045602|'Corey Construction LLC'|corey|false
+Premier Construction|Premier Construction Services Inc.|GA|1|2|28|40535|582337560|'Premier Enterprises'|premier|false
+Corey Construction-DFW|Corey Management Group|TX|1|2|19|37890|464045602|'Corey Construction LLC'|corey|false
+Springfield TN Owens Corning|Owens Corning|TN|1|2|60|102580|432109021|'Owens Corning'|owens corning|false
+Owens Corning Foam Insulation LLC - Tallmadge|Owens Corning|OH|1|2|77|156187|383737830|'Owens Corning'|owens corning|false
+Weaver Metal & Roofing, Inc.|Weaver Metal & Roofing, Inc.|NY|1|2|46|76947|161343726|'Weaver Metal & Roofing Inc.'|weaver metal & roofing|false
+THOMAS CO BROOKLAWN|THOMAS COMPANY INC|NJ|1|2|7|13433|221801542|'Thomas Co. Inc.'|thomas|false
+EGG HARBOR TTWP|THOMAS COMPANY INC|NJ|1|2|177|348693|221801542|'Thomas Co. Inc.'|thomas|false
+Kato Roofing Inc|Kato Roofing Inc|MN|1|2|32|61140|411730975|'Kato Roofing Inc.'|kato roofing|false
+Peach State Roofing Lawrenceville|Peach State Roofing, Inc.|GA|1|2|45|91724|581920786|'Peach State Roofing Inc.'|peach state roofing|false
+gFour Marketing Group|gFour Marketing Group|FL|1|2|18|12263|320299157|'gFour Marketing'|gfour marketing|false
+Metro Metals Corporation|Metro Metals Corporation|MN|1|2|39|64440|900070466|'Metro Metals'|metro metals|false
+Moriarty's Roofing, Inc.|Moriarty's Roofing, Inc.|CA|1|2|27|51300|474961412|'Moriarty's Roofing, Inc.'|moriarty's roofing|false
+PHRG PIT|Power Home Remodeling Group|PA|1|2|27|54000|233030708|'Power Home Remodeling Group LLC'|power home remodeling|false
+N.F. Mansuetto & Sons, Inc. 2022|N.F. Mansuetto & Sons, Inc.|OH|1|2|85|140849|550483513|'N.F. Mansuetto & Sons Inc.'|n.f. mansuetto & sons|false
+The Roof Depot, Inc.|The Roof Depot, Inc.|GA|1|2|123|249600|582385323|'The Roof Depot Inc.'|the roof depot|false
+Pure Air Control Services|Tremco CPG, Inc.|FL|1|2|83|147990||'Tremco CPG Inc.'|tremco cpg|false
+Tremco Barrier Solutions (Corp and Field)|Tremco CPG, Inc.|OH|1|2|35|48972||'Tremco CPG Inc.'|tremco cpg|false
+Tremco Roofing and Building Maintenance-Weatherproofing Technologies, Inc. (Corp and Field)|Tremco CPG, Inc.|OH|1|3|1473|2655983||'Tremco CPG Inc.'|tremco cpg|false
+R&B Roofing LLC|R&B Roofing LLC|TX|1|2|148|309028|571155052|'R&B Roofing LLC'|r&b roofing|false
+Tremco CPG Inc. (Nudura Georgia)|Tremco CPG Inc.|GA|1|2|44|74279|980452807|'Tremco CPG Inc.'|tremco cpg|false
+Farrell Roofing Inc|Farrell Roofing|DE|1|2|26|48890||'Farrell Roofing', 'Farrell Roofing Inc.'|farrell roofing|true
+FAB Production Facility|GMT Corporation|IA|1|2|101|191613|421033414|'GMT Consulting Inc'|gmt|false
+LPM Production Facility|GMT Corporation|IA|1|2|18|48425|421033414|'GMT Consulting Inc'|gmt|false
+Doubletree by Hilton Roswell|RADCO|GA|1|2|38|62774|863758757|'Radco Construction Services'|radco|false
+Hamilton Roofing Inc|Hamilton Roofing Inc|FL|1|2|30|51155||'Hamilton Roofing Inc.'|hamilton roofing|false
+Mammoth Contracting, LLC|Mammoth Contracting, LLC|TX|1|2|15|30000|815179460|'Mammoth Contracting'|mammoth contracting|false
+TruCraft Roofing, LLC|TruCraft Roofing, LLC|OH|1|2|45|119557|273250335|'TruCraft Roofing LLC'|trucraft roofing|false
+Schultheis Roofing Inc.|Schultheis Roofing|PA|1|2|45|97936|251653339|'Schultheis Roofing Inc.'|schultheis roofing|false
+Scott Properties Group Inc.|Scott Properties Group Inc.|CA|1|2|14|25624|204809829|'Scott Enterprises Inc.'|scott|false
+Harbor Roofing and Contracting Inc.|Harbor Roofing and Contracting|MD|1|2|91|134189|464705635|'Harbor Roofing and Contracting, Inc.'|harbor roofing and contracting|false
+Hartford South, LLC|Hartford South, LLC|FL|1|2|75|141099||'Hartford South LLC'|hartford south|false
+All Seasons Roofing, LLC|All Seasons Roofing, LLC|MO|1|2|15|28858|204885966|'All Seasons Roofing LLC'|all seasons roofing|false
+Rite-Way Roof Corporation|Rite-Way Roof Corporation|CA|1|2|35|48214|330978921|'Rite-Way Roof Corporation'|rite-way roof|false
+Legacy Roofing Services|Legacy Roofing Services|OH|1|2|147|264200|842210872|'Legacy Roofing', 'Legacy Roofing LLC'|legacy roofing|true
+One Ply Roofing Co|One Ply Roofing Co.|TX|1|1|5|9800|473234734|'One Ply Roofing Co.'|one ply roofing|false
+Legacy roofing Services LLC|Legacy Roofing Services LLC|OH|1|2|147|264200|842210872|'Legacy Roofing', 'Legacy Roofing LLC'|legacy roofing|true
+Ace Roofing LLC|Ace Roofing LLC|MT|1|2|27|44632|208967459|'Ace Roofing', 'Ace Roofing Inc.'|ace roofing|true
+Pinnacle Roofing Group|Pinnacle Roofing Group|FL|1|2|23|41000|844581614|'Pinnacle Roofing'|pinnacle roofing|false
+NextGen Services Group|NextGen Services Group|NJ|1|2|28|58240|475017911|'NextGen Construction Group'|nextgen|false
+Orndorff & Spaid Inc.|Orndorff & Spaid Inc.|MD|1|2|170|382749||'Orndorff & Spaid Inc.'|orndorff & spaid|false
+Empire Roofing Inc.|Empire Roofing Inc.|MT|1|2|16|27434|810495020|'Empire Roofing Corp.', 'Empire Roofing Inc.', 'Empire Roofing LLC', 'Empire Roofing Solutions', 'Empire Roofing Systems Inc.', 'Empire Roofing, Inc.'|empire roofing|true
+Indianapolis|RCI  LLC|IN|1|3|425|765466|223530212|'RCI Services LLC'|rci|false
+4057_7882|Pro Services|MI|2|3|305|523104|383637535|'Pro Services CO LLC'|pro|false
+PRO Services|PRO Services|MI|1|3|305|523104|383637535|'Pro Services CO LLC'|pro|false
+Aderhold Roofing Corporation|Aderhold Roofing|FL|1|2|36|68873|275227926|'Aderhold Roofing'|aderhold roofing|false
+IronShore Contracting LLC|IronShore Contracting|MD|1|2|52|60432|383758816|'IronShore Contracting LLC'|ironshore contracting|false
+Superior Roofing|Superior Roofing Services Inc|IN|1|2|59|91352||'Superior Roofing Inc.', 'Superior Roofing LLC', 'Superior Roofing Services Inc.', 'Superior Roofing Systems Inc.'|superior roofing|true
+Professional Construction Inc.|Professional Construction Inc.|WI|1|2|22|45745|201338948|'Professional Construction Services Inc.'|professional|false
+S.Roofing|Scudder Roofing Co.|CA|1|2|83|118334|942906312|'Scudder Roofing Co.'|scudder roofing|false
+The Roof Authority, Inc.|The Roof Authority, Inc.|FL|1|2|26|42111|650384452|'The Roof Authority Inc.'|the roof authority|false
+1st Choice Roofing Company|1st Choice Roofing Company|OH|1|2|19|37880|113793690|'1st Choice Roofing Co.'|1st choice roofing|false
+Wm. Kramer & Son, Inc|Wm. Kramer & Son, Inc|OH|1|2|78|131583|310787481|'Wm. Kramer & Son Inc.'|wm. kramer & son|false
+Landmark Contracting|Landmark Contracting, LLC|OR|1|2|21|26753|473186402|'Landmark Contracting, LLC'|landmark contracting|false
+BARCO ENTERPRISES INC|BARCO ENTERPRISES INC|MD|1|2|25|92463||'Barco Consulting Inc.'|barco|false
+Dynamic National|Dynamic Holdings|FL|1|2|39|238160|832750109|'Dynamic National'|dynamic|false
+Bravo Inc.|Bravo Inc.|TN|1|2|49|80223|352650216|'Bravo International Group'|bravo|false
+Dri Tech Corporation|Dri Tech Corporation|NV|1|2|105|169547|880394400|'Dri Tech LLC'|dri tech|false
+innovative metal company|The Garland Company Inc.|GA|1|2|70|133823|341781858|'The Garland Company Inc.'|the garland|false
+Matthew Warren Inc.|MW Industries Inc.|NC|1|3|1756|3590682|382938499|'MW'|mw|false
+EFI, Inc.|EFI, Inc.|MI|1|2|90|149204||'EFI Global Inc'|efi|false
+Precision LLC|Precision LLC|OR|1|2|60|94000||'Precision Construction Services'|precision|false
+ALLIED CONSTRUCTION MANAGEMENT|ALLIED CONSTRUCTION MANAGEMENT|NJ|1|2|61|111491|223558617|'Allied Construction Services'|allied|false
+Four Seasons Atlanta|Four Seasons|GA|1|3|260|40926186|582297566|'Four Seasons Construction LLC'|four seasons|false
+Benchmark Industrial Inc|Benchmark|OH|1|2|60|128960|832299285|'Benchmark Inc.'|benchmark|false
+North American Roofing Services, Inc.|North American Roofing Services, Inc.|FL|1|2|150|309330|832410355|'North American Roofing Services, LLC'|north american roofing services|false
+SK5|Skyline|IL|1|3|315|655363|364098875|'Skyline Construction Services Inc.'|skyline|false

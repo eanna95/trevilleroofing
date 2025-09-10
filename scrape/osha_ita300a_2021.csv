@@ -1,0 +1,1481 @@
+establishment_name|company_name|state|establishment_type|size|annual_average_employees|total_hours_worked|ein|filter_list_company_name|stripped_company_name|company_name_multiple_match
+Commonwealth Building Company Inc.|Commonwealth Building Company|MA|1.00|2.00|33.00|68000.00|042706053|'Commonwealth Building Systems LLC'|commonwealth building|false
+Jim Murray Roofing, Inc.|Jim Murray Roofing, Inc.|CA|1.00|2.00|40.00|74961.00|814059502|'Jim Murray Roofing Inc'|jim murray roofing|false
+The Gehringer Corporation|The Gehringer Corporation|PA|1.00|2.00|20.00|42277.00|232299879|'The Gehringer Corp.'|the gehringer|false
+Carlon Roofing & Sheet Metal, Inc|Carlon Roofing & Sheet Metal, Inc.|KY|1.00|2.00|48.00|97743.00|611172306|'Carlon Roofing & Sheet Metal Company'|carlon roofing & sheet metal|false
+Jottan, Inc.|Jottan, Inc.|NJ|1.00|2.00|85.00|148155.00|222768915|'Jottan Inc.'|jottan|false
+Decor, Inc|Decor, Inc|CO|1.00|1.00|15.00|28451.00|263924302|'Decor Construction Inc.'|decor|false
+Roberts Roofing Co|Roberts Roofing Company|OH|1.00|2.00|24.00|45189.00|341418432|'Roberts Roofing Co.', 'Roberts Roofing Co. Inc.'|roberts roofing|true
+Pfeifer Roofing, Inc|Pfeifer Roofing, Inc.|OR|1.00|2.00|65.00|136327.00|931225470|'Pfeifer Roofing Inc.'|pfeifer roofing|false
+GUNTER CONSTRUCTION ROOFING, INC.|GUNTER CONSTRUCTION ROOFING, INC.|KY|1.00|2.00|31.00|64837.00|611065364|'Gunter Construction Roofing Inc.'|gunter construction roofing|false
+Preferred Manuracturing Services Inc d.b.a. Snowline Engineering|Preferred Manufacturing Services Inc.|CA|1.00|2.00|63.00|114545.00|680419694|'Preferred Construction Services Inc.'|preferred|false
+Roof Management Services LLC|Roof Management Services LLC|ME|1.00|2.00|17.00|34008.00|263318366|'Roof Management Services Inc.', 'Roof Partners LLC', 'Roof Services LLC', 'Roof Solutions Inc.', 'Roof Technologies', 'Roof Technologies LLC'|roof|true
+CertainTeed Corporation Williamsport Maryland|CertainTeed Corporation|MD|1.00|3.00|304.00|576998.00||'CertainTeed LLC'|certainteed|false
+Crawford Roofing|Crawford Roofing INC.|OK|1.00|2.00|27.00|3078125.00|730951924|'Crawford Roofing Corp.', 'Crawford Roofing Inc.'|crawford roofing|true
+Nu-Tec Roofing Contractors|Nu-Tec Roofing Contractors LLC|IN|1.00|2.00|70.00|131289.00|352114307|'Nu-Tec Roofing Contractors LLC'|nu-tec roofing|false
+Construction - Roofing|Southern Roofing Company Inc.|FL|1.00|2.00|48.00|97034.00|593711033|'Southern Roofing Co. Inc.', 'Southern Roofing Inc.', 'Southern Roofing Services Inc.'|southern roofing|true
+Southeast Roofing Solutions|Southeast Roofing Solutions|GA|1.00|2.00|77.00|160549.00|580976458|'Southeast Roofing Solutions Inc.'|southeast roofing|false
+Allweather Roof|Allweather Roof|MN|1.00|2.00|76.00|129976.00|411536214|'Allweather Roof'|allweather roof|false
+Lincoln Office|White Castle Roofing|NE||2.00|212.00|329766.00||'White Castle Roofing'|white castle roofing|false
+Apple Roofing|Apple Roofing Corp.|NY|1.00|2.00|33.00|56371.00||'Apple Roofing Corp.'|apple roofing|false
+Graham Roofing Incorporated|Graham Roofing Incorporated|MS|1.00|2.00|39.00|79425.00|640512412|'Graham Roofing Inc.'|graham roofing|false
+McEnany Roofing, Inc T|McEnany Roofing, Inc|FL|1.00|2.00|145.00|282961.00|592583665|'McEnany Roofing Inc.'|mcenany roofing|false
+Delta Innovative Services Inc|Delta Innovative Services|KS|1.00|2.00|157.00|294177.00|200820115|'Delta Innovative Services'|delta innovative|false
+DB2 Services Inc|Delta Innovative Services|KS|1.00|2.00|66.00|120265.00|264075785|'Delta Innovative Services'|delta innovative|false
+Sutter Roofing Company of Florida|Sutter Roofing|FL|1.00|2.00|218.00|520612.00|591923325|'Sutter Roofing', 'Sutter Roofing Co.'|sutter roofing|true
+Owens Corning Brentwood|Owens Corning|NH|1.00|2.00|80.00|189031.00|743189734|'Owens Corning'|owens corning|false
+JDH Company Inc.|JDH Company|TN|1.00|2.00|60.00|132379.00||'JDH Co. Inc.'|jdh|false
+COMMERCIAL INDUSTRIAL ROOFING, INC-LYNNWOOD|COMMERCIAL INDUSTRIAL ROOFING, INC|WA|1.00|2.00|64.00|141915.00|911086335|'Commercial Industrial Roofing Inc'|commercial industrial roofing|false
+Atlas Roofing Corporation|Atlas Roofing Corporation|GA|1.00|2.00|42.00|80950.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Atlas Roofing Corporation - Northglenn, CO|Atlas Roofing Corporation|CO|1.00|2.00|46.00|102101.00||'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Atlas Roofing Corporation - Phoenix AZ|Atlas Roofing Corporation|AZ|1.00|2.00|28.00|50907.00||'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Bonitz of Georgia|Bonitz of Georgia|GA|1.00|2.00|33.00|74388.00|581897306|'Bonitz of Georgia Inc.'|bonitz of georgia|false
+DSI Energy Solutions LLC|Dynamic Group LLC|LA|1.00|2.00|40.00|86400.00||'Dynamic National'|dynamic|false
+Mid-State Roofing and Coating, Inc.|Mid-State Roofing and Coating, Inc.|PA|1.00|2.00|32.00|54540.00|392050264|'Mid-State Roofing and Coating Inc.'|mid-state roofing and coating|false
+Scott Construction Corporation|Scott Construction Corporation|ME|1.00|2.00|21.00|40000.00|453355039|'Scott Enterprises Inc.'|scott|false
+Premier Construction Group|Premier Construction Group|PA|1.00|2.00|29.00|58872.00|251847591|'Premier Enterprises'|premier|false
+The Ray Company, Inc.|The Ray Company, Inc.|NC|1.00|2.00|22.00|36183.00|560482744|'The RAY Company, Inc.'|the ray company|false
+Port Industries Inc|Port Industries Inc|MO|1.00|2.00|46.00|89849.00|340904575|'Port Enterprises', 'Port Enterprises Ltd.'|port|true
+International Roofing Corporation|International Roofing Corporation|VA|1.00|2.00|28.00|49202.00|541500362|'International Roofing Corp.'|international roofing|false
+Nations Roof of Indiana LLC|Nations Roof|IN|1.00|1.00|13.00|28796.00|822431871|'Nations Roof', 'Nations Roof LLC'|nations roof|true
+Robert Ganter Contractors Inc|Robert Ganter Contractors Inc|PA|1.00|2.00|110.00|193143.00||'Robert Ganter Contractors Inc.'|robert ganter|false
+G&L Tube LLC|O'Neal Industries|TN|1.00|2.00|123.00|308491.00|842568461|'O'Neal Construction'|o'neal|false
+Aspen Corporation|Aspen Corporation|WV|1.00|2.00|102.00|203900.00||'Aspen Group'|aspen|false
+Peterson Cotractors, Inc.|Peterson Contractors Inc.|IA|1.00|3.00|485.00|1301110.00|420921654|'Peterson Consulting Group'|peterson|false
+CEi Construction LLC DBA CEi Builders|CEi Construction LLC|NV|1.00|2.00|25.00|52007.00|271283781|'CEI Group LLC'|cei|false
+Liberty Sheet Metal, Inc.|Liberty Sheet Metal, Inc.|MI|1.00|2.00|74.00|129510.00|263824306|'Liberty Sheet Metal'|liberty sheet metal|false
+Turner Roofing Company|Turner Roofing Company|MD|2.00|2.00|45.00|77458.00|521503035|'Turner Roofing Co.'|turner roofing|false
+Commercial Roofing Contractor|Interstate Roofing Co Inc|NC|1.00|2.00|41.00|87569.00||'Interstate Roofing Inc.'|interstate roofing|false
+TW Metals - STP|O'Neal Industries|NJ|1.00|2.00|25.00|52343.00|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Cranbury|O'Neal Industries|NJ|1.00|2.00|31.00|65222.00|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Wichita|O'Neal Industries|KS|1.00|2.00|43.00|92469.00|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Seattle|O'Neal Industries|WA|1.00|2.00|33.00|64743.00|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - LA|O'Neal Industries|CA|1.00|2.00|56.00|117169.00|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Exton|O'Neal Industries|PA|1.00|2.00|95.00|196461.00|464009440|'O'Neal Construction'|o'neal|false
+TW Metals - Cincinnati|O'Neal Industries|OH|1.00|2.00|29.00|62225.00|464009440|'O'Neal Construction'|o'neal|false
+Shay Roofing Inc.|Shay Roofing INC.|IL|1.00|2.00|57.00|78690.00|371298422|'Shay Roofing Inc.'|shay roofing|false
+TW Metals - Carol Stream|O'Neal Industries|IL|1.00|2.00|99.00|210961.00|464009440|'O'Neal Construction'|o'neal|false
+Spann Roofing & Sheet Metal, Inc.|Spann Roofing & Sheet Metal, Inc.|SC|1.00|2.00|70.00|136000.00|570373011|'Spann Roofing & Sheet Metal Inc.'|spann roofing & sheet metal|false
+TW Metals - Atlanta|O'Neal Industries|GA|1.00|2.00|35.00|74124.00|464009440|'O'Neal Construction'|o'neal|false
+Atlas Roofing, East Moline|Atlas Roofing|IL|1.00|2.00|43.00|98487.00||'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Red Pointe Roofing, LP|Red Pointe Roofing, LP|CA|1.00|2.00|93.00|185594.00|900957014|'Red Pointe Roofing'|red pointe roofing|false
+Continental Tire The Americas, LLC|Continental Tire The Americas, LLC|MS|1.00|3.00|557.00|1168626.00|341417030|'Continental Tire the Americas LLC.'|continental tire the americas|false
+M. Potteiger Inc.|M. Potteiger Inc.|PA|1.00|2.00|30.00|48238.00|231709914|'M. Potteiger Inc.'|m. potteiger|false
+Weathergard Inc|Weathergard Inc|NC|1.00|2.00|34.00|58183.00||'Weathergard Inc.'|weathergard|false
+Interstate Roofing, Inc.|Interstate Roofing, Inc.|OR|1.00|2.00|59.00|106606.00|930963870|'Interstate Roofing Inc.'|interstate roofing|false
+A Brooks Roofing Inc|A Brooks Roofing Inc|NJ|1.00|2.00|47.00|90364.00|222902030|'A Brooks Roofing Inc.'|a brooks roofing|false
+ARCHITECTURAL SHEET METAL, INC|ARCHITECTURAL SHEET METAL, INC|WA|1.00|2.00|45.00|89563.00|911160776|'Architectural Sheet Metal Inc.'|architectural sheet metal|false
+Gillespie Roofing, Inc.|Gillespie Roofing, Inc.|WA|1.00|2.00|16.00|30074.00|911334128|'Gillespie Roofing Inc.'|gillespie roofing|false
+Hertless Brothers Roofing, Inc.|Hertless Brothers Roofing, Inc.|VA|1.00|2.00|20.00|35748.00|202009976|'Hertless Brothers Roofing Inc.'|hertless brothers roofing|false
+Advanced Roofing, Inc.|Advanced Roofing, Inc.|MI|1.00|2.00|19.00|33271.00|382819536|'Advanced Roofing Inc.', 'Advanced Roofing Services Inc.', 'Advanced Roofing Systems Inc.', 'Advanced Roofing Systems Ltd.'|advanced roofing|true
+Roof Maintenance Systems|Roof Maintenance Systems|NJ|1.00|2.00|20.00|31182.00|222016917|'Roof Maintenance Systems'|roof maintenance|false
+Pro Services Construction|Pro Services Construction|KY|1.00|2.00|25.00|36959.00|920193998|'Pro Services CO LLC'|pro|false
+Texas Fifth Wall Roofing Systems|Texas Fifth Wall Roofing Systems|TX|1.00|2.00|115.00|268058.00||'Texas Fifth Wall Roofing Systems Inc.'|texas fifth wall roofing|false
+Carlisle Polyurethane Systems - Emerson|Carlisle Construction Materials|GA|1.00|1.00|7.00|17189.00|464319816|'Carlisle Construction Materials'|carlisle construction materials|false
+Webco Industries - Mannford Speciality Tube|Webco Industries|OK|1.00|2.00|198.00|408556.00|731097133|'WEBCO Services LLC'|webco|false
+SRS Roofing and Sheet Metal, Inc|SRS Roofing & Sheet Metal, Inc|WI|1.00|2.00|41.00|58232.00|203056563|'SRS Roofing & Sheet Metal Inc.'|srs roofing & sheet metal|false
+Watkins Roofing, Inc.|Watkins Roofing, Inc.|MO|1.00|2.00|50.00|67406.00|431003848|'Watkins Roofing Inc.'|watkins roofing|false
+TCR Systems|TCR Systems LLC|IL|1.00|2.00|93.00|200132.00|141845838|'TCR Construction Group'|tcr|false
+Poly Plastic Products of NC , Inc|Alpha Industries Management|NC|1.00|2.00|71.00|160708.00|200142517|'Alpha Construction Services'|alpha|false
+Poly Plastic Products of PA , Inc.|Alpha Industries Management|PA|1.00|2.00|88.00|184858.00|222202824|'Alpha Construction Services'|alpha|false
+J&B Installations, Inc.|J&B Installations, Inc.|NY|1.00|2.00|56.00|102092.00|161160437|'J&B Installations Inc.'|j&b installations|false
+O'Neal Contracting, Inc.|O'Neal Roofing Company|FL|1.00|2.00|30.00|29633.00|593126643|'O'Neal Roofing Co. Inc.'|o'neal roofing|false
+O'Neal Roofing Company|O'Neal Roofing Company|FL|1.00|2.00|36.00|38099.00|592015309|'O'Neal Roofing Co. Inc.'|o'neal roofing|false
+Sun Commercial Roofs, Inc.|Sun Commercial Roofs, Inc.|TX|1.00|2.00|68.00|172125.00|752214198|'Sun Commercial Roofs Inc.'|sun commercial roofs|false
+Radco - Cedar Rapids / Hiawatha|Radco|IA|1.00|1.00|4.00|8320.00|411796796|'Radco Construction Services'|radco|false
+Momentum Builders Inc.|Momentum Builders Inc.|PA|1.00|2.00|15.00|19870.00||'Momentum Builders Inc.'|momentum builders|false
+Mt. Pleasant|Dayco|MI|1.00|2.00|125.00|226498.00|161598206|'Dayco Inc.'|dayco|false
+Richmond, VA Office|Whitley/Service Roofing & Sheet Metal Company|VA|1.00|2.00|40.00|68052.00||'Whitley/Service Roofing & Sheet Metal Company'|whitley/service roofing & sheet metal|false
+Weathercraft Co. of Lincoln|Weathercraft Co. of Lincoln|NE|1.00|2.00|56.00|101560.00|470527585|'Weathercraft Co. of Lincoln'|weathercraft co. of lincoln|false
+Atlas Fabrication, LLC|Atlas Fabrication, LLC|OK|1.00|2.00|15.00|2419832.00|823064794|'Atlas Fabrication'|atlas fabrication|false
+Damschroder Roofing, Inc.|DAMSCHRODER ROOFING INC|OH|1.00|2.00|37.00|62298.00|342037110|'Damschroder Roofing LLC'|damschroder roofing|false
+Armstrong International - Three Rivers Division|Armstrong International Inc.|MI|1.00|2.00|244.00|521202.00|380308010|'Armstrong Group Inc.'|armstrong|false
+Platinum Roofing, LLC|Platinum Roofing, LLC|AR|1.00|2.00|33.00|90625.00|472769625|'Platinum Roofing', 'Platinum Roofing LLC', 'Platinum Roofing Solutions INC'|platinum roofing|true
+Rain King, Inc.|Rain King, Inc.|TX|1.00|2.00|49.00|101928.00|742775327|'Rain King Inc.'|rain king|false
+Smith Systems Inc|Smith Systems Inc|NC|1.00|2.00|44.00|92008.00||'Smith Group'|smith|false
+Branch Office|Modern Roofing, Inc.|MI|1.00|2.00|55.00|94153.00|382184928|'Modern Roofing Inc.', 'Modern Roofing LLC'|modern roofing|true
+Gustafson Industries Inc|Gustafson Industries Inc|FL|1.00|2.00|30.00|67955.00|592741607|'Gustafson Industries Inc.'|gustafson|false
+atlas|atlas roofing corporation|TX|1.00|2.00|46.00|102102.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+TRANS COASTAL CONSTRUCTION|TRANS COASTAL CONSTRUCTION|FL|1.00|2.00|17.00|23446.00|591566091|'Trans Coastal Construction'|trans coastal|false
+Atlas Roofing Corporation|Atlas Roofing Corporation|MS|1.00|2.00|216.00|547124.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Cylinder Manufacturing Valve & Pump Plant|Cross Manufacturing|KS|1.00|2.00|47.00|89919.00|480668545|'Cross Construction CO. INC.'|cross|false
+NY|Neth & Son Inc|NY|1.00|2.00|101.00|114605.00|161010131|'Neth & Son Inc.'|neth & son|false
+Cross Manufacturing Inc. All plants together|Cross Manufacturing Inc.|KS|1.00|2.00|111.00|220381.00|480668545|'Cross Construction CO. INC.'|cross|false
+FL|Neth & Son Inc|FL|1.00|2.00|18.00|23780.00|061320679|'Neth & Son Inc.'|neth & son|false
+Hamilton Roofing Inc|Hamilton Roofing Inc|FL|1.00|2.00|37.00|30450.00||'Hamilton Roofing Inc.'|hamilton roofing|false
+Register Roofing & Sheet Metal, Inc.|Register Roofing & Sheet Metal, Inc.|FL|1.00|2.00|88.00|186064.00|542069021|'Register Roofing & Sheet Metal Inc.'|register roofing & sheet metal|false
+Cardinal Roofing, Inc.|Cardinal Roofing, Inc.|TX|1.00|2.00|51.00|103571.00|751802132|'Cardinal Roofing', 'Cardinal Roofing Inc.'|cardinal roofing|true
+BORNOR RESTORATION, INC.|BORNOR RESTORATION, INC.|MI|1.00|2.00|36.00|60738.00|381865292|'Bornor Restoration Inc.'|bornor restoration|false
+Millwork & Panel LLC- Social Circle|CertainTeed LLC|GA|1.00|2.00|51.00|95063.00|320613145|'CertainTeed LLC'|certainteed|false
+Western Pacific Roofing Corp. of Palm Springs|Western Pacific Roofing Corp.|CA|1.00|2.00|27.00|54385.00|952386834|'Western Pacific Roofing Corp.'|western pacific roofing|false
+Western Pacific Roofing Corp.|Western Pacific Roofing Corp.|CA|1.00|2.00|44.00|91284.00|952386834|'Western Pacific Roofing Corp.'|western pacific roofing|false
+AOC Tennessee Resins|Alpha Corporation|TN|1.00|2.00|68.00|153179.00||'Alpha Construction Services'|alpha|false
+Molloy Roofing Company|Molloy Roofing Company|OH|1.00|2.00|50.00|94710.00|310787317|'Molloy Roofing Co.'|molloy roofing|false
+Filotto Roofing|Filotto Roofing|IL|1.00|2.00|30.00|46757.00|363964971|'Filotto Roofing, Inc.'|filotto roofing|false
+GKL Companies|GKL Companies, Inc.|AL|1.00|2.00|20.00|39534.00|631050305|'GKL Companies Inc.'|gkl companies|false
+RPG Shakopee|CertainTeed LLC|MN|1.00|3.00|260.00|507478.00||'CertainTeed LLC'|certainteed|false
+Service Roofing Company|Service Roofing Company|IA|1.00|2.00|24.00|32063.00|420895028|'Service Roofing Co.'|service roofing|false
+Sherriff-Goslin Company|Sherriff-Goslin Company|MI|1.00|2.00|150.00|161000.00||'Sherriff-Goslin Co.'|sherriff-goslin|false
+Aspen Manufacturing, LLC|Aspen Manufacturing|TX|1.00|3.00|333.00|933014.00|453120278|'Aspen Group'|aspen|false
+McCarthy Building Companies, Inc. - Dallas Office|McCarthy Building Companies, Inc.|TX|1.00|2.00|129.00|269271.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Harmon Road Improvements Project # 2200|McCarthy Building Companies, Inc.|TX|1.00|1.00|12.00|25979.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - NE TX Cancer & Research Institute|McCarthy Building Companies, Inc.|TX|1.00|1.00|16.00|33517.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Performance Roofing LLC|Performance Roofing LLC|FL|1.00|2.00|34.00|37436.00|205739365|'Performance Roofing Inc.', 'Performance Roofing Systems Inc.'|performance roofing|true
+CertainTeed, LLC|CertainTeed, LLC|MO|1.00|3.00|284.00|615348.00|232510893|'CertainTeed LLC'|certainteed|false
+Delta Contracting Inc.|Delta Contracting Inc.|NC|1.00|2.00|113.00|267997.00|561880490|'Delta Contracting Services Inc.'|delta contracting|false
+JM Eagle PCP|JM Manufacturing|CA|1.00|1.00|15.00|28368.00|840895616|'JM Contractors Inc'|jm|false
+Anderson Industries|Anderson Industries|SC|1.00|2.00|245.00|651799.00|261604901|'Anderson Associates'|anderson|false
+Custofoam Corporation|Custofoam Corporation|WI|1.00|2.00|18.00|20007.00|391178726|'Custofoam Corp.'|custofoam|false
+IRS Jackson|Independent Roofing Systems|MS|1.00|2.00|143.00|290797.00|640657679|'Independent Roofing Company Inc.', 'Independent Roofing Systems Inc.'|independent roofing|true
+NRG Joliet Generating Station|NRG|IL|1.00|2.00|45.00|102055.00|463985344|'NRG Construction LLC'|nrg|false
+NRG Will County Generating Station|NRG|IL|1.00|2.00|47.00|98683.00|463985344|'NRG Construction LLC'|nrg|false
+Mid-South Roof Systems|Mid-South Roof Systems|GA|1.00|2.00|160.00|366000.00|581876904|'Mid-South Roof Systems'|mid-south roof|false
+Boyd Corporation Allenton|Boyd Corp|WI|1.00|2.00|121.00|223872.00|274599147|'Boyd Inc.'|boyd|false
+The Quality Roofing Company|The Quality Roofing Company|MO|1.00|2.00|20.00|40808.00|440400020|'The Quality Roofing Co. Inc.'|the quality roofing|false
+Celoseal Roofing Inc.|Celoseal Roofing Inc.|CA|1.00|2.00|50.00|80322.00|952647166|'Celoseal Roofing Inc.'|celoseal roofing|false
+Exterior Services|Fort-Cica Roofing & General Contractors Inc.|NY|1.00|2.00|40.00|70683.00|131763196|'Fort-Cica Roofing & General Contractors Inc.'|fort-cica roofing & general|false
+Weathercraft, Inc.|Weathercraft, Inc.|MO|1.00|2.00|33.00|59047.00|431206531|'Weathercraft Inc.'|weathercraft|false
+Four Seasons Rancho Encantado|Four Seasons|NM|1.00|2.00|145.00|264981.00|542202028|'Four Seasons Construction LLC'|four seasons|false
+Stickney WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|3.00|653.00|1019878.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Manson Roofing, Inc.|Manson Roofing, Inc.|FL|1.00|2.00|32.00|68365.00|591799056|'Manson Roofing Inc.'|manson roofing|false
+O'Brien WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|2.00|183.00|299437.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Main Office Building Annex (MOBA)|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|3.00|263.00|145882.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Main Office Building (MOB)|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|2.00|225.00|153882.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Kirie WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|2.00|45.00|70970.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Hanover Park WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|2.00|22.00|36755.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Egan WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|2.00|69.00|109374.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Calumet WRP|Metropolitan Water Reclamation District of Greater Chicago|IL|3.00|3.00|262.00|423730.00||'Metropolitan Water Reclamation District of Greater Chicago'|metropolitan water reclamation district of greater chicago|false
+Schulte Roofing|Schulte Roofing|TX|1.00|2.00|25.00|56240.00|810555670|'Schulte Roofing Inc.'|schulte roofing|false
+Griffith Roofing Co.|Griffith Roofing Co.|OR|1.00|2.00|42.00|77912.00||'Griffith Roofing Co.'|griffith roofing|false
+Central Roofing Company|Central Roofing Co.|CA|1.00|2.00|44.00|74520.00|330536574|'Central Roofing', 'Central Roofing Co.', 'Central Roofing Inc.', 'Central Roofing LLC'|central roofing|true
+Atlanta Roofing Plant|Owens Corning|GA|1.00|2.00|100.00|229851.00||'Owens Corning'|owens corning|false
+Atlanta Asphalt Plant|Owens Corning|GA|1.00|1.00|16.00|36928.00||'Owens Corning'|owens corning|false
+King of Texas Roofing|King of Texas Roofing|TX|1.00|2.00|79.00|141958.00|752969578|'King of Texas Roofing Company LP'|king of texas roofing|false
+Mint Roofing|Mint Roofing|MN|1.00|2.00|51.00|85094.00|810389786|'Mint Roofing Inc.'|mint roofing|false
+NRG Gregory PP|NRG|TX|1.00|1.00|15.00|22506.00||'NRG Construction LLC'|nrg|false
+Viking Roofing, Inc|Viking Roofing, Inc|NH|1.00|2.00|13.00|24720.00||'Viking Roofing Inc.'|viking roofing|false
+Diamond Roofing Systems, LLP|Diamond Roofing Systems|OH|1.00|2.00|41.00|81790.00|462010388|'Diamond Roofing', 'Diamond Roofing Co. Inc.', 'Diamond Roofing Systems'|diamond roofing|true
+Owens Corning Rockford Foamular|Owens Corning|IL|1.00|2.00|68.00|131808.00|383737830|'Owens Corning'|owens corning|false
+Capitol Roofing Inc|Capitol Roofing Inc|WY|1.00|2.00|25.00|52000.00|800328938|'Capitol Roofing Inc.'|capitol roofing|false
+WATER CONTROL ROOFING COMPANY INC|WATER CONTROL ROOFING COMPANY INC|TN|1.00|2.00|32.00|57358.00|621225632|'Water Control Roofing Co.'|water control roofing|false
+Momentum Builders, Inc.|Momentum Builders, Inc.|PA|1.00|2.00|15.00|28264.00||'Momentum Builders Inc.'|momentum builders|false
+Webco Oklahoma Distribution|Webco Industries|OK|1.00|2.00|45.00|85989.00|731097133|'WEBCO Services LLC'|webco|false
+Webco - Texas Distribution|Webco Industries|TX|1.00|2.00|30.00|57943.00|731097133|'WEBCO Services LLC'|webco|false
+Graham Prewett, Inc.|Graham Prewett, Inc.|CA|1.00|2.00|82.00|145409.00|770565773|'Graham Prewett Inc.'|graham prewett|false
+Metal-Era|Metal-Era|WI|1.00|2.00|208.00|368207.00|391464141|'Metal-Era LLC'|metal-era|false
+Tarheel Roofing, Inc.|Tarheel Roofing, Inc.|FL|1.00|2.00|58.00|127616.00|592679504|'Tarheel Roofing Inc.'|tarheel roofing|false
+COLLINS ROOFING INC|Collins Roofing Inc.|UT|1.00|2.00|29.00|66138.00|870306507|'Collins Roofing Inc.'|collins roofing|false
+O'Neal Manufacturing Services Houston|O'Neal Industries|TX|1.00|2.00|79.00|154861.00|464009440|'O'Neal Construction'|o'neal|false
+Wray Roofing, Inc|Wray Roofing|KS|1.00|2.00|88.00|143139.00|480924349|'Wray Roofing Inc.'|wray roofing|false
+Great Lakes Roofing Corp - Menasha|Great Lakes Roofing Corporation|WI|1.00|2.00|22.00|41718.00|391583074|'Great Lakes Roofing Corp.'|great lakes roofing|false
+Quincy 2|Royal Technologies|MI|1.00|1.00|27.00|49617.00|382726351|'Royal industries LLC'|royal|false
+Highland|Royal Technologies|MI|1.00|2.00|22.00|48879.00|382726351|'Royal industries LLC'|royal|false
+Royal Center|Royal Technologies|MI|1.00|2.00|138.00|267026.00|382726351|'Royal industries LLC'|royal|false
+Cullman|Royal Technologies|MI|1.00|2.00|185.00|409132.00|382726351|'Royal industries LLC'|royal|false
+Mission|Royal Technologies|MI|1.00|2.00|135.00|291719.00|382726351|'Royal industries LLC'|royal|false
+Corp Grove|Royal Technologies|MI|1.00|3.00|276.00|573213.00|382726351|'Royal industries LLC'|royal|false
+Quincy|Royal Technologies|MI|1.00|3.00|410.00|839912.00|382726351|'Royal industries LLC'|royal|false
+URSM|United Roofing & Sheet Metal, Inc.|CT|1.00|2.00|47.00|84637.00|472424796|'United Roofing & Sheet Metal Inc.'|united roofing & sheet metal|false
+6304_14768|Architectural Metals Inc|MI|1.00|2.00|48.00|90685.00|382755753|'Architectural Metals, Inc.'|architectural metals|false
+2341_4277|Brandle Roofing & Sheet Metal|MI|1.00|2.00|30.00|54168.00|382446283|'Brandle Roofing & Sheet Metal Co.'|brandle roofing & sheet metal|false
+Scholten Roofing inc|Scholten Roofing Inc|WA|1.00|2.00|20.00|32995.00|910890646|'Scholten Roofing Inc.'|scholten roofing|false
+Premier Industries Corporation|Premier Industries Corporation|MI|1.00|2.00|24.00|41469.00|382640806|'Premier Enterprises'|premier|false
+Colorado Moisture Control, Inc.|Colorado Moisture Control, Inc.|CO|1.00|2.00|59.00|127278.00||'Colorado Moisture Control Inc.'|colorado moisture control|false
+Royal Roofing Company Inc.|Royal Roofing Company Inc.|MI|1.00|2.00|186.00|346830.00|382482479|'Royal Roofing Inc.'|royal roofing|false
+Southern Management Companies|Southern Management Corporation|VA|1.00|3.00|1177.00|2268946.00|521223227|'Southern National'|southern|false
+Unilock Tonganoxie|Unilock|KS|1.00|1.00|3.00|4906.00||'Unilock'|unilock|false
+All-South Subcontractors Birmingham|All-South Subcontractors, Inc.|AL|1.00|2.00|75.00|175727.00||'All-South Subcontractors, Inc.'|all-south subcontractors|false
+Harness Roofing Corp|Harness Roofing, Inc.|AR|1.00|2.00|23.00|47840.00|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing HS|Harness Roofing, Inc.|AR|1.00|2.00|46.00|26778.00|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing SD|Harness Roofing, Inc.|AR|1.00|2.00|69.00|40166.00|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing FS|Harness Roofing, Inc.|AR|1.00|2.00|43.00|25031.00|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing LR|Harness Roofing, Inc.|AR|1.00|2.00|27.00|15717.00|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing TS|Harness Roofing, Inc.|OK|1.00|2.00|38.00|20473.00|710654212|'Harness Roofing Inc.'|harness roofing|false
+Harness Roofing MN|Harness Roofing Inc.|LA|1.00|1.00|8.00|4929.00|710654212|'Harness Roofing Inc.'|harness roofing|false
+Paving & Grading|Delta Contracting Company LLC|TN|1.00|2.00|88.00|176804.00|204291579|'Delta Contracting Services Inc.'|delta contracting|false
+The Brewer Company|The Brewer Company|WI|1.00|2.00|125.00|214644.00|391979518|'The Brewer Co.'|the brewer|false
+McCarthy Building Companies - West Georgia Technical College|McCarthy Building Companies|GA|2.00|1.00|20.00|48608.00||'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - Southern Region Atlanta Office|McCarthy Building Companies, Inc|GA|1.00|2.00|68.00|156122.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+KP - Crescent Center Atlanta|McCarthy Building Companies|GA|1.00|1.00|11.00|24847.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Holt Roofing Company|Holt Roofing Company|OH|1.00|2.00|19.00|29704.00|341283297|'Holt Roofing Co. Inc.'|holt roofing|false
+North Central Insulation|North Central Insulation|OH|1.00|2.00|94.00|195520.00|341521877|'North Central Insulation'|north central insulation|false
+HMHSL MOB4 & Garage|McCarthy Building Companies|TX|1.00|1.00|12.00|2697.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Rio Roofing, Inc.|Rio Roofing, Inc.|TX|1.00|2.00|43.00|90130.00|742427440|'Rio Roofing', 'Rio Roofing Inc.'|rio roofing|true
+Ismaili Center Houston|McCarthy Building Companies|TX|1.00|2.00|20.00|9091.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+TCH Austin Main Project|McCarthy Building Companies|TX|1.00|2.00|70.00|88495.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies - Houston Office|McCarthy Building Companies|TX|1.00|2.00|61.00|125928.00||'McCarthy Building Companies'|mccarthy building companies|false
+01-MAG-CHANTILLY|ECS MID-ATLANTIC, LLC|VA|1.00|3.00|236.00|458559.00|201067637|'ECS Mid-Atlantic LLC'|ecs mid-atlantic|false
+Restoration Services Inc.|Restoration Services Inc.|TX|1.00|2.00|126.00|147381.00|760044493|'Restoration Services Inc.'|restoration|false
+JR Roofing, LLC|JR Roofing, LLC|IA|1.00|1.00|8.00|12876.00|263983582|'JR Roofing, LLC'|jr roofing|false
+Midwest Coating, Inc.|Midwest Coating, Inc.|KS|1.00|2.00|38.00|80323.00|480896503|'Midwest Coating Inc.'|midwest coating|false
+Progressive Roofing Inc|Progressive Roofing Inc|NY|1.00|2.00|30.00|31618.00|161064150|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Midland Engineering|Midland Engineering|IN|1.00|2.00|149.00|283533.00|350152415|'Midland Engineering Co. Inc.'|midland engineering|false
+Unilock New York Inc. Boston Division|Unilock|MA|1.00|2.00|59.00|115186.00|980103212|'Unilock'|unilock|false
+TMJ Construction Services|TMJ Construction Services|IA|1.00|2.00|19.00|46743.00|542149654|'TMJ Construction Services LLC'|tmj|false
+RSI of Florida, LLC|RSI of Florida, LLC|FL|1.00|2.00|41.00|93327.00|592574965|'RSI of Florida Inc.'|rsi of florida|false
+Pinnacle Roofing, Inc./Roofing Construction|Pinnacle Roofing, Inc.|NY|1.00|2.00|45.00|49392.00|200593022|'Pinnacle Roofing'|pinnacle roofing|false
+TeamCraft Roofing, Inc.|TeamCraft Roofing, Inc.|NC|1.00|3.00|309.00|819009.00|561986226|'TeamCraft Roofing Inc.'|teamcraft roofing|false
+Mid Illinois Concrete & Excavation, Inc.|Mid Illinois Concrete & Excavation, Inc|IL|1.00|2.00|58.00|90810.00|452487164|'Mid Illinois Concrete & Excavation, Inc.'|mid illinois concrete & excavation|false
+Fleetwood Metal Industries|Precision Partners|AL|1.00|2.00|188.00|353204.00||'Precision Construction Services'|precision|false
+American Building Systems LLC.|American Building Systems LLC|NV|1.00|2.00|98.00|192423.00|463600668|'American Building Contractors Inc'|american building|false
+Cedar Bayou|NRG|TX|1.00|2.00|66.00|134329.00||'NRG Construction LLC'|nrg|false
+CertainTeed Jonesburg|CertainTeed|MO|1.00|2.00|146.00|359465.00|232510893|'CertainTeed LLC'|certainteed|false
+Bell Roof Co|Bell Roof Co|CA|1.00|2.00|26.00|44951.00|951620634|'Bell Roof Co.'|bell roof|false
+American Refrigeration Supplies, Inc.|Kitchell|AZ|1.00|2.00|237.00|498894.00|860067585|'Kitchell Contractors'|kitchell|false
+Kitchell Contractors, Inc. - California|Kitchell|CA|1.00|2.00|49.00|109457.00|860091708|'Kitchell Contractors'|kitchell|false
+Kitchell CEM, Inc.|Kitchell|CA|1.00|2.00|291.00|562929.00|860358697|'Kitchell Contractors'|kitchell|false
+Hardison/Downey Construction|Kitchell|AZ|1.00|2.00|163.00|397576.00|860511329|'Kitchell Contractors'|kitchell|false
+Kitchell Contractors, Inc. of Arizona|Kitchell|AZ|1.00|3.00|258.00|492606.00|860542011|'Kitchell Contractors'|kitchell|false
+Kitchell Corporation|Kitchell Corporation|AZ|1.00|3.00|827.00|2181530.00|860181400|'Kitchell Contractors'|kitchell|false
+Unilock Chicago|Unilock Inc.|IL|1.00|2.00|134.00|310562.00|363480878|'Unilock'|unilock|false
+GreenWood, Inc. - Altivia|GreenWood, Inc.|WV|1.00|2.00|10.00|19268.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Bosch-Rexroth|GreenWood, Inc.|SC|1.00|1.00|3.00|4406.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Caterpiller|GreenWood, Inc.|GA|1.00|2.00|49.00|92835.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Dow (South Charleston)|GreenWood, Inc.|WV|1.00|2.00|79.00|152937.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Eaton Aerospace Group|GreenWood|SC|1.00|1.00|7.00|12156.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Fuji (Medical|GreenWood, Inc.|SC|1.00|1.00|1.00|1948.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Fuji Film|GreenWood, Inc.|IL|1.00|2.00|41.00|80523.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Fujifilm|GreenWood, Inc.|SC|1.00|2.00|37.00|64403.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - GE Aviation|GreenWood, Inc.|AL|1.00|1.00|17.00|31650.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - GE Durham|GreenWood, Inc.|NC|1.00|2.00|1.00|1373.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- GE Piedmont|GreenWood, Inc.|SC|1.00|1.00|13.00|23990.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - GE Gas Turbine|GreenWood, Inc.|SC|1.00|1.00|25.00|45649.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Greer - West Projects|GreenWood, Inc.|SC|1.00|1.00|5.00|9067.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. -   Home Office|GreenWood, Inc.|SC|1.00|1.00|14.00|27204.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Honeywell|GreenWood, Inc.|SC|1.00|2.00|23.00|41950.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Kureha|GreenWood, Inc.|WV|1.00|1.00|13.00|23154.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+Morgan Advanced Materials|GreenWood, Inc.|GA|1.00|2.00|41.00|80716.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+Wm. Kramer & Son, Inc|Wm. Kramer & Son, Inc|OH|1.00|2.00|71.00|121089.00|310787481|'Wm. Kramer & Son Inc.'|wm. kramer & son|false
+GreenWood, Inc.-  Mitsubishi|GreenWood, Inc.|SC|1.00|2.00|36.00|63769.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Optima|GreenWood, Inc.|WV|1.00|1.00|2.00|3667.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Standard Aero|GreenWood, Inc.|GA|1.00|1.00|4.00|6258.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc.- Solvay|GreenWood, Inc.|GA|1.00|2.00|40.00|74984.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+GreenWood, Inc. - Toyota|GreenWood, Inc.|WV|1.00|2.00|29.00|52993.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+Phinney Industrial Roofing, Inc.|Phinney Industrial Roofing, Inc.|OH|1.00|2.00|28.00|50757.00|341478040|'Phinney Industrial Roofing Inc.'|phinney industrial roofing|false
+Elens & Maichin Roofing & Sheet Metal, Inc.|Elens & Maichin Roofing & Sheet Metal, Inc.|IL|1.00|2.00|34.00|61547.00|362807358|'Elens & Maichin Roofing & Sheet Metal Inc.'|elens & maichin roofing & sheet metal|false
+GreenWood, Inc.|GreenWood, Inc.|SC|1.00|3.00|719.00|1353877.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+Tallmadge Plant|Owens Corning|OH|1.00|2.00|70.00|153539.00||'Owens Corning'|owens corning|false
+GreenWood, Inc. - ZF Transmission|GreenWood, Inc.|SC|1.00|2.00|37.00|67007.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+Bone Dry Roofing - Athens|Bone Dry Roofing|GA|1.00|2.00|58.00|133941.00|861081716|'Bone Dry Roofing', 'Bone Dry Roofing Co.', 'Bone Dry Roofing Company', 'Bone Dry Roofing Inc.'|bone dry roofing|true
+GreenWood, Inc. -  Merck|GreenWood, Inc.|VA|1.00|2.00|119.00|233474.00|570967122|'Greenwood Industries Inc.'|greenwood|false
+Owens Corning Savannah Roofing and Asphalt|Owens Corning|GA|1.00|2.00|94.00|204440.00|320176634|'Owens Corning'|owens corning|false
+UNITED CONSTRUCTION CORP|UNITED CONSTRUCTION CORP|NH|1.00|2.00|41.00|83768.00|020257849|'United Contractors'|united|false
+Central States Roofing & Insulating Company|Central States Roofing & Insulating Company|CO|1.00|2.00|75.00|139514.00|840384567|'Central States Roofing & Insulating Co.'|central states roofing & insulating|false
+J.L. Adler Roofing & Sheet Metal, Inc.|J.L. Adler Roofing & Sheet Metal, Inc.|IL|1.00|2.00|57.00|91963.00|362302162|'J.L. Adler Roofing & Sheet Metal Inc.'|j.l. adler roofing & sheet metal|false
+Rockwool|Rockwool|WV|1.00|2.00|107.00|94662.00||'ROCKWOOL'|rockwool|false
+FAB Production Facility|GMT Corporation|IA|1.00|2.00|60.00|97777.00|421033414|'GMT Consulting Inc'|gmt|false
+LPM Production Facility|GMT Corporation|IA|1.00|2.00|17.00|32946.00|421033414|'GMT Consulting Inc'|gmt|false
+The Waterview Shores|Monarch|MN|1.00|2.00|49.00|63301.00|834662774|'Monarch Consulting Services'|monarch|false
+Hayden Building Maintenance Corp.|Hayden Building Maintenance Corp.|NY|1.00|2.00|42.00|75040.00|133152634|'Hayden Building Maintenance Corp.'|hayden building maintenance|false
+Charleston SC IW Plant|Owens Corning|SC|1.00|2.00|33.00|57376.00|930957943|'Owens Corning'|owens corning|false
+Schefers Construction Services|SCHEFERS ROOFING|MO|1.00|1.00|1.00|1056.00|202556779|'Schefers Roofing Co.'|schefers roofing|false
+SCHEFERS ROOFING|SCHEFERS ROOFING|MO|1.00|2.00|52.00|95889.00|431715763|'Schefers Roofing Co.'|schefers roofing|false
+Schefers Roofing Company|Schefers Roofing Company|AR|1.00|2.00|25.00|31488.00|113833862|'Schefers Roofing Co.'|schefers roofing|false
+Rackley Roofing Co Inc|Rackley Roofing Co Inc|TN|1.00|2.00|120.00|291481.00|620932570|'Rackley Roofing Co. Inc.'|rackley roofing|false
+ICON LLC|ICON LLC|MN|1.00|2.00|40.00|60104.00|462086822|'Icon Corp.'|icon|false
+Owens Corning|Owens Corning|IN|1.00|2.00|115.00|205336.00|320176634|'Owens Corning'|owens corning|false
+Palmer International Inc|Palmer International Inc|PA|1.00|2.00|49.00|88839.00||'Palmer Construction'|palmer|false
+Josall Syracuse, Inc.|Josall Syracuse Inc|NY|1.00|2.00|32.00|44041.00|160869984|'Josall Syracuse Inc.'|josall syracuse|false
+Pioneer Roofing, LLC|Pioneer Roofing, LLC|WI|1.00|2.00|48.00|98854.00|134225857|'Pioneer Roofing Co.', 'Pioneer Roofing Company', 'Pioneer Roofing Systems Inc.'|pioneer roofing|true
+BERWALD ROOFING COMPANY., INC.|Berwald Roofing Company|MN|1.00|2.00|205.00|342581.00|410885923|'Berwald Roofing Co.'|berwald roofing|false
+Dixie Roofing, Inc. - Powell|Dixie Roofing, Inc.|TN||2.00|39.00|105360.00|621136030|'Dixie Roofing Inc.'|dixie roofing|false
+Dixie Roofing, Inc. - LaFollette|Dixie Roofing, Inc.|TN||2.00|101.00|288258.00|621136030|'Dixie Roofing Inc.'|dixie roofing|false
+RSI Roofing, Inc.|RSI Roofing, Inc.|NY|1.00|2.00|39.00|81819.00|161212717|'RSI Roofing Inc.'|rsi roofing|false
+MONARCH CONSTRUCTION CO|MONARCH CONSTRUCTION CO|IL|1.00|2.00|40.00|73718.00|363603650|'Monarch Consulting Services'|monarch|false
+Turner Morris, Inc.|TURNER MORRIS, INC.|CO|1.00|2.00|54.00|96945.00|841199856|'Turner Morris Inc.'|turner morris|false
+Turner Morris, Inc. Silverthorne|Turner Morris, Inc.|CO|1.00|2.00|33.00|67875.00|841199856|'Turner Morris Inc.'|turner morris|false
+All Seasons Roofing, LLC|All Seasons Roofing, LLC|MO|1.00|2.00|22.00|27406.00|204885966|'All Seasons Roofing LLC'|all seasons roofing|false
+SI|Sampco, Inc.|MA|1.00|2.00|32.00|62806.00|043110392|'Sampco Inc.'|sampco|false
+HIGHLAND COMMERCIAL ROOFING INC. Oakland|HIGHLAND COMMERCIAL ROOFING, INC.|CA|1.00|2.00|21.00|41336.00|262593390|'Highland Commercial Roofing'|highland commercial roofing|false
+Royal Manufacturing - Buda Facility|Royal Manufacturing|TX|1.00|1.00|19.00|41178.00|471169363|'Royal industries LLC'|royal|false
+Fidelity Roof Company Inc|Fidelity Roof Company Inc|CA|1.00|2.00|72.00|100841.00|941326440|'Fidelity Roof Co.'|fidelity roof|false
+Atlas Molded Products, A Division of Atlas Roofing Corporation|Atlas Roofing Corporation|IA|1.00|2.00|50.00|119908.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Hartford South, LLC|Hartford South, LLC|FL|1.00|2.00|82.00|148465.00||'Hartford South LLC'|hartford south|false
+OKC - Star Center Tube|Webco Industries Inc.|OK|1.00|2.00|230.00|424385.00|731097133|'WEBCO Services LLC'|webco|false
+OKC - Southwest Tube|Webco Industries|OK|1.00|3.00|195.00|458018.00|731097133|'WEBCO Services LLC'|webco|false
+Interstate Corporation|Interstate Corporation|PA|1.00|3.00|602.00|1079922.00|061831307|'Interstate Corp.'|interstate|false
+Interstate Solutions|Interstate Solutions|PA|1.00|2.00|168.00|171900.00|383989238|'Interstate Corp.'|interstate|false
+Central States Roofing|Central States Roofing|IA|1.00|2.00|45.00|82628.00||'Central States Roofing Co.'|central states roofing|false
+Camp Hill Plant|Atlas Roofing Corporation|PA|1.00|2.00|54.00|132034.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+US Ply, Inc - Corp|US Ply, Inc|TX|1.00|2.00|53.00|113472.00||'US Ply Inc.'|us ply|false
+Highland - Raleigh|Highland Roofing Company|NC|1.00|1.00|6.00|11785.00||'Highland Roofing Co. Inc.', 'Highland Roofing Company'|highland roofing|true
+Highland - Wilmington|Highland Roofing Company|NC|1.00|2.00|45.00|75380.00||'Highland Roofing Co. Inc.', 'Highland Roofing Company'|highland roofing|true
+Nikel Precision Group LLC|Precision Manufacturing Solutions Inc.|ME|1.00|2.00|94.00|185743.00|474547703|'Precision Construction Services'|precision|false
+Pacific Home Health and Hospice|Preferred Management|OR|1.00|1.00|15.00|21476.00|931213338|'Preferred Construction Services Inc.'|preferred|false
+HRGM Corporation|HRGM Corporation|DC|1.00|2.00|66.00|121165.00|541144392|'HRGM Corp.'|hrgm|false
+Precision Construction Company|Precision Construction Company|OR|1.00|2.00|20.00|35029.00|930984839|'Precision Construction Services'|precision|false
+United Industries Corp. - Chapin Manufacturing|United Industries Corporation|MO|1.00|3.00|428.00|1126584.00||'United Contractors'|united|false
+Tallahassee Roofing, Inc.|Tallahassee Roofing, Inc.|FL|1.00|2.00|40.00|46632.00||'Tallahassee Roofing Inc.'|tallahassee roofing|false
+Owens Corning Roofing Plant|Owens Corning|TN|1.00|2.00|105.00|228442.00|320176634|'Owens Corning'|owens corning|false
+Memphis Trumbull Asphalt Plant|Owens Corning|TN|1.00|2.00|18.00|36234.00|320176634|'Owens Corning'|owens corning|false
+West Texas Home Health Inc DBA Bluebonnet Home Health & Hospice|Preferred Management Corp|TX|1.00|2.00|21.00|21188.00||'Preferred Construction Services Inc.'|preferred|false
+Atlas Roofing|Atlas Roofing|MO|1.00|2.00|44.00|96839.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+MT3 Corporation|Diamond Everley Roofing Contractors|KS|1.00|2.00|45.00|74131.00|481048575|'Diamond Everley Roofing Contractors'|diamond everley roofing|false
+Academy|Academy Roofing Corporation|NH|1.00|2.00|30.00|49592.00|043758635|'Academy Roofing Inc.'|academy roofing|false
+Unilock Wisconsin|Unilock LTD.|WI|1.00|1.00|16.00|26489.00|363480878|'Unilock'|unilock|false
+Unilock Marengo|Unilock LTD.|IL|1.00|2.00|22.00|58870.00|363480878|'Unilock'|unilock|false
+Corbin|Boyd Company|KY|1.00|2.00|102.00|209350.00|610401854|'Boyd Inc.'|boyd|false
+Elizabethtown|Boyd Company|KY|1.00|2.00|26.00|52741.00|610401854|'Boyd Inc.'|boyd|false
+Evansville|Boyd Company|IN|1.00|2.00|72.00|144515.00|610401854|'Boyd Inc.'|boyd|false
+Beckley Hydraulic|Boyd Company|WV|1.00|2.00|20.00|31866.00|550352647|'Boyd Inc.'|boyd|false
+York Roofing Inc.|York Roofing Inc.|PA|1.00|2.00|26.00|50179.00||'York Roofing Inc.'|york roofing|false
+Kleinfelder|Kleinfelder|CA|1.00|3.00|2086.00|3696732.00|941532513|'Kleinfelder, Inc'|kleinfelder|false
+Applied Roofing Systems Inc|Applied Roofing Systems Inc|MA|1.00|2.00|18.00|33148.00|042789449|'Applied Roofing Solutions Inc.', 'Applied Roofing Systems Inc.'|applied roofing|true
+Lexington|Boyd Company|KY|1.00|2.00|121.00|246361.00|610401854|'Boyd Inc.'|boyd|false
+Louisville Support Center|Boyd Company|KY|1.00|2.00|124.00|231425.00|610401854|'Boyd Inc.'|boyd|false
+CertainTeed - Avery|CertainTeed LLC|OH|1.00|2.00|200.00|394526.00|232510893|'CertainTeed LLC'|certainteed|false
+Louisville|Boyd Company|KY|1.00|2.00|175.00|334632.00|610401854|'Boyd Inc.'|boyd|false
+Atlas Molded Products, A  Division of Atlas Roofing Corporation|Atlas Roofing Corporation|NV|1.00|2.00|79.00|159126.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+ONEAL Manufacturing|O'Neal Manufacturing|NC|2.00|2.00|151.00|312646.00|371784671|'O'Neal Construction'|o'neal|false
+COASTAL ROOFING INC.|COASTAL ROOFING INC.|FL|1.00|2.00|48.00|99840.00|800624061|'Coastal Roofing Co. Inc.'|coastal roofing|false
+Nitro|Boyd Company|WV|1.00|2.00|40.00|74059.00|550352647|'Boyd Inc.'|boyd|false
+Paducah|Boyd Company|KY|1.00|2.00|56.00|121371.00|610401854|'Boyd Inc.'|boyd|false
+Parkersburg|Boyd Company|WV|1.00|2.00|29.00|54249.00|550352647|'Boyd Inc.'|boyd|false
+Pikeville|Boyd Company|KY|1.00|2.00|80.00|166584.00|610401854|'Boyd Inc.'|boyd|false
+Bowling Green|Boyd Company|KY|1.00|2.00|44.00|88291.00|610401854|'Boyd Inc.'|boyd|false
+San Jacinto Power Plant|NRG|TX|1.00|1.00|15.00|31669.00||'NRG Construction LLC'|nrg|false
+Atlas Molded Products - Denver|Atlas Roofing|CO|1.00|2.00|19.00|37602.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Atlas Roofing Corporation, Franklin|Atlas Roofing Corporation|OH|1.00|2.00|153.00|331711.00|640661823|'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Anderson Construction Company of Fort Gaines|Anderson Construction Company|GA|1.00|2.00|111.00|230027.00|580974798|'Anderson Associates'|anderson|false
+CertainTeed-Orem|CertainTeed|UT|1.00|2.00|80.00|191143.00|232510893|'CertainTeed LLC'|certainteed|false
+McCarthy Building Companies, Inc. - POH Wharf 3|McCarthy Building Companies|TX|1.00|2.00|12.00|24076.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - NEWPP Central Plant|McCarthy Building Companies|TX|1.00|2.00|173.00|317545.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - NEWPP Intake Pump|McCarthy Building Companies|TX|1.00|2.00|27.00|58508.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - POH Berth 8|McCarthy Building Companies|TX|1.00|2.00|40.00|99242.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - POF Harbor Levee|McCarthy Building Companies|TX|1.00|1.00|22.00|48712.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - ITC Ship Dock 5|McCarthy Building Companies, Inc.|TX|1.00|2.00|20.00|41305.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - POH Container Yard 3|McCarthy Building Companies, Inc.|TX|1.00|1.00|13.00|27476.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - POH Wharf 6|McCarthy Building Companies, Inc.|TX|1.00|2.00|36.00|54561.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+McCarthy Building Companies, Inc. - Marine & Industrial Office|McCarthy Building Companies|TX|1.00|2.00|32.00|68826.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Oil City Tube Division|Webco Industries Inc.|PA|1.00|2.00|160.00|328611.00|731097133|'WEBCO Services LLC'|webco|false
+Webco VAF|Webco Industries Inc|PA|1.00|2.00|39.00|94152.00|731097133|'WEBCO Services LLC'|webco|false
+Coleman Home Health and Hospice|Preferred Management Corp.|TX|1.00|2.00|11.00|12602.00|463113740|'Preferred Construction Services Inc.'|preferred|false
+Anderson Construction Company|Anderson Construction Company|FL|1.00|1.00|17.00|35360.00|522388318|'Anderson Associates'|anderson|false
+Preferred Management Corporation|Preferred Management Corporation|OK|1.00|2.00|32.00|63248.00|731312311|'Preferred Construction Services Inc.'|preferred|false
+CertainTeed, LLC|CertainTeed|NY|1.00|2.00|137.00|285557.00|232510893|'CertainTeed LLC'|certainteed|false
+Klein Contracting|Klein Contracting|GA|1.00|2.00|23.00|49483.00|581848504|'Klein Contracting Corp.'|klein contracting|false
+Karnak Corporation North|Karnak Corporation|NJ|1.00|2.00|57.00|100129.00|135207035|'KARNAK'|karnak|false
+Karnak Midwest|Karnak Corporation|IL|1.00|2.00|23.00|39248.00|223671565|'KARNAK'|karnak|false
+Karnak West|Karnak Corporation|AZ|1.00|1.00|9.00|17559.00|272302250|'KARNAK'|karnak|false
+Karnak South|Karnak Corporation|FL|1.00|1.00|10.00|18685.00|592504454|'KARNAK'|karnak|false
+Rayco Roof Service, Inc.|Rayco Roof Service, Inc.|VA|1.00|2.00|27.00|42079.00|541142276|'Rayco Roof Service Inc.'|rayco roof service|false
+Owens Corning - Amarillo, TX|Owens Corning|TX|1.00|3.00|452.00|1038170.00||'Owens Corning'|owens corning|false
+Clark Roofing Co|Clark Roofing Co|IL|1.00|2.00|82.00|133145.00|362135661|'Clark Roofing Co.', 'Clark Roofing Inc.'|clark roofing|true
+Haydon Construction Incorporated|Haydon Construction Incorporated|CA|1.00|2.00|35.00|5661950.00||'Haydon Corporation'|haydon|false
+Dayco, Inc.|Dayco, Inc.|VT|1.00|2.00|16.00|36286.00|030340853|'Dayco Inc.'|dayco|false
+Environmental Roofing & Waterproofing Main Offices|Environmental Roofing & Waterproofing|CA|1.00|2.00|43.00|59139.00|770572713|'Environmental Roofing & Waterproofing, Inc.'|environmental roofing & waterproofing|false
+Dynamic Manufacturing|Dynamic Manufacturing|PA|1.00|2.00|34.00|72112.00|203933236|'Dynamic National'|dynamic|false
+Home Instead|Allied LLC|CO|1.00|2.00|216.00|237597.00|863269275|'Allied Construction Services'|allied|false
+Great Wolf Lodge|Great Lakes Services LLC|GA|1.00|3.00|600.00|723571.00|271371313|'Great Lakes Systems Inc.'|great lakes|false
+Coleman County Medical Center|Preferred Management Corp|OK|1.00|2.00|123.00|242954.00||'Preferred Construction Services Inc.'|preferred|false
+River Roofing Inc.|River Roofing Inc.|OR|1.00|2.00|36.00|61908.00|931046398|'River Roofing Inc.'|river roofing|false
+Peterson Manufacturing Company|Peterson Manufacturing Company|MO|1.00|3.00|309.00|638266.00|440607507|'Peterson Consulting Group'|peterson|false
+Vector Tool & Engineering|Peterson Manufacturing Company|MO|1.00|2.00|33.00|69641.00|440607507|'Peterson Consulting Group'|peterson|false
+Pierce Lee Roofing|Pierce Lee Roofing LLC|ND|1.00|2.00|25.00|37873.00|455012876|'Pierce Lee Roofing LLC'|pierce lee roofing|false
+Continental Tire the Americas, LLC|Continental Tire the Americas LLC|GA|1.00|3.00|246.00|527736.00|341417030|'Continental Tire the Americas LLC.'|continental tire the americas|false
+Roof Check INC|Roof Check Inc|CO|1.00|2.00|55.00|90822.00|841035057|'Roof Check Inc.'|roof check|false
+Hale Contracting, Inc.|Hale Contracting, Inc.|NY|1.00|2.00|82.00|122200.00|161513772|'Hale Contracting Inc.'|hale contracting|false
+HC NATIONWIDE LLC|HC NATIONWIDE LLC|OH|1.00|2.00|30.00|30862.00|300632487|'HC Nationwide LLC'|hc nationwide|false
+RSSI Roofing Company|RSSI Roofing Company|MD|1.00|2.00|48.00|95732.00|274644285|'RSSI Roofing Company'|rssi roofing|false
+Boak & Sons, Inc.|Boak & Sons, Inc.|OH|1.00|2.00|154.00|245426.00|341368121|'Boak & Sons Inc.'|boak & sons|false
+McCarthy Building Companies, Inc.|McCarthy Building Companies, Inc.|MO|1.00|3.00|880.00|2201753.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Boyd Corporation - Elkhart, IN|Boyd Corporation|IN|1.00|2.00|102.00|193136.00|204672193|'Boyd Inc.'|boyd|false
+Cooper Roofing & Solar|Cooper Roofing & Solar|NV|1.00|3.00|290.00|663520.00|270365569|'Cooper Roofing & Solar INC'|cooper roofing & solar|false
+Pax Gonzales|Pax LLC|LA|1.00|2.00|34.00|74886.00||'PAX Services Group'|pax|false
+Pax Deridder|Pax LLC|LA|1.00|1.00|14.00|33775.00||'PAX Services Group'|pax|false
+Waterproofing Associates|Waterproofing Associates|CA|1.00|2.00|165.00|274980.00|770304667|'Waterproofing Associates'|waterproofing|false
+Patriot Roofing|Patriot Roofing|WA|1.00|2.00|48.00|108270.00|454206993|'Patriot Roofing', 'Patriot Roofing LLC'|patriot roofing|true
+The Original Roofing Company|The Original Roofing Company|NV|1.00|2.00|178.00|352236.00|562335100|'The Original Roofing Company'|the original roofing|false
+McDonnell Roofing Inc|McDonnell Roofing Inc|CA|1.00|2.00|35.00|62088.00|330992075|'McDonnell Roofing Inc.'|mcdonnell roofing|false
+Gale Construction Company|Gale Construction Company|IL|1.00|2.00|22.00|44540.00||'Gale Associates Inc.'|gale|false
+Interstate Construction Development Company|Interstate Construction Development Company|MD|1.00|2.00|130.00|230801.00|522190821|'Interstate Corp.'|interstate|false
+Soltech, Sprinfield TN|Owens Corning|TN|1.00|2.00|30.00|63009.00|351575937|'Owens Corning'|owens corning|false
+Granite City Roofing, Inc.|Granite City Roofing, Inc.|MN|1.00|2.00|27.00|52211.00|411266940|'Granite City Roofing Inc.'|granite city roofing|false
+RW Screw LLC|Precision Capital LTD|OH|1.00|3.00|220.00|507433.00||'Precision Construction Services'|precision|false
+Nations Roof East|Nations Roof|NY|1.00|2.00|60.00|75801.00||'Nations Roof', 'Nations Roof LLC'|nations roof|true
+Nations Roof MidAtlantic LLC|Nations Roof LLC|MD|1.00|2.00|88.00|150035.00||'Nations Roof', 'Nations Roof LLC'|nations roof|true
+The Haskell Company|The Haskell Company|FL|1.00|3.00|1879.00|3577567.00|592387450|'The Haskell Co.'|the haskell|false
+Roof Asset Management Inc.|Roof Asset Management Inc.|CA|1.00|2.00|42.00|80888.00|812728224|'Roof Asset Management Inc.'|roof asset|false
+PIEDMONT CONSTRUCTION GROUP INC|Piedmont Construction Group|GA|1.00|2.00|48.00|95115.00||'Piedmont Construction Company'|piedmont|false
+Alloy Architectural Solutions|Alloy Architectural Solutions|IL|1.00|1.00|12.00|17183.00|824789224|'Alloy Architectural Solutions LLC'|alloy architectural|false
+Burgaw|GAF|NC|1.00|2.00|214.00|469302.00|582394554|'GAF'|gaf|false
+Turner Roofing Company LTD|Turner Roofing Company LTD|TX|1.00|2.00|65.00|86653.00|742271636|'Turner Roofing Co.'|turner roofing|false
+Mt. Vernon Shingle|GAF|IN|1.00|2.00|230.00|465621.00|223626208|'GAF'|gaf|false
+Minneapolis|GAF|MN|1.00|2.00|105.00|255096.00|223626208|'GAF'|gaf|false
+Industrial Roofing & Construction|Industrial Roofing & Construction LLC|LA|1.00|2.00|69.00|195140.00|263233376|'Industrial Roofing & Construction LLC'|industrial roofing &|false
+Cedar City|GAF|UT|1.00|2.00|63.00|139413.00|461261209|'GAF'|gaf|false
+Savannah|GAF|GA|1.00|2.00|160.00|380972.00|223626208|'GAF'|gaf|false
+Aspen Contracting Inc|Aspen Contracting, Inc.|MO|1.00|2.00|215.00|430250.00|510587434|'Aspen Contracting Inc.'|aspen contracting|false
+Quality Roofing, Inc|Quality Roofing, Inc|FL|1.00|2.00|169.00|413007.00|900679536|'Quality Roofing', 'Quality Roofing Inc.', 'Quality Roofing Solutions', 'Quality Roofing Solutions LLC'|quality roofing|true
+Soltech INC.|Owens Corning|OH|1.00|2.00|33.00|61650.00|351575937|'Owens Corning'|owens corning|false
+MONARCH, Inc.|MONARCH, INC.|OK|1.00|2.00|40.00|83200.00|731209599|'Monarch Consulting Services'|monarch|false
+Benchmark Winona|Benchmark|MN|1.00|3.00|609.00|1279200.00|742211011|'Benchmark Inc.'|benchmark|false
+Benchmark Rochester|Benchmark|MN|1.00|3.00|487.00|1022751.00|742211011|'Benchmark Inc.'|benchmark|false
+Deer park Roofing|Deer Park Roofing|OH|1.00|2.00|120.00|297000.00|311803193|'Deer Park Roofing, LLC'|deer park roofing|false
+Richard L. Sensenig Co.|Richard L. Sensenig Co.|PA|1.00|2.00|67.00|140511.00|231663036|'Richard L. Sensenig Co.'|richard l. sensenig|false
+6651_15529|WWRC, Inc.|NM|1.00|2.00|35.00|40540.00|850424702|'WWRC Inc.'|wwrc|false
+Dynamic Metals LLC|Dynamic Metals LLC|IN|1.00|2.00|114.00|253399.00|900106552|'Dynamic Metals'|dynamic metals|false
+Skyline Enterprises|Skyline Enterprises|CA|1.00|2.00|36.00|52464.00|843642337|'Skyline Construction Services Inc.'|skyline|false
+Skyline Construction|Skyline Construction|CA|1.00|2.00|194.00|262538.00|943250856|'Skyline Construction Services Inc.'|skyline|false
+The Garland Company|The Garland Company|OH|1.00|3.00|360.00|748800.00|341115246|'The Garland Company Inc.'|the garland|false
+Recovery Roofing Inc.|Recovery Roofing Inc.|FL|1.00|2.00|30.00|43200.00|843651605|'Recovery Roofing Inc.'|recovery roofing|false
+White Bear Lake - BIC|Braun Intertec Corporation|MN|1.00|2.00|48.00|92484.00|411684205|'Braun Intertec Corp.'|braun intertec|false
+St Cloud - BIC|Braun Intertec Corp.|MN|1.00|2.00|21.00|43381.00|411684205|'Braun Intertec Corp.'|braun intertec|false
+Hibbing - BIC|Braun Intertec Corporation|MN|1.00|2.00|21.00|41855.00|411684205|'Braun Intertec Corp.'|braun intertec|false
+Bloomington - BIC|Braun Intertec Corporation|MN|1.00|3.00|360.00|705958.00|411684205|'Braun Intertec Corp.'|braun intertec|false
+Bone Roofing Supply, Inc.|Bone Roofing Supply, Inc|IL|1.00|2.00|46.00|98930.00|362729296|'Bone Roofing Supply Inc.'|bone roofing supply|false
+Siding Products Group, McPherson|CertainTeed Corporation|KS|1.00|2.00|78.00|151281.00|320613145|'CertainTeed LLC'|certainteed|false
+AFP 108 Corp (DBA DoubleTree By Hilton Rochester)|United Capital Corp.|NY|1.00|2.00|144.00|95939.00|208725591|'United Contractors'|united|false
+Superior Roofing, Inc.|Superior Roofing, Inc.|CO|1.00|2.00|77.00|146019.00|840917537|'Superior Roofing Inc.', 'Superior Roofing LLC', 'Superior Roofing Services Inc.', 'Superior Roofing Systems Inc.'|superior roofing|true
+Campbell Beard Roofing, Inc.|Campbell Beard Roofing, Inc.|CO|1.00|2.00|36.00|87800.00|841297228|'Campbell Beard Roofing Inc.'|campbell beard roofing|false
+McPhillips Bros. Roofing Co|McPhillips Bros. Roofing Co|MN|1.00|2.00|50.00|38710.00|411521988|'McPhillips Bros. Roofing Co.'|mcphillips bros. roofing|false
+The Roof Depot, Inc.|The Roof Depot, Inc.|GA|1.00|2.00|123.00|255840.00|582385323|'The Roof Depot Inc.'|the roof depot|false
+Proform Finishing Products LLC|National Gypsum Company|FL|1.00|2.00|32.00|62992.00|752474490|'National Gypsum Co.'|national gypsum|false
+Wolf Commercial Roofing, Inc.|Wolf Commercial Roofing, Inc.|IN|1.00|1.00|12.00|29123.00|823789043|'Wolf Commercial Roofing Inc.'|wolf commercial roofing|false
+ATL HD|CENTRAL STATES|GA|1.00|1.00|2.00|4935.00|363095836|'Central States Manufacturing'|central states|false
+BWI HD|CENTRAL STATES|MD|1.00|1.00|30.00|6214.00|363095836|'Central States Manufacturing'|central states|false
+CHS HD|CENTRAL STATES|SC|1.00|1.00|4.00|9715.00|363095836|'Central States Manufacturing'|central states|false
+EWR HD|CENTRAL STATES|NJ|1.00|1.00|8.00|19468.00|363095836|'Central States Manufacturing'|central states|false
+CHS CST SOUTH|CENTRAL STATES|SC|1.00|1.00|59.00|112582.00|363095836|'Central States Manufacturing'|central states|false
+IND CST SOUTH|CENTRAL STATES|IN|1.00|1.00|5.00|12406.00|363095836|'Central States Manufacturing'|central states|false
+JAX CST SOUTH|CENTRAL STATES|FL|1.00|1.00|21.00|17186.00|363095836|'Central States Manufacturing'|central states|false
+MIA HD|CENTRAL STATES|FL|1.00|1.00|10.00|21566.00|363095836|'Central States Manufacturing'|central states|false
+roofing contractor|Stinson Services|MN|1.00|1.00|10.00|20800.00||'Stinson Services Inc.'|stinson|false
+MKE-CST|CENTRAL STATES|IL|1.00|2.00|50.00|133473.00|363095836|'Central States Manufacturing'|central states|false
+Monarch Instrument|Monarch International Inc|NH|1.00|2.00|40.00|81981.00|020333450|'Monarch Consulting Services'|monarch|false
+ORF CST EAST|CENTRAL STATES|VA|1.00|1.00|1.00|2413.00|363095836|'Central States Manufacturing'|central states|false
+Owens Corning Neark Insulation Plant|Owens Corning|OH|1.00|3.00|474.00|1042278.00||'Owens Corning'|owens corning|false
+RDU HD|CENTRAL STATES|NC|1.00|2.00|19.00|44143.00|363095836|'Central States Manufacturing'|central states|false
+ROA HD|CENTRAL STATES|VA|1.00|1.00|5.00|11084.00|363095836|'Central States Manufacturing'|central states|false
+DFW CST SOUTH|CENTRAL STATES|TX|1.00|1.00|8.00|22081.00|363095836|'Central States Manufacturing'|central states|false
+FS Washington Employment Inc|Four Seasons LLC|DC|1.00|3.00|367.00|353050.00|522095083|'Four Seasons Construction LLC'|four seasons|false
+Statewide Roofing, Inc.|Statewide Roofing, Inc.|NY|1.00|2.00|40.00|50000.00|112684192|'Statewide Roofing Inc.'|statewide roofing|false
+Metro Metals Corporation|Metro Metals Corporation|MN|1.00|2.00|39.00|64440.00|900070466|'Metro Metals'|metro metals|false
+Fort Smith Plant|Owens Corning|AR|1.00|2.00|75.00|104646.00||'Owens Corning'|owens corning|false
+Gordon Contractors Inc.|Gordon Contractors Inc.|MD|1.00|2.00|94.00|177003.00|412043935|'Gordon Contractors Inc.'|gordon|false
+Gold Bond Building Products, LLC|National Gypsum Company|OK|1.00|2.00|90.00|184675.00|854331127|'National Gypsum Co.'|national gypsum|false
+Commercial Roofers, Inc.|Commercial Roofers, Inc.|NV|1.00|2.00|220.00|318076.00|880371026|'Commercial Roofers Inc.'|commercial roofers|false
+Jeff Eubank Roofing|Jeff Eubank Roofing|TX|1.00|2.00|56.00|198186.00|752250258|'Jeff Eubank Roofing Co. Inc.'|jeff eubank roofing|false
+Industrial Construction/Engineering|United Group Services|OH|1.00|3.00|375.00|857636.00|311035659|'United Contractors'|united|false
+Dynamic Systems INC|Dynamic Systems INC|NY|1.00|2.00|46.00|89003.00|274258481|'Dynamic National'|dynamic|false
+Elite Welding Academy|United Group Services|OH|1.00|1.00|19.00|43884.00|510606029|'United Contractors'|united|false
+Metalmaster Roofmaster|Metalmaster Roofmaster|IL|1.00|2.00|99.00|205920.00|363376644|'Metalmaster Roofmaster Inc.'|metalmaster roofmaster|false
+Compton Roofing Plant|Owens Corning|CA|1.00|2.00|114.00|225202.00||'Owens Corning'|owens corning|false
+Gastonia Plant|Owens Corning|NC|1.00|2.00|95.00|185853.00||'Owens Corning'|owens corning|false
+Bitumar USA Inc.|Bitumar|MD|1.00|2.00|65.00|89733.00|522159654|'BITUMAR Inc.'|bitumar|false
+Indianapolis|RCI, LLC|IN|1.00|3.00|794.00|1355112.00|223530212|'RCI Services LLC'|rci|false
+Bemo USA Corporation|Bemo USA Corporation|AZ|1.00|2.00|39.00|78326.00|861017750|'BEMO USA Corp.'|bemo usa|false
+Bloom Roofing Systems Inc|Bloom Roofing Systems Inc.|MI|1.00|2.00|104.00|195801.00||'Bloom Roofing Systems Inc.'|bloom roofing|false
+MacArthur Park Home Health|preferred management|OK|1.00|2.00|9.00|6781.00||'Preferred Construction Services Inc.'|preferred|false
+Fontana|GAF|CA|1.00|2.00|88.00|208742.00|223626208|'GAF'|gaf|false
+Tampa|GAF|FL|1.00|2.00|120.00|312043.00|223626208|'GAF'|gaf|false
+Shafter Shingle|GAF|CA|1.00|2.00|152.00|380524.00|741925368|'GAF'|gaf|false
+Shafter Glass Mat|GAF|CA|1.00|1.00|90.00|184652.00|741925368|'GAF'|gaf|false
+Tuscaloosa|GAF|AL|1.00|2.00|150.00|327000.00|751509396|'GAF'|gaf|false
+Myerstown|GAF|PA|1.00|2.00|143.00|334294.00|741925368|'GAF'|gaf|false
+Statesboro|GAF|GA|1.00|2.00|49.00|121264.00|223626208|'GAF'|gaf|false
+Ennis Mat|GAF|TX|1.00|2.00|77.00|178610.00|741925368|'GAF'|gaf|false
+Ennis Roofing|GAF|TX|1.00|2.00|164.00|406306.00|741925368|'GAF'|gaf|false
+Dallas|GAF|TX|1.00|2.00|148.00|369698.00|205980312|'GAF'|gaf|false
+New Columbia TPO|GAF|PA|1.00|2.00|105.00|174247.00|813158452|'GAF'|gaf|false
+Chester|GAF|SC|1.00|2.00|91.00|176960.00|223626208|'GAF'|gaf|false
+Stockton|GAF|CA|1.00|2.00|30.00|82736.00|223626208|'GAF'|gaf|false
+Cumming|GAF|GA|1.00|2.00|37.00|81584.00|203531649|'GAF'|gaf|false
+Corporate Office|GAF|NJ|1.00|3.00|746.00|1731400.00|364866695|'GAF'|gaf|false
+Phoenix|GAF|AR|1.00|2.00|25.00|62181.00|270673916|'GAF'|gaf|false
+Mt. Vernon TPO|GAF|IN|1.00|2.00|36.00|82991.00|223626208|'GAF'|gaf|false
+Michigan City|GAF|IN|1.00|2.00|174.00|375196.00|223626208|'GAF'|gaf|false
+Gainesville|GAF|TX|1.00|2.00|92.00|212481.00|204921692|'GAF'|gaf|false
+Jolly Roofing & Contracting Company Overall|Jolly Roofing and Contracting|TN|1.00|2.00|244.00|487309.00|621624798|'Jolly Roofing and Contracting Co. Inc.'|jolly roofing and contracting|false
+R.K. Hydro-Vac, PA, Inc|R.K. Hydro-Vac, PA, Inc|PA|1.00|2.00|39.00|74522.00|311290225|'R.K. Hydro-Vac Inc.'|r.k. hydro-vac|false
+Cross Technologies Inc Nissan Canton|Cross Technologies Inc|MS|1.00|2.00|27.00|57511.00|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Nissan Smyrna|Cross Technologies Inc|TN|1.00|2.00|42.00|80817.00|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Oklahoma City|Cross Technologies Inc|OK|1.00|2.00|36.00|74031.00|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Whitsett|Cross Technologies Inc|NC|1.00|2.00|66.00|130934.00|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Automation Group|Cross Technologies Inc|NC|1.00|2.00|42.00|86142.00|560600094|'Cross Construction CO. INC.'|cross|false
+Cross Technologies Inc Knoxville|Cross Technologies Inc|TN|1.00|2.00|54.00|110471.00|560600094|'Cross Construction CO. INC.'|cross|false
+W A Parish|NRG|TX|1.00|3.00|333.00|701138.00||'NRG Construction LLC'|nrg|false
+CCC - Columbus, WI|Consolidated Construction|WI|1.00|1.00|5.00|4401.00|205220958|'Consolidated Enterprises Inc.'|consolidated|false
+Gables of Ojai|Parsons Group|CA|1.00|2.00|57.00|93872.00|043682461|'Parsons Corporation'|parsons|false
+C.L. Linfoot Comapny|C.L. Linfoot Co.|ND|1.00|2.00|65.00|128582.00|410851042|'C.L. Linfoot Co.'|c.l. linfoot|false
+EXCEL Fabrication|EXCEL|LA|1.00|2.00|33.00|60684.00|721329331|'Excel Construction Group'|excel|false
+Lutz Roofing Inc|Lutz Roofing Inc|MI|1.00|2.00|199.00|285009.00|382423268|'Lutz Roofing Co. Inc.'|lutz roofing|false
+Atlas Roofing Corporation|Atlas Roofing Corporation|OK|1.00|2.00|73.00|223925.00||'Atlas Roofing Company', 'Atlas Roofing Corp.'|atlas roofing|true
+Baltimore|GAF|MD|1.00|2.00|160.00|362384.00|223626208|'GAF'|gaf|false
+EXCEL Midstream Solutions, Inc.|EXCEL|TX|1.00|2.00|31.00|57595.00|721329331|'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Westlake, Calvert City KY|EXCEL|KY|1.00|2.00|80.00|167305.00|721503785|'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Westlake, Geismar|EXCEL|LA|1.00|2.00|35.00|78490.00|721503785|'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Renewable Energy Group (REG)|EXCEL|LA|1.00|2.00|20.00|51962.00|721503785|'Excel Construction Group'|excel|false
+EXCEL Home Office|EXCEL|LA|1.00|2.00|91.00|151183.00||'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Shintech, Addis|EXCEL|LA|1.00|2.00|71.00|116725.00|721503785|'Excel Construction Group'|excel|false
+EXCEL Maintenance @ Shintech, Freeport|EXCEL|TX|1.00|3.00|388.00|699052.00|721503785|'Excel Construction Group'|excel|false
+Global Roofing Group|Global Roofing Group|AZ|1.00|3.00|385.00|950000.00|860254394|'Global Roofing Group'|global roofing|false
+Superior Metals|Superior Metal Technologies|IN|1.00|2.00|99.00|220000.00|371446269|'Superior Metal Systems Inc.'|superior metal|false
+Williamsburg Office|Pyramid Roofing|VA|1.00|1.00|18.00|31705.00|161755493|'Pyramid Roofing Co. Inc.'|pyramid roofing|false
+Hampton Office|Pyramid Roofing|VA|1.00|1.00|20.00|35230.00|161755493|'Pyramid Roofing Co. Inc.'|pyramid roofing|false
+Terik Roofing, Inc.|Terik Roofing, Inc.|OH|1.00|2.00|44.00|61401.00||'Terik Roofing Inc.'|terik roofing|false
+Parsons Company INC|Parsons Company INC|IL|1.00|2.00|179.00|415357.00||'Parsons Corporation'|parsons|false
+Chinook Roofing|Chinook Roofing|WA|1.00|2.00|115.00|170620.00|800628673|'Chinook Roofing'|chinook roofing|false
+Hart Street Warehouse|Window World, Inc.|HI|1.00|2.00|70.00|134400.00|942978093|'Window World Inc.'|window world|false
+Kingsley Plant|Milliken & Company|GA|1.00|2.00|121.00|256882.00||'Milliken & Company'|milliken &|false
+Advanced Industrial Roofing, Inc.|Advanced Industrial Roofing, Inc.|OH|1.00|2.00|80.00|115522.00||'Advanced Industrial Roofing Inc.'|advanced industrial roofing|false
+D.R. Kidd Company Inc.|Kidd Roofing|TX|1.00|2.00|101.00|187358.00|742736561|'Kidd Roofing'|kidd roofing|false
+D.A. Nolt, Inc.|D.A. Nolt, Inc.|NJ|1.00|2.00|54.00|114019.00|223062854|'D.A. Nolt Inc.'|d.a. nolt|false
+DMI OH-1|Dimensional Metals Inc|OH|1.00|2.00|62.00|127855.00|311225408|'Dimensional Metals Inc.'|dimensional metals|false
+Pickens Contracting, Inc.|Pickens Contracting, Inc.|SC|1.00|2.00|86.00|194683.00|570481031|'Pickens Contracting Inc.'|pickens contracting|false
+Parsons House Cypress|Parsons Group Inc.|TX|1.00|2.00|35.00|56500.00|473286203|'Parsons Corporation'|parsons|false
+The Emeralds At Grand Rapids|Monarch|MN|1.00|2.00|74.00|127695.00|833143692|'Monarch Consulting Services'|monarch|false
+John A. Dalsin & Son, Inc.|John A. Dalsin & Son, Inc.|MN|1.00|2.00|58.00|95068.00|411408661|'John A. Dalsin & Son Inc.'|john a. dalsin & son|false
+Capitol Roofing Solutions LLC|Capitol Roofing Solutions LLC|IL|1.00|1.00|6.00|8961.00|821629584|'Capitol Roofing Inc.'|capitol roofing|false
+SCS Red Hills|Southern Company Services|MS|1.00|2.00|68.00|142454.00|630274273|'Southern National'|southern|false
+R&B Roofing|R&B Roofing LLC|TX|1.00|2.00|160.00|334573.00||'R&B Roofing LLC'|r&b roofing|false
+Donan|Donan|KY|1.00|3.00|376.00|688344.00|461265363|'Donan'|donan|false
+Service Roofing & Sheet Metal Co.-NC|Service Roofing & Sheet Metal Co.|NC|1.00|2.00|34.00|65336.00|561081076|'Service Roofing & Sheet Metal Company'|service roofing & sheet metal|false
+Owens Corning|Owens Corning|TX|1.00|2.00|106.00|218474.00||'Owens Corning'|owens corning|false
+Tri-State Roofing & Sheet Metal Company|Tri-State Roofing & Sheet Metal|WV|1.00|2.00|22.00|36808.00|471425515|'Tri-State Roofing & Sheet Metal Company'|tri-state roofing & sheet metal|false
+Continental Tire the Americas LLC - Sumter Plant|Continental Tire the Americas LLC|SC|1.00|3.00|1362.00|2745796.00||'Continental Tire the Americas LLC.'|continental tire the americas|false
+Warren Roofing & Insulating Company|Warren Roofing & Insulating Company|OH|1.00|2.00|91.00|161561.00|340604460|'Warren Roofing & Insulating Co.'|warren roofing & insulating|false
+Tech Roofing Service, Inc.|Tech Roofing Service, Inc.|MA|1.00|2.00|22.00|44380.00|042730706|'Tech Roofing Service Inc.'|tech roofing service|false
+Muleshoe Area Medical Center|Preferred Management|TX|1.00|2.00|123.00|169246.00|471743325|'Preferred Construction Services Inc.'|preferred|false
+Assembly Solar 1 & 2|McCarthy Building Companies, Inc.|MI|1.00|2.00|134.00|277693.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Bighorn Solar 1|McCarthy Building Companies, Inc.|CO|1.00|2.00|220.00|458532.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+CRMC Tower D|McCarthy Building Companies, Inc.|AZ|1.00|2.00|24.00|50131.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+EVIT Power Campus|McCarthy Building Companies, Inc.|AZ|1.00|1.00|25.00|52620.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+ISTB-7|McCarthy Building Companies, Inc.|AZ|1.00|2.00|50.00|104157.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Mayo Clinic East Expansion|McCarthy Building Companies, Inc.|AZ|1.00|2.00|52.00|108224.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+PSHIA T4-S1|McCarthy Building Companies, Inc.|AZ|1.00|2.00|59.00|121935.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Sun Streams 2 Solar|McCarthy Building Companies, Inc.|AZ|1.00|2.00|80.00|166468.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Pyramid Peak WTP|McCarthy Building Companies, Inc.|AZ|1.00|2.00|25.00|52527.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Yavapai OSB|McCarthy Building Companies, Inc.|AZ|1.00|2.00|54.00|112264.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Phoenix Office|McCarthy Building Companies, Inc.|AZ|1.00|2.00|261.00|543506.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Lancaster Solar|McCarthy Building Companies, Inc.|GA|1.00|2.00|128.00|266052.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Elm Branch Solar|McCarthy Building Companies, Inc.|TX|1.00|2.00|61.00|126132.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Briar Creek Solar|McCarthy Building Companies, Inc.|TX|1.00|2.00|76.00|157606.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Dodge Flats Solar|McCarthy Building Companies, Inc.|NV|1.00|2.00|110.00|229300.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Maple Flats|McCarthy Building Companies, Inc.|IL|1.00|2.00|34.00|70959.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Snipesville II|McCarthy Building Companies, Inc.|GA|1.00|2.00|138.00|287109.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+NMS 100 Hecate|McCarthy Building Companies, Inc.|OH|1.00|2.00|34.00|70857.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Calhoun|McCarthy Building Companies, Inc.|MI|1.00|2.00|52.00|108148.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Fish Springs|McCarthy Building Companies, Inc.|NV|1.00|2.00|68.00|140795.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Arrow Canyon|McCarthy Building Companies, Inc.|NV|1.00|2.00|22.00|45539.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Bright Arrow|McCarthy Building Companies, Inc.|TX|1.00|2.00|32.00|65699.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+UCH LP ACC|McCarthy Building Companies, Inc.|CO|1.00|2.00|20.00|41367.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+APS HUBwest|McCarthy Building Companies, Inc.|AZ|1.00|2.00|35.00|72490.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Banner Gateway Expansion|McCarthy Building Companies, Inc.|AZ|1.00|2.00|36.00|73921.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+23rd Ave WWTP|McCarthy Building Companies, Inc.|AZ|1.00|2.00|21.00|42888.00|430399290|'McCarthy Building Companies'|mccarthy building companies|false
+Supreme Roofing, LP|Supreme Roofing|TX|1.00|2.00|215.00|425200.00|823769023|'Supreme Roofing', 'Supreme Roofing Systems'|supreme roofing|true
+OWENS CORNING DELMAR PLANT|OWENS CORNING|NY|1.00|2.00|200.00|460083.00|371525228|'Owens Corning'|owens corning|false
+TAMKO - Ennis|TAMKO Building Products LLC|TX|1.00|2.00|30.00|58448.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO-Frederick|TAMKO BUILDING PRODUCTS LLC|MD|1.00|2.00|109.00|224573.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO - Rangeline|TAMKO Building Products LLC|MO|1.00|2.00|34.00|77292.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO - Phillipsburg|TAMKO Building Products LLC|KS|1.00|2.00|95.00|192560.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO - Tuscaloosa|TAMKO Building Products LLC|AL|1.00|2.00|88.00|213002.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO - Columbus|TAMKO Building Products LLC|KS|1.00|2.00|26.00|48055.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO - High Street|TAMKO Building Products LLC|MO|1.00|2.00|117.00|228689.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO - Dallas|TAMKO Building Products LLC|TX|1.00|2.00|94.00|198006.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+TAMKO - Knoxville|TAMKO Building Products LLC|TN|1.00|2.00|37.00|72795.00|440502367|'TAMKO Building Products Inc.'|tamko building products|false
+Mammoth Contracting, LLC|Mammoth Contracting, LLC|TX|1.00|2.00|22.00|45760.00|815179460|'Mammoth Contracting'|mammoth contracting|false
+Anderson Manufacturing|Anderson Manufacturing|KY|1.00|2.00|217.00|324602.00||'Anderson Associates'|anderson|false
+American Roofing|American Roofing|TX|1.00|2.00|82.00|161708.00|741609768|'American Roofing Co.'|american roofing|false
+Consolidated Industries|Consolidated Industries|CT|1.00|2.00|80.00|136336.00|061547622|'Consolidated Enterprises Inc.'|consolidated|false
+A.W. Farrell & Son, Inc. - Plattsburgh Office|A.W. Farrell & Son, Inc.|NY|1.00|1.00|19.00|47460.00|160954042|'A.W. Farrell & Son'|a.w. farrell & son|false
+A.W. Farrell & Son, Inc. - Las Vegas Office|A.W. Farrell & Son, Inc.|NV|1.00|2.00|29.00|59001.00|160954042|'A.W. Farrell & Son'|a.w. farrell & son|false
+A.W. Farrell & Son, Inc. - Erie Office|A.W. Farrell & Son, Inc.|PA|1.00|2.00|32.00|65689.00|160954042|'A.W. Farrell & Son'|a.w. farrell & son|false
+A.W. Farrell & Son, Inc. - Cleveland Office|A.W. Farrell & Son, Inc.|OH|1.00|2.00|23.00|65478.00|160954042|'A.W. Farrell & Son'|a.w. farrell & son|false
+A.W. Farrell & Son, Inc. - Cincinnati Office|A.W. Farrell & Son, Inc.|OH|1.00|2.00|21.00|47191.00|160954042|'A.W. Farrell & Son'|a.w. farrell & son|false
+Nations Roof Gulf Coast, LLC|Nations Roof Gulf Coast, LLC|AL|1.00|2.00|30.00|58498.00|475521881|'Nations Roof Gulf Coast'|nations roof gulf coast|false
+L.E. Schwartz & son Inc|L.E. Schwartz & Son Inc|GA|1.00|2.00|49.00|119438.00|580670431|'L.E. Schwartz & Son Inc.'|l.e. schwartz & son|false
+NAIS Weirton, WV|North American Services Group|WV|1.00|2.00|97.00|159522.00|141771951|'North American Contractors'|north american|false
+A.H. Sturgill Roofing, Inc.|A.H. Sturgill Roofing, Inc.|OH|1.00|2.00|22.00|35985.00|311366660|'A.H. Sturgill Roofing Inc.'|a.h. sturgill roofing|false
+NAIS- Hurricane, WV|North American Services Group|WV|1.00|2.00|86.00|132556.00|141771951|'North American Contractors'|north american|false
+BOYD Corporation|BOYD Corporation|CA|1.00|2.00|61.00|114557.00||'Boyd Inc.'|boyd|false
+Kalkreuth Roofing & Sheet Metal, Inc.|Kalkreuth Roofing & Sheet Metal, Inc.|WV|1.00|2.00|173.00|300091.00|550647319|'Kalkreuth Roofing & Sheet Metal Inc.'|kalkreuth roofing & sheet metal|false
+Brazos Urethane|Brazos Urethane, Inc.|TX|1.00|2.00|120.00|238904.00|742466058|'Brazos Urethane Inc'|brazos urethane|false
+The Vertex Companies|The Vertex Companies|MA|1.00|3.00|650.00|1058127.00||'The Vertex Companies'|the vertex companies|false
+Skyway Roofing, Inc.|Skyway Roofing, Inc.|NY|1.00|2.00|35.00|72800.00|141763964|'Skyway Roofing Inc.'|skyway roofing|false
+EGG HARBOR TTWP|THOMAS COMPANY INC|NJ|1.00|2.00|188.00|352469.00|221801542|'Thomas Co. Inc.'|thomas|false
+THOMAS CO BROOKLAWN|THOMAS COMPANY INC|NJ|1.00|2.00|6.00|11612.00|221801542|'Thomas Co. Inc.'|thomas|false
+1100|CentiMark Corporation|CT|1.00|2.00|48.00|74359.00|251194990|'CentiMark Corporation'|centimark|false
+1400|CentiMark Corporation|PA|1.00|2.00|79.00|88364.00|251194990|'CentiMark Corporation'|centimark|false
+1500|CentiMark Corporation|VA|1.00|2.00|43.00|79707.00|251194990|'CentiMark Corporation'|centimark|false
+1800|CentiMark Corporation|MA|1.00|2.00|76.00|118193.00|251194990|'CentiMark Corporation'|centimark|false
+1900|CentiMark Corporation|NJ|1.00|2.00|60.00|116761.00|251194990|'CentiMark Corporation'|centimark|false
+2100|CentiMark Corporation|OH|1.00|2.00|50.00|62508.00|251194990|'CentiMark Corporation'|centimark|false
+2200|CentiMark Corporation|OH|1.00|2.00|42.00|65259.00|251194990|'CentiMark Corporation'|centimark|false
+2210|CentiMark Corporation|IN|1.00|2.00|43.00|64560.00|251194990|'CentiMark Corporation'|centimark|false
+2220|CentiMark Corporation|OH|1.00|2.00|48.00|100519.00|251194990|'CentiMark Corporation'|centimark|false
+2250|CentiMark Corporation|IN|1.00|2.00|32.00|51542.00|251194990|'CentiMark Corporation'|centimark|false
+5310|CentiMark Corporation|OR|1.00|2.00|41.00|71130.00|251194990|'CentiMark Corporation'|centimark|false
+5350|CentiMark Corporation|AZ|1.00|2.00|91.00|126296.00|251194990|'CentiMark Corporation'|centimark|false
+5400|CentiMark Corporation|CO|1.00|2.00|60.00|89253.00|251194990|'CentiMark Corporation'|centimark|false
+DDP Roofing Services Inc.|DDP Roofing Services Inc.|PA|1.00|2.00|96.00|238429.00||'DDP Roofing Services Inc.'|ddp roofing|false
+GLIDDEN Roofing Corp.|Glidden Roofing Corporation|ME|1.00|1.00|15.00|45405.00|010463435|'Glidden Roofing Co.'|glidden roofing|false
+NorthStar Construction Services Corp.|NorthStar Construction Services Corp.|MA|1.00|2.00|68.00|126873.00|043156949|'NorthStar Construction Services Corp.'|northstar|false
+Summit Asphalt Plant|Owens Corning|IL|1.00|2.00|29.00|60275.00||'Owens Corning'|owens corning|false
+CertainTeed|CertainTeed|AL|1.00|2.00|69.00|117446.00|320613145|'CertainTeed LLC'|certainteed|false
+Summit Roofing Plant|Owens Corning|IL|1.00|2.00|107.00|215718.00||'Owens Corning'|owens corning|false
+54th St Enid Plant|Tyson Foods, Inc.|OK|1.00|3.00|522.00|1090759.00|730957451|'Tyson Foods Inc.'|tyson foods|false
+Albany Plant|Tyson Foods, Inc.|KY|1.00|3.00|1162.00|2160892.00|582337198|'Tyson Foods Inc.'|tyson foods|false
+Albertville Hatchery|Tyson Foods, Inc.|AL|1.00|2.00|18.00|38747.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Albertville Plant|Tyson Foods, Inc.|AL|1.00|3.00|824.00|1616529.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Amarillo Foreward Warehouse|Tyson Foods, Inc.|TX|1.00|2.00|96.00|169692.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Amarillo Freezer|Tyson Foods, Inc.|TX|1.00|2.00|49.00|92446.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Amarillo Hides|Tyson Foods, Inc.|TX|1.00|2.00|179.00|361497.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Amarillo PBX|Tyson Foods, Inc.|TX|1.00|2.00|40.00|79644.00|470557612|'Tyson Foods Inc.'|tyson foods|false
+Amarillo Plant|Tyson Foods, Inc.|TX|1.00|3.00|3751.00|7302052.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Amarillo TASCO|Tyson Foods, Inc.|TX|1.00|2.00|25.00|51620.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Amherst Plant|Tyson Foods, Inc.|OH|1.00|3.00|620.00|1080281.00|340661082|'Tyson Foods Inc.'|tyson foods|false
+Bates Mountain Farms|Tyson Foods, Inc.|AR|1.00|2.00|67.00|132684.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Bear Hollow Farms|Tyson Foods, Inc.|MO|1.00|2.00|145.00|288581.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Bergman Feed Mill|Tyson Foods, Inc.|AR|1.00|2.00|35.00|78084.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Berry Street Plant|Tyson Foods, Inc.|AR|1.00|3.00|1242.00|2479328.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Berryville Growout|Tyson Foods, Inc.|AR|1.00|2.00|22.00|51160.00|620852669|'Tyson Foods Inc.'|tyson foods|false
+Berryville Plant|Tyson Foods, Inc.|AR|1.00|3.00|975.00|1981859.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Blairsville Hatchery|Tyson Foods, Inc.|GA|1.00|2.00|44.00|83529.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Blountsville Plant|Tyson Foods, Inc.|AL|1.00|3.00|630.00|1185937.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Bolivar Feed Mill|Tyson Foods, Inc.|GA|1.00|2.00|36.00|145004.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Broken Bow Freezer|Tyson Foods, Inc.|OK|1.00|2.00|51.00|93343.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Broken Bow Hatchery|Tyson Foods, Inc.|OK|1.00|2.00|22.00|49514.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Broken Bow Plant|Tyson Foods, Inc.|OK|1.00|3.00|1491.00|2636316.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Camilla Feedmill|Tyson Foods, Inc.|GA|1.00|2.00|34.00|54362.00|582036865|'Tyson Foods Inc.'|tyson foods|false
+Camilla Hatchery|Tyson Foods, Inc.|GA|1.00|2.00|58.00|134522.00|582036865|'Tyson Foods Inc.'|tyson foods|false
+Camilla Live Haul|Tyson Foods, Inc.|GA|1.00|2.00|18.00|17425.00|582036865|'Tyson Foods Inc.'|tyson foods|false
+Camilla Plant|Tyson Foods, Inc.|GA|1.00|3.00|1790.00|3310876.00|582036865|'Tyson Foods Inc.'|tyson foods|false
+Carthage Growout|Tyson Foods, Inc.|TX|1.00|2.00|21.00|51450.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Carthage Plant|Tyson Foods, Inc.|TX|1.00|3.00|559.00|918717.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Carthage Plant (Choctaw)|Tyson Foods, Inc.|MS|1.00|3.00|1473.00|2611971.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Caseyville Plant|Tyson Foods, Inc.|IL|1.00|3.00|296.00|518967.00|800304279|'Tyson Foods Inc.'|tyson foods|false
+Center Feed Mill|Tyson Foods, Inc.|TX|1.00|2.00|2.00|1846.00|842000376|'Tyson Foods Inc.'|tyson foods|false
+Center Hatchery|Tyson Foods, Inc.|TX|1.00|2.00|21.00|43020.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Center Processing Plant|Tyson Foods, Inc.|TX|1.00|3.00|1501.00|2801013.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Center Warehouse|Tyson Foods, Inc.|TX|1.00|2.00|22.00|51035.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Ceres Plant|Tyson Foods, Inc.|MS|1.00|3.00|499.00|884572.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Chicago Plant (Bruss)|Tyson Foods, Inc.|IL|1.00|3.00|295.00|584559.00|362338268|'Tyson Foods Inc.'|tyson foods|false
+Chick-N-Quick Plant|Tyson Foods, Inc.|AR|1.00|3.00|849.00|1836069.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Cincinnati Plant|Tyson Foods, Inc.|OH|1.00|3.00|760.00|1682713.00|800304279|'Tyson Foods Inc.'|tyson foods|false
+Claremont Plant|Tyson Foods, Inc.|NC|1.00|3.00|756.00|1553240.00|800304279|'Tyson Foods Inc.'|tyson foods|false
+Clarksville Growout|Tyson Foods, Inc.|AR|1.00|2.00|67.00|152458.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Clarksville Hatchery #1|Tyson Foods, Inc.|AR|1.00|2.00|27.00|51333.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Clarksville Plant|Tyson Foods, Inc.|AR|1.00|3.00|1258.00|2164860.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Claryville Plant|Tyson Foods, Inc.|KY|1.00|3.00|701.00|1355574.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Cleveland Hatchery (CV)|Tyson Foods, Inc.|GA|1.00|2.00|58.00|114575.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Columbia Case Ready|Tyson Foods, Inc.|SC|1.00|3.00|152.00|260309.00|853783058|'Tyson Foods Inc.'|tyson foods|false
+Concordia Plant|Tyson Foods, Inc.|MO|1.00|2.00|185.00|335425.00|421233965|'Tyson Foods Inc.'|tyson foods|false
+Corydon Plant|Tyson Foods, Inc.|IN|1.00|3.00|341.00|601850.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Council Bluffs Case Rdy Plant|Tyson Foods, Inc.|IA|1.00|3.00|1588.00|3227591.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Council Bluffs Prepared|Tyson Foods, Inc.|IA|1.00|3.00|258.00|540796.00|481175514|'Tyson Foods Inc.'|tyson foods|false
+Craig Feed Mill|Tyson Foods, Inc.|OK|1.00|2.00|33.00|59039.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Cumming Plant|Tyson Foods, Inc.|GA|1.00|3.00|1231.00|2254301.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Dahlonega Hatchery|Tyson Foods, Inc.|GA|1.00|2.00|40.00|77724.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Dakota City Hides|Tyson Foods, Inc.|NE|1.00|2.00|192.00|419474.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Dakota City PBX|Tyson Foods, Inc.|NE|1.00|2.00|34.00|67143.00|470557612|'Tyson Foods Inc.'|tyson foods|false
+Dakota City Plant|Tyson Foods, Inc.|NE|1.00|3.00|3685.00|7859740.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Dallas Plant|Tyson Foods, Inc.|TX|1.00|2.00|161.00|334306.00|481175514|'Tyson Foods Inc.'|tyson foods|false
+Dardanelle Growout|Tyson Foods, Inc.|AR|1.00|2.00|26.00|61369.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Dardanelle Plant|Tyson Foods, Inc.|AR|1.00|3.00|902.00|1595252.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Dexter Feed Mill|Tyson Foods, Inc.|MO|1.00|2.00|15.00|34614.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Dexter Hatchery|Tyson Foods, Inc.|MO|1.00|2.00|22.00|40962.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Dexter Plant|Tyson Foods, Inc.|MO|1.00|3.00|657.00|1183158.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Eagle Grove Farms|Tyson Foods, Inc.|GA|1.00|2.00|41.00|77889.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Eagle Mountain Case Ready|Tyson Foods, Inc.|UT|1.00|3.00|203.00|375342.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Eastville Farm|Tyson Foods, Inc.|VA|1.00|2.00|25.00|45606.00|471384119|'Tyson Foods Inc.'|tyson foods|false
+Edwardsville Fwd WH|Tyson Foods, Inc.|KS|1.00|2.00|144.00|238832.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Emporia PBX|Tyson Foods, Inc.|KS|1.00|2.00|18.00|34635.00|470557612|'Tyson Foods Inc.'|tyson foods|false
+Emporia Plant|Tyson Foods, Inc.|KS|1.00|3.00|925.00|1720518.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Enid Distribution Center|Tyson Foods, Inc.|OK|1.00|2.00|118.00|221750.00|730957451|'Tyson Foods Inc.'|tyson foods|false
+Enterprise Enid Plant|Tyson Foods, Inc.|OK|1.00|3.00|451.00|999658.00|730957451|'Tyson Foods Inc.'|tyson foods|false
+Eufaula Feedmill|Tyson Foods, Inc.|AL|1.00|2.00|32.00|69792.00|050596460|'Tyson Foods Inc.'|tyson foods|false
+Eufaula FP Plant|Tyson Foods, Inc.|AL|1.00|3.00|285.00|542750.00|050596460|'Tyson Foods Inc.'|tyson foods|false
+Eufaula Fresh Plant|Tyson Foods, Inc.|AL|1.00|3.00|767.00|1449088.00|050596460|'Tyson Foods Inc.'|tyson foods|false
+Eufaula Hatchery|Tyson Foods, Inc.|AL|1.00|2.00|49.00|107559.00|050596460|'Tyson Foods Inc.'|tyson foods|false
+Eufaula Live Haul|Tyson Foods, Inc.|AL|1.00|2.00|26.00|60627.00|050596460|'Tyson Foods Inc.'|tyson foods|false
+Fayetteville Complex|Tyson Foods, Inc.|AR|1.00|3.00|804.00|1565250.00|710815084|'Tyson Foods Inc.'|tyson foods|false
+Finney County Freezer|Tyson Foods, Inc.|KS|1.00|2.00|44.00|91922.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Finney County Hides|Tyson Foods, Inc.|KS|1.00|2.00|133.00|280292.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Finney County PBX|Tyson Foods, Inc.|KS|1.00|2.00|24.00|51810.00|470557612|'Tyson Foods Inc.'|tyson foods|false
+Finney County Plant|Tyson Foods, Inc.|KS|1.00|3.00|3333.00|6808691.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Forest Distribution Center|Tyson Foods, Inc.|MS|1.00|2.00|93.00|162991.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Forest Growout (MLO)|Tyson Foods, Inc.|MS|1.00|2.00|59.00|141072.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Forest, MS Complex|Tyson Foods, Inc.|MS|1.00|3.00|1194.00|1856411.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Forest, MS Route Sales|Tyson Foods, Inc.|MS|1.00|2.00|27.00|39381.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Fort Smith Plant|Tyson Foods, Inc.|AR|1.00|2.00|103.00|214203.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Fort Worth Distribution Center|Tyson Foods, Inc.|TX|1.00|2.00|2.00|4550.00|481175514|'Tyson Foods Inc.'|tyson foods|false
+Fort Worth South Dist Center|Tyson Foods, Inc.|TX|1.00|2.00|179.00|287820.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Franklin Feedmill|Tyson Foods, Inc.|KY|1.00|2.00|32.00|78669.00|582337198|'Tyson Foods Inc.'|tyson foods|false
+Franklin Hatchery|Tyson Foods, Inc.|KY|1.00|2.00|19.00|44320.00|582337198|'Tyson Foods Inc.'|tyson foods|false
+Gadsden Plant|Tyson Foods, Inc.|AL|1.00|3.00|503.00|972362.00|233073393|'Tyson Foods Inc.'|tyson foods|false
+Glen Allen Plant|Tyson Foods, Inc.|VA|1.00|3.00|810.00|1435773.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Goodlettsville Case Rdy Plant|Tyson Foods, Inc.|TN|1.00|3.00|2075.00|4255523.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Grand Meadow Farms|Tyson Foods, Inc.|OK|1.00|2.00|143.00|257521.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Grannis Plant|Tyson Foods, Inc.|AR|1.00|3.00|430.00|740680.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Grannis/Broken Bow Growout|Tyson Foods, Inc.|AR|1.00|2.00|27.00|65080.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Green Forest Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|27.00|51340.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Green Forest Live Haul|Tyson Foods, Inc.|AR|1.00|2.00|22.00|41550.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Green Forest Par-Fry Plant|Tyson Foods, Inc.|AR|1.00|3.00|559.00|1085137.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Green Forest Plant|Tyson Foods, Inc.|AR|1.00|3.00|1222.00|2308238.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Haltom City Distribution Ctr|Tyson Foods, Inc.|TX|1.00|2.00|110.00|215048.00|472384604|'Tyson Foods Inc.'|tyson foods|false
+Haltom City Plant|Tyson Foods, Inc.|TX|1.00|3.00|855.00|1883501.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Harwood Hatchery|Tyson Foods, Inc.|TX|1.00|2.00|24.00|51063.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Hays Hatchery|Tyson Foods, Inc.|NC|1.00|2.00|30.00|60280.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Hope Feed Mill|Tyson Foods, Inc.|AR|1.00|2.00|34.00|70737.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Hope Growout|Tyson Foods, Inc.|AR|1.00|2.00|24.00|57007.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Hope Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|33.00|59491.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Hope Plant|Tyson Foods, Inc.|AR|1.00|3.00|1270.00|2269778.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Houston Portwall St Plant|Tyson Foods, Inc.|TX|1.00|3.00|632.00|1327826.00|510392340|'Tyson Foods Inc.'|tyson foods|false
+Houston, TX Route Sales|Tyson Foods, Inc.|TX|1.00|2.00|17.00|36823.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Humboldt Feed Mill|Tyson Foods, Inc.|TN|1.00|2.00|13.00|27222.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Humboldt Hatchery|Tyson Foods, Inc.|TN|1.00|2.00|27.00|47724.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Humboldt Live Production|Tyson Foods, Inc.|TN|1.00|2.00|14.00|34052.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Humboldt Plant|Tyson Foods, Inc.|TN|1.00|3.00|682.00|1125199.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Hutchinson Plant|Tyson Foods, Inc.|KS|1.00|3.00|402.00|851690.00|481175514|'Tyson Foods Inc.'|tyson foods|false
+Hutchinson Plant (KPR)|Tyson Foods, Inc.|KS|1.00|2.00|168.00|332072.00|481175514|'Tyson Foods Inc.'|tyson foods|false
+Independence Plant|Tyson Foods, Inc.|IA|1.00|3.00|134.00|262140.00|203651396|'Tyson Foods Inc.'|tyson foods|false
+Indianapolis Distribution Ctr|Tyson Foods, Inc.|IN|1.00|2.00|148.00|260976.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+ITC Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|32.00|63144.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Iva Lee Feed Mill|Tyson Foods, Inc.|AL|1.00|2.00|26.00|98214.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Jacksonville Plant (Bruss)|Tyson Foods, Inc.|FL|1.00|3.00|252.00|490315.00|362338268|'Tyson Foods Inc.'|tyson foods|false
+Jefferson Plant|Tyson Foods, Inc.|WI|1.00|2.00|51.00|87345.00|232797861|'Tyson Foods Inc.'|tyson foods|false
+Joslin Freezer|Tyson Foods, Inc.|IL|1.00|2.00|37.00|71738.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Joslin Hides|Tyson Foods, Inc.|IL|1.00|2.00|102.00|211179.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Joslin Plant|Tyson Foods, Inc.|IL|1.00|3.00|2501.00|5102673.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Kansas City Plant|Tyson Foods, Inc.|KS|1.00|3.00|368.00|816639.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Kentucky Farms (CV)|Tyson Foods, Inc.|KY|1.00|2.00|36.00|78798.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Kentucky Hatchery (CV)|Tyson Foods, Inc.|KY|1.00|2.00|68.00|133977.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Lexington Freezer|Tyson Foods, Inc.|NE|1.00|2.00|37.00|72669.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Lexington Hides|Tyson Foods, Inc.|NE|1.00|2.00|77.00|160638.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Lexington Plant|Tyson Foods, Inc.|NE|1.00|3.00|2926.00|6068681.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Logansport Plant|Tyson Foods, Inc.|IN|1.00|3.00|2108.00|4019723.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Louisa County Freezer|Tyson Foods, Inc.|IA|1.00|2.00|72.00|142605.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Louisa County Plant|Tyson Foods, Inc.|IA|1.00|3.00|1242.00|2509606.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Macon Distribution Center|Tyson Foods, Inc.|GA|1.00|3.00|340.00|592912.00|472384604|'Tyson Foods Inc.'|tyson foods|false
+Madison Ham Plant|Tyson Foods, Inc.|NE|1.00|2.00|182.00|327968.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Madison Plant|Tyson Foods, Inc.|NE|1.00|3.00|1275.00|2475748.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Magee Feed Mill (MLO)|Tyson Foods, Inc.|MS|1.00|2.00|22.00|48856.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Magee Hatchery (MLO)|Tyson Foods, Inc.|MS|1.00|2.00|18.00|39961.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Mexican Original Portland Plnt|Tyson Foods, Inc.|IN|1.00|3.00|536.00|1019702.00|710815084|'Tyson Foods Inc.'|tyson foods|false
+Mexican Original Sanford Plant|Tyson Foods, Inc.|NC|1.00|3.00|490.00|923274.00|710815084|'Tyson Foods Inc.'|tyson foods|false
+Monett Growout|Tyson Foods, Inc.|MO|1.00|2.00|20.00|46138.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Monett Hatchery #1|Tyson Foods, Inc.|MO|1.00|2.00|29.00|53042.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Monett Plant|Tyson Foods, Inc.|MO|1.00|3.00|610.00|985109.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Monroe Growout|Tyson Foods, Inc.|NC|1.00|2.00|23.00|57171.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Monroe Hatchery|Tyson Foods, Inc.|NC|1.00|2.00|24.00|48933.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Monroe Plant|Tyson Foods, Inc.|NC|1.00|3.00|1497.00|2598808.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Morrilton Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|21.00|40327.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Murfreesboro Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|18.00|35489.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+N. Little Rock Plant|Tyson Foods, Inc.|AR|1.00|3.00|254.00|407420.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Nacogdoches Feed Mill|Tyson Foods, Inc.|TX|1.00|2.00|20.00|51271.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Nashville Growout|Tyson Foods, Inc.|AR|1.00|2.00|19.00|44977.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Nashville Plant|Tyson Foods, Inc.|AR|1.00|3.00|1380.00|2410937.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Neshoba Feed Mill (MLO)|Tyson Foods, Inc.|MS|1.00|2.00|37.00|87589.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+New Holland F/P Plant|Tyson Foods, Inc.|PA|1.00|3.00|287.00|565530.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+New Holland Plant|Tyson Foods, Inc.|PA|1.00|3.00|538.00|1051040.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+New London Plant|Tyson Foods, Inc.|WI|1.00|3.00|833.00|1640396.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Newbern Plant|Tyson Foods, Inc.|TN|1.00|3.00|692.00|1459022.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Newbern Warehouse|Tyson Foods, Inc.|TN|1.00|2.00|29.00|58669.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Newton Hatchery (MLO)|Tyson Foods, Inc.|MS|1.00|2.00|33.00|65614.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Noel Freezer|Tyson Foods, Inc.|MO|1.00|2.00|47.00|90509.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Noel Plant|Tyson Foods, Inc.|MO|1.00|3.00|1445.00|2706943.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+North Carolina Farms (CV)|Tyson Foods, Inc.|NC|1.00|2.00|36.00|82968.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+North Richland Hills Plant|Tyson Foods, Inc.|TX|1.00|3.00|328.00|728904.00|481175514|'Tyson Foods Inc.'|tyson foods|false
+Obion County Feed Mill|Tyson Foods, Inc.|TN|1.00|2.00|40.00|98167.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Obion County Growout|Tyson Foods, Inc.|TN|1.00|2.00|21.00|53160.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Obion County Hatchery|Tyson Foods, Inc.|TN|1.00|2.00|46.00|86964.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Obion County Plant|Tyson Foods, Inc.|TN|1.00|3.00|1539.00|2840778.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Obion Live Haul|Tyson Foods, Inc.|TN|1.00|2.00|38.00|48931.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Oglethorpe Farm|Tyson Foods, Inc.|GA|1.00|2.00|18.00|31940.00|620852669|'Tyson Foods Inc.'|tyson foods|false
+Oglethorpe Feed Mill|Tyson Foods, Inc.|GA|1.00|2.00|26.00|56028.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Oglethorpe Growout|Tyson Foods, Inc.|GA|1.00|2.00|18.00|41414.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Oglethorpe Hatchery|Tyson Foods, Inc.|GA|1.00|2.00|43.00|77222.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+OK Pork|Tyson Foods, Inc.|OK|1.00|2.00|77.00|183816.00|710815074|'Tyson Foods Inc.'|tyson foods|false
+Olathe Distribution Center|Tyson Foods, Inc.|KS|1.00|3.00|239.00|449764.00|481121753|'Tyson Foods Inc.'|tyson foods|false
+Omaha Freezer|Tyson Foods, Inc.|NE|1.00|2.00|60.00|130273.00|911853538|'Tyson Foods Inc.'|tyson foods|false
+Omaha Plant|Tyson Foods, Inc.|NE|1.00|3.00|1022.00|2165025.00|911853538|'Tyson Foods Inc.'|tyson foods|false
+Ottawa Fwd WH|Tyson Foods, Inc.|IL|1.00|2.00|124.00|200266.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Pasco Hides|Tyson Foods, Inc.|WA|1.00|2.00|24.00|49640.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Pasco Plant|Tyson Foods, Inc.|WA|1.00|3.00|1367.00|2785329.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Perry Freezer|Tyson Foods, Inc.|IA|1.00|2.00|24.00|49534.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Perry Plant|Tyson Foods, Inc.|IA|1.00|3.00|1256.00|2546451.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Philadelphia Cooked|Tyson Foods, Inc.|PA|1.00|2.00|97.00|202506.00|815138328|'Tyson Foods Inc.'|tyson foods|false
+Philadelphia Raw|Tyson Foods, Inc.|PA|1.00|2.00|146.00|268824.00|815138328|'Tyson Foods Inc.'|tyson foods|false
+Pickensville Blend Mill|Tyson Foods, Inc.|AL|1.00|2.00|19.00|39979.00|830545826|'Tyson Foods Inc.'|tyson foods|false
+Pine Bluff Feed Mill|Tyson Foods, Inc.|AR|1.00|2.00|23.00|48901.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Pine Bluff Freezer|Tyson Foods, Inc.|AR|1.00|2.00|38.00|67702.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Pine Bluff Jeff Pkwy Plant|Tyson Foods, Inc.|AR|1.00|3.00|1447.00|2597189.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Pine Bluff Live Haul|Tyson Foods, Inc.|AR|1.00|2.00|20.00|48258.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Pine Enid Plant|Tyson Foods, Inc.|OK|1.00|2.00|18.00|37235.00|730957451|'Tyson Foods Inc.'|tyson foods|false
+Pocomoke Farm|Tyson Foods, Inc.|MD|1.00|2.00|56.00|121140.00|471384119|'Tyson Foods Inc.'|tyson foods|false
+Portland Plant|Tyson Foods, Inc.|ME|1.00|3.00|372.00|798555.00|010235540|'Tyson Foods Inc.'|tyson foods|false
+Pottsville Distribution Center|Tyson Foods, Inc.|PA|1.00|3.00|272.00|478868.00|472384604|'Tyson Foods Inc.'|tyson foods|false
+Pottsville Feed Mill|Tyson Foods, Inc.|AR|1.00|2.00|30.00|67876.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Pottsville PA Drivers|Tyson Foods, Inc.|PA|1.00|2.00|74.00|134258.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Randall Road Plant|Tyson Foods, Inc.|AR|1.00|3.00|352.00|588646.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+RDC|Tyson Foods, Inc.|AR|1.00|2.00|38.00|70056.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Richmond Hatchery|Tyson Foods, Inc.|VA|1.00|2.00|22.00|40228.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+River Valley Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|42.00|81613.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Roaring River Feed Mill|Tyson Foods, Inc.|NC|1.00|2.00|37.00|66145.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Robards Feed Mill|Tyson Foods, Inc.|KY|1.00|2.00|22.00|47487.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Robards Freezer|Tyson Foods, Inc.|KY|1.00|2.00|28.00|50650.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Robards Growout|Tyson Foods, Inc.|KY|1.00|2.00|27.00|63045.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Robards Hatchery|Tyson Foods, Inc.|KY|1.00|2.00|27.00|51402.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Robards Plant|Tyson Foods, Inc.|KY|1.00|3.00|1372.00|2406750.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Rochelle Distribution Center|Tyson Foods, Inc.|IL|1.00|3.00|292.00|540678.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Rome Plant|Tyson Foods, Inc.|GA|1.00|2.00|226.00|383556.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+RVI-Clarksville|Tyson Foods, Inc.|AR|1.00|2.00|40.00|82720.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+RVI-Cumming|Tyson Foods, Inc.|GA|1.00|2.00|111.00|269957.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+RVI-Cuthbert|Tyson Foods, Inc.|GA|1.00|2.00|132.00|309711.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+RVI-Forest|Tyson Foods, Inc.|MS|1.00|2.00|144.00|292253.00|640428364|'Tyson Foods Inc.'|tyson foods|false
+RVI-Hanceville|Tyson Foods, Inc.|AL|1.00|2.00|167.00|367452.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+RVI-Harmony|Tyson Foods, Inc.|NC|1.00|2.00|81.00|176548.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+RVI-Robards|Tyson Foods, Inc.|KY|1.00|2.00|92.00|203045.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+RVI-Scranton|Tyson Foods, Inc.|AR|1.00|2.00|183.00|370476.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+RVI-Sedalia|Tyson Foods, Inc.|MO|1.00|2.00|28.00|59704.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+RVI-Temperanceville|Tyson Foods, Inc.|VA|1.00|2.00|39.00|77569.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+RVI-Texarkana|Tyson Foods, Inc.|AR|1.00|2.00|104.00|218873.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+San Lorenzo Plant|Tyson Foods, Inc.|CA|1.00|2.00|164.00|335327.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Sand Mountain Hatchery|Tyson Foods, Inc.|AL|1.00|2.00|25.00|58738.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Sedalia Feed Mill|Tyson Foods, Inc.|MO|1.00|2.00|41.00|87693.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Sedalia Freezer|Tyson Foods, Inc.|MO|1.00|2.00|38.00|70475.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Sedalia Growout|Tyson Foods, Inc.|MO|1.00|2.00|67.00|143350.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Sedalia Hatchery|Tyson Foods, Inc.|MO|1.00|2.00|35.00|65187.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Sedalia Plant|Tyson Foods, Inc.|MO|1.00|3.00|1476.00|2755234.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Seguin Growout|Tyson Foods, Inc.|TX|1.00|2.00|28.00|62699.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Seguin Plant|Tyson Foods, Inc.|TX|1.00|3.00|639.00|1215636.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Shelbyville Feed Mill|Tyson Foods, Inc.|TN|1.00|2.00|21.00|48072.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Shelbyville Hatchery|Tyson Foods, Inc.|TN|1.00|2.00|37.00|62275.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Shelbyville Plant|Tyson Foods, Inc.|TN|1.00|3.00|1269.00|2500497.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Sherman Case Rdy Plant|Tyson Foods, Inc.|TX|1.00|3.00|1715.00|3581612.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Siloam Springs Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|58.00|119384.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Sioux City Freezer|Tyson Foods, Inc.|IA|1.00|2.00|71.00|142138.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Snead Growout|Tyson Foods, Inc.|AL|1.00|2.00|23.00|60722.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Southeast Farms (CV)|Tyson Foods, Inc.|GA|1.00|2.00|53.00|122013.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Southeast Transportation (CV)|Tyson Foods, Inc.|GA|1.00|2.00|27.00|55007.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Southwest Farms (CV)|Tyson Foods, Inc.|AR|1.00|2.00|58.00|130363.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Southwest Transportation (CV)|Tyson Foods, Inc.|AR|1.00|2.00|27.00|54854.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Spadra Feed Mill|Tyson Foods, Inc.|AR|1.00|2.00|22.00|82342.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Springdale Growout|Tyson Foods, Inc.|AR|1.00|2.00|35.00|83588.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Springdale, AR Terminal|Tyson Foods, Inc.|AR|1.00|3.00|1039.00|2285337.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+St Joseph Plant|Tyson Foods, Inc.|MO|1.00|3.00|721.00|1433509.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Star City Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|29.00|56359.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Stilwell Hatchery (Noel)|Tyson Foods, Inc.|OK|1.00|2.00|43.00|89634.00|710802999|'Tyson Foods Inc.'|tyson foods|false
+Storm Lake Plant|Tyson Foods, Inc.|IA|1.00|3.00|2252.00|4411305.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Storm Lake Turkey Farms|Tyson Foods, Inc.|IA|1.00|2.00|79.00|157412.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Storm Lake Turkey Plant|Tyson Foods, Inc.|IA|1.00|3.00|642.00|1307284.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Sweetwater Farms|Tyson Foods, Inc.|OK|1.00|2.00|20.00|39898.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+TDC|Tyson Foods, Inc.|AR|1.00|3.00|294.00|563848.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Tecumseh Peterson Farm|Tyson Foods, Inc.|NE|1.00|2.00|21.00|48589.00|470831725|'Tyson Foods Inc.'|tyson foods|false
+Tecumseh Plant|Tyson Foods, Inc.|NE|1.00|2.00|168.00|326513.00|470831725|'Tyson Foods Inc.'|tyson foods|false
+Temperanceville Hatchery|Tyson Foods, Inc.|VA|1.00|2.00|30.00|58223.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Temperanceville Plant|Tyson Foods, Inc.|VA|1.00|3.00|1085.00|2208077.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Tennessee Farms|Tyson Foods, Inc.|TN|1.00|2.00|26.00|56647.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Tennessee Hatchery|Tyson Foods, Inc.|TN|1.00|2.00|47.00|91106.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Tennessee Pedigree Complex|Tyson Foods, Inc.|TN|1.00|2.00|195.00|397627.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Three Springs Farms|Tyson Foods, Inc.|OK|1.00|2.00|148.00|288385.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Timber Lake Farm|Tyson Foods, Inc.|TX|1.00|2.00|38.00|74347.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Timpson Hatchery|Tyson Foods, Inc.|TX|1.00|2.00|43.00|82216.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Tolleson Distribution Center|Tyson Foods, Inc.|AZ|1.00|2.00|74.00|154525.00|472384604|'Tyson Foods Inc.'|tyson foods|false
+TVDC|Tyson Foods, Inc.|AR|1.00|3.00|268.00|506447.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+T'ville Feed Mill (Snow Hill)|Tyson Foods, Inc.|MD|1.00|2.00|20.00|47529.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Tyler Road Plant|Tyson Foods, Inc.|AR|1.00|3.00|667.00|1214861.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Tyson of Rogers Plant|Tyson Foods, Inc.|AR|1.00|3.00|883.00|1516205.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Van Buren Plant|Tyson Foods, Inc.|AR|1.00|3.00|1219.00|2272570.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Vernon Plant|Tyson Foods, Inc.|TX|1.00|3.00|848.00|1821835.00|510392340|'Tyson Foods Inc.'|tyson foods|false
+Vienna Plant|Tyson Foods, Inc.|GA|1.00|3.00|1466.00|2507650.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Vineland Plant|Tyson Foods, Inc.|NJ|1.00|2.00|168.00|339577.00|231543124|'Tyson Foods Inc.'|tyson foods|false
+Wadesboro Hatchery / Transp|Tyson Foods, Inc.|NC|1.00|2.00|52.00|102622.00|710628109|'Tyson Foods Inc.'|tyson foods|false
+Waldron Feed Mill|Tyson Foods, Inc.|AR|1.00|2.00|24.00|57664.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Waldron Growout|Tyson Foods, Inc.|AR|1.00|2.00|19.00|47402.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Waldron Hatchery|Tyson Foods, Inc.|AR|1.00|2.00|26.00|54139.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Waldron Plant|Tyson Foods, Inc.|AR|1.00|3.00|698.00|1208939.00|710815086|'Tyson Foods Inc.'|tyson foods|false
+Walnut Grove Hatchery (MLO)|Tyson Foods, Inc.|MS|1.00|2.00|23.00|42777.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Warren Michigan Plant|Tyson Foods, Inc.|MI|1.00|2.00|129.00|256095.00|731606670|'Tyson Foods Inc.'|tyson foods|false
+Waterloo Freezer|Tyson Foods, Inc.|IA|1.00|2.00|61.00|101492.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Waterloo Plant|Tyson Foods, Inc.|IA|1.00|2.00|164.00|310693.00|481175514|'Tyson Foods Inc.'|tyson foods|false
+Waterloo Pork Plant|Tyson Foods, Inc.|IA|1.00|3.00|2928.00|5612909.00|710857514|'Tyson Foods Inc.'|tyson foods|false
+Waverly Plant|Tyson Foods, Inc.|NE|1.00|3.00|476.00|1017326.00|470831725|'Tyson Foods Inc.'|tyson foods|false
+Wilkesboro Food Service Plant|Tyson Foods, Inc.|NC|1.00|3.00|317.00|606049.00|710815087|'Tyson Foods Inc.'|tyson foods|false
+Wilkesboro Fresh Plant|Tyson Foods, Inc.|NC|1.00|3.00|2000.00|3952780.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Wilkesboro Fresh Plant II|Tyson Foods, Inc.|NC|1.00|3.00|292.00|516608.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Wilkesboro Live Haul|Tyson Foods, Inc.|NC|1.00|2.00|54.00|88304.00|560754148|'Tyson Foods Inc.'|tyson foods|false
+Willow Philly Enid Plant|Tyson Foods, Inc.|OK|1.00|3.00|399.00|824917.00|730957451|'Tyson Foods Inc.'|tyson foods|false
+Zeeland Plant|Tyson Foods, Inc.|MI|1.00|3.00|1130.00|2380824.00|362089049|'Tyson Foods Inc.'|tyson foods|false
+Wicks Roofing|Wicks Roofing|CA|1.00|2.00|75.00|136920.00|770418522|'Wicks Roofing Inc'|wicks roofing|false
+1300|CentiMark Corporation|MD|1.00|2.00|70.00|105153.00|251194990|'CentiMark Corporation'|centimark|false
+Saint-Gobain|CertainTeed Corporation|LA|1.00|2.00|72.00|229046.00|232615166|'CertainTeed LLC'|certainteed|false
+4110|CentiMark Corporation|AL|1.00|2.00|53.00|78360.00|251194990|'CentiMark Corporation'|centimark|false
+2400|CentiMark Corporation|MI|1.00|2.00|32.00|42296.00|251194990|'CentiMark Corporation'|centimark|false
+O'Neal Inc|O'Neal Inc.|SC|1.00|2.00|230.00|492773.00|570619503|'O'Neal Construction'|o'neal|false
+2600|CentiMark Corporation|IL|1.00|2.00|69.00|99295.00|251194990|'CentiMark Corporation'|centimark|false
+2630|CentiMark Corporation|IA|1.00|2.00|17.00|30939.00|251194990|'CentiMark Corporation'|centimark|false
+2650|CentiMark Corporation|WI|1.00|2.00|33.00|43200.00|251194990|'CentiMark Corporation'|centimark|false
+2700|CentiMark Corporation|KS|1.00|2.00|47.00|53006.00|251194990|'CentiMark Corporation'|centimark|false
+River City Roofing|River City Roofing|FL|1.00|2.00|19.00|29600.00|200703878|'River City Roofing', 'River City Roofing Co. Inc.'|river city roofing|true
+Kreiling Roofing Co|Kreiling Roofing Co|IL|1.00|2.00|72.00|114800.00|371151409|'Kreiling Roofing Co.'|kreiling roofing|false
+USG Interiors Cartersville|USG|GA|1.00|2.00|28.00|55426.00|453811432|'USG Corporation'|usg|false
+USG Interiors Cloquet|USG|MN|1.00|2.00|318.00|622560.00|453811432|'USG Corporation'|usg|false
+US Gyspum Delavan|USG|WI|1.00|2.00|23.00|47382.00|361898410|'USG Corporation'|usg|false
+USG Interiors Greenville|USG|MS|1.00|2.00|190.00|399143.00|453811432|'USG Corporation'|usg|false
+Ceilings Plus|USG|CA|1.00|2.00|187.00|357659.00|384049706|'USG Corporation'|usg|false
+USG Interiors Red Wing|USG|MN|1.00|2.00|32.00|67974.00|453811432|'USG Corporation'|usg|false
+USG Interiors Stockton|USG|CA|1.00|2.00|24.00|42347.00|453811432|'USG Corporation'|usg|false
+USG Interiors Walworth|USG|WI|1.00|2.00|46.00|102717.00|453811432|'USG Corporation'|usg|false
+USG Interiors Westlake|USG|OH|1.00|2.00|165.00|319372.00|453811432|'USG Corporation'|usg|false
+US Gypsum Galena Park|USG|TX|1.00|2.00|188.00|406684.00|361898410|'USG Corporation'|usg|false
+US Gypsum North Kansas City|USG|MO|1.00|2.00|50.00|106695.00|361898410|'USG Corporation'|usg|false
+US Gypsum Oakfield|USG|NY|1.00|2.00|110.00|215307.00|361898410|'USG Corporation'|usg|false
+Upson Company|Upson Company|ID|1.00|2.00|60.00|163078.00|820455046|'Upson Company'|upson|false
+US Gypsum Otsego|USG|MI|1.00|2.00|131.00|275412.00|204479731|'USG Corporation'|usg|false
+Schrader Roofing Inc.|Schrader Roofing Inc.|TX|1.00|2.00|22.00|26410.00|752490574|'Schrader Roofing Inc.'|schrader roofing|false
+US Gypsum Baltimore|USG|MD|1.00|2.00|187.00|390976.00|361898410|'USG Corporation'|usg|false
+US Gypsum Dallas|USG|TX|1.00|2.00|52.00|125175.00|361898410|'USG Corporation'|usg|false
+USG|USG|CO|1.00|1.00|9.00|17055.00|361898410|'USG Corporation'|usg|false
+US Gypsum Detroit|USG|MI|1.00|2.00|108.00|221324.00|361898410|'USG Corporation'|usg|false
+US Gyspum Fort Dodge|USG|IA|1.00|2.00|121.00|249797.00|361898410|'USG Corporation'|usg|false
+US Gypsum Gypsum|USG|OH|1.00|3.00|258.00|519396.00|361898410|'USG Corporation'|usg|false
+US Gypsum New Orleans|USG|LA|1.00|2.00|61.00|127322.00|361898410|'USG Corporation'|usg|false
+US Gypsum Phoenix|USG|AZ|1.00|2.00|21.00|42736.00|361898410|'USG Corporation'|usg|false
+US Gypsum Port Reading|USG|NJ|1.00|2.00|69.00|146687.00|361898410|'USG Corporation'|usg|false
+US Gypsum Southard|USG|OK|1.00|2.00|208.00|440722.00|361898410|'USG Corporation'|usg|false
+US Gypsum Torrance|USG|CA|1.00|2.00|42.00|81630.00|361898410|'USG Corporation'|usg|false
+US Gypsum Weirton|USG|WV|1.00|2.00|24.00|46524.00|361898410|'USG Corporation'|usg|false
+US Gypsum Aliquippa|USG|PA|1.00|2.00|144.00|296839.00|361898410|'USG Corporation'|usg|false
+2800|CentiMark Corporation|MO|1.00|2.00|39.00|58403.00|251194990|'CentiMark Corporation'|centimark|false
+2701|CentiMark Corporation|NE|1.00|2.00|38.00|53347.00|251194990|'CentiMark Corporation'|centimark|false
+OSHAA 300A|Monarch Construction|OH|2.00|2.00|50.00|108637.00|311122357|'Monarch Consulting Services'|monarch|false
+2900|CentiMark Corporation|PA|1.00|2.00|61.00|75889.00|251194990|'CentiMark Corporation'|centimark|false
+2300|CentiMark Corporation|MI|1.00|2.00|27.00|47392.00|251194990|'CentiMark Corporation'|centimark|false
+2910|CentiMark Corporation|NY|1.00|2.00|53.00|84232.00|251194990|'CentiMark Corporation'|centimark|false
+3450|CentiMark Corporation|TN|1.00|2.00|51.00|83843.00|251194990|'CentiMark Corporation'|centimark|false
+3600|CentiMark Corporation|TX|1.00|2.00|76.00|97783.00|251194990|'CentiMark Corporation'|centimark|false
+4100|CentiMark Corporation|GA|1.00|2.00|88.00|115386.00|251194990|'CentiMark Corporation'|centimark|false
+3610|CentiMark Corporation|TX|1.00|2.00|77.00|144539.00|251194990|'CentiMark Corporation'|centimark|false
+4210|CentiMark Corporation|NC|1.00|2.00|52.00|110081.00|251194990|'CentiMark Corporation'|centimark|false
+4300|CentiMark Corporation|NC|1.00|2.00|110.00|199958.00|251194990|'CentiMark Corporation'|centimark|false
+4400|CentiMark Corporation|TN|1.00|2.00|38.00|53469.00|251194990|'CentiMark Corporation'|centimark|false
+4750|CentiMark Corporation|FL|1.00|2.00|82.00|116226.00|251194990|'CentiMark Corporation'|centimark|false
+4800|CentiMark Corporation|FL|1.00|2.00|41.00|67682.00|251194990|'CentiMark Corporation'|centimark|false
+5110|CentiMark Corporation|ID|1.00|2.00|30.00|78291.00|251194990|'CentiMark Corporation'|centimark|false
+US Gypsum Rainier|USG|OR|1.00|2.00|110.00|216797.00|361898410|'USG Corporation'|usg|false
+US Gypsum Jacksonville|USG|FL|1.00|2.00|203.00|403343.00|361898410|'USG Corporation'|usg|false
+US Gypsum Norfolk|USG|VA|1.00|1.00|2.00|4207.00|361898410|'USG Corporation'|usg|false
+US Gypsum Plaster City|USG|CA|1.00|3.00|254.00|543318.00|361898410|'USG Corporation'|usg|false
+US Gypsum Sigurd|USG|UT|1.00|2.00|107.00|208472.00|361898410|'USG Corporation'|usg|false
+US Gypsum Sperry|USG|IA|1.00|2.00|194.00|415699.00|361898410|'USG Corporation'|usg|false
+US Gypsum Sweetwater|USG|TX|1.00|2.00|241.00|488333.00|361898410|'USG Corporation'|usg|false
+USG Corporation Chicago Construction|USG|IL|1.00|1.00|18.00|43802.00|361898410|'USG Corporation'|usg|false
+US Gypsum Shoals|USG|IN|1.00|2.00|223.00|439154.00|361898410|'USG Corporation'|usg|false
+US Gypsum Washingtonville|USG|PA|1.00|3.00|160.00|269121.00|361898410|'USG Corporation'|usg|false
+US Gypsum Auburn|USG|WA|1.00|3.00|48.00|92163.00|361898410|'USG Corporation'|usg|false
+United States Gypsum Co, Bridgeport Plant|USG|AL|1.00|2.00|195.00|393692.00|361898410|'USG Corporation'|usg|false
+US Gypsum East Chicago|USG|IN|1.00|2.00|141.00|291733.00|361898410|'USG Corporation'|usg|false
+Alumni Roofing Lexington|Alumni Roofing Co.|OH|1.00|2.00|23.00|44353.00|341865113|'Alumni Roofing Company'|alumni roofing|false
+Corporate Office|RENCO Roofing|AZ|1.00|2.00|65.00|123711.00|010813574|'RENCO Roofing'|renco roofing|false
+PAGE, INC d/b/a Save-A-Lot|PAGE, INC|KY|1.00|2.00|27.00|37673.00|611209618|'Page'|page|false
+Rockwell Roofing, Inc.|Rockwell Roofing, Inc.|MA|1.00|2.00|47.00|140247.00|042652947|'Rockwell Roofing Inc.'|rockwell roofing|false
+IKO Northeast Inc|IKO Industries|MD|1.00|2.00|60.00|83074.00|611847605|'IKO Industries'|iko|false
+General Coatings Manufacturing Corp.|General Coatings Manufacturing Corp.|CA|1.00|2.00|41.00|85122.00|461269090|'General Coatings Manufacturing Corp.'|general coatings|false
+NM|Commercial Roofing, LLC.|NM|1.00|2.00|36.00|74370.00|850457633|'Commercial Roofing Co. LLC', 'Commercial Roofing LLC', 'Commercial Roofing Systems Inc.'|commercial roofing|true
+Holland Roofing of Cincinnati|Holland Roofing|KY|1.00|2.00|39.00|87678.00|611124883|'Holland Roofing Co. Inc.', 'Holland Roofing Group'|holland roofing|true
+Lowell CSMI|Central States Manufacturing|AR|1.00|2.00|200.00|584405.00|710551254|'Central States Manufacturing'|central states|false
+ST. Peters CSMI|Central States Manufacturing|MO|1.00|2.00|54.00|104981.00|710551254|'Central States Manufacturing'|central states|false
+Seguin CSMI|Central States Manufacturing|TX|1.00|2.00|70.00|123101.00|710551254|'Central States Manufacturing'|central states|false
+Scottsville CSMI|Central States Manufacturing|KY|1.00|2.00|38.00|69843.00|710551254|'Central States Manufacturing'|central states|false
+Mount Airy CSMI|Central States Manufacturing|NC|1.00|2.00|83.00|137950.00|710551254|'Central States Manufacturing'|central states|false
+Michigan City CSMI|Central States Manufacturing|IN|1.00|2.00|71.00|120162.00|710551254|'Central States Manufacturing'|central states|false
+Jasper CSMI|Central States Manufacturing|AL|1.00|2.00|118.00|197335.00|710551254|'Central States Manufacturing'|central states|false
+Hartford CSMI|Central States Manufacturing|SD|1.00|2.00|70.00|122585.00|710551254|'Central States Manufacturing'|central states|false
+Graniteville CSMI|Central States Manufacturing|SC|1.00|2.00|40.00|46146.00|710551254|'Central States Manufacturing'|central states|false
+Owens Corning Irving Roofing & Asphalt Plant LLC|Owens Corning|TX|1.00|2.00|198.00|504157.00||'Owens Corning'|owens corning|false
+Claysburg CSMI|Central States Manufacturing|PA|1.00|2.00|80.00|153147.00|710551254|'Central States Manufacturing'|central states|false
+Kulp's Of Stratford|Kulp's Of Stratford|WI|1.00|2.00|39.00|65820.00|391915695|'Kulp's of Stratford LLC'|kulp's of stratford|false
+Asheville|Baker Roofing|NC|1.00|1.00|21.00|45213.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Baker Service|Baker Roofing|NC|1.00|1.00|58.00|106905.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Birmingham|Baker Roofing|AL|1.00|1.00|9.00|14454.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Charleston|Baker Roofing|SC|1.00|1.00|60.00|120190.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Charlotte|Baker Roofing|NC|1.00|1.00|60.00|125424.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Chattanooga|Baker Roofing|TN|1.00|1.00|17.00|33953.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Coating|Baker Roofing|NC|1.00|1.00|11.00|26399.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Columbia|Baker Roofing|SC|1.00|1.00|7.00|16364.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Garden Roofing|Baker Roofing|NC|1.00|1.00|10.00|16826.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Greensboro|Baker Roofing|NC|1.00|1.00|54.00|109642.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Greenville|Baker Roofing|NC|1.00|1.00|11.00|20199.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Greenville SC|Baker Roofing|SC|1.00|1.00|11.00|21375.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Memphis|Baker Roofing|TN|1.00|1.00|12.00|21553.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Myrtle Beach|Baker Roofing|SC|1.00|1.00|17.00|28432.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Nashville|Baker Roofing|TN|1.00|1.00|38.00|83050.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Orlando|Baker Roofing|FL|1.00|1.00|39.00|87956.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Baker Roofing Corporate|Baker Roofing|NC|1.00|1.00|289.00|616759.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Residential|Baker Roofing|NC|1.00|1.00|73.00|149150.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Residential Branches|Baker Roofing|NC|1.00|1.00|19.00|35645.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Restoration|Baker Roofing|NC|1.00|1.00|22.00|46705.00|560130810|'Baker Roofing Co.'|baker roofing|false
+1515 Lake Wheeler/SMS|Baker Roofing|NC|1.00|1.00|23.00|44062.00|560130810|'Baker Roofing Co.'|baker roofing|false
+Wilmington|Baker Roofing|NC|1.00|1.00|29.00|61076.00|560130810|'Baker Roofing Co.'|baker roofing|false
+VA Offices Baker Roofing LLC|Baker Roofing|VA|1.00|1.00|182.00|369181.00|541136608|'Baker Roofing Co.'|baker roofing|false
+Albany Office|Titan Roofing, Inc.|NY|1.00|2.00|117.00|224381.00|042630303|'Titan Roofing'|titan roofing|false
+Syracuse Office|Titan Roofing, Inc.|NY|1.00|2.00|21.00|36353.00|042630303|'Titan Roofing'|titan roofing|false
+Newburgh Office|Titan Roofing, Inc|NY|1.00|2.00|12.00|23719.00|042630303|'Titan Roofing'|titan roofing|false
+Plattsburgh|Titan Roofing, Inc|NY|1.00|2.00|2.00|3625.00|042630303|'Titan Roofing'|titan roofing|false
+New Haven Office|Titan Roofing, Inc.|CT|1.00|2.00|5.00|7174.00|042630303|'Titan Roofing'|titan roofing|false
+Springfield Office|Titan Roofing, Inc.|MA|1.00|2.00|74.00|141062.00|042630303|'Titan Roofing'|titan roofing|false
+Commonwealth Pier|Titan Roofing, Inc|MA|1.00|2.00|17.00|31119.00|042630303|'Titan Roofing'|titan roofing|false
+Worcester|Titan Roofing, Inc.|MA|1.00|2.00|7.00|14315.00|042630303|'Titan Roofing'|titan roofing|false
+Quincy Office|Titan Roofing, Inc.|MA|1.00|2.00|87.00|156312.00|042630303|'Titan Roofing'|titan roofing|false
+Cedar Hill CSMI|Central States Manufacturing|TX|1.00|2.00|111.00|212861.00|710551254|'Central States Manufacturing'|central states|false
+FONTAINE WEATHERPROOFING INC|FONTAINE WEATHERPROOFING INC|CA|1.00|2.00|57.00|109409.00|204014128|'Fontaine Weatherproofing LLC'|fontaine weatherproofing|false
+Ferguson Roofing Company Inc|Ferguson Roofing Company Inc.|MO|1.00|1.00|14.00|27300.00|431073200|'Ferguson Roofing Co. Inc.'|ferguson roofing|false
+Stonebrook Exterior|Stonebrook Exterior|NE|1.00|2.00|145.00|252176.00|260431159|'Stonebrook Exterior'|stonebrook exterior|false
+South Central Roofing, Inc.|South Central Roofing, Inc.|IN|1.00|1.00|17.00|34003.00|352087207|'South Central Roofing Inc.'|south central roofing|false
+Silktown Roofing, Inc./Derby CT|Silktown Roofing, Inc.|CT|1.00|2.00|65.00|97469.00|061350674|'Silktown Roofing Inc.'|silktown roofing|false
+Silktown Roofing, Inc./Manchester CT|Silktown Roofing, Inc.|CT|1.00|2.00|85.00|180833.00|061350674|'Silktown Roofing Inc.'|silktown roofing|false
+Silktown Roofing, Inc.-North/Douglas, MA|Silktown Roofing, Inc.|MA|1.00|2.00|25.00|36857.00|061350674|'Silktown Roofing Inc.'|silktown roofing|false
+Chowchilla|CertainTeed Corporation|CA|1.00|2.00|169.00|340505.00|232510893|'CertainTeed LLC'|certainteed|false
+Kato Roofing Inc|Kato Roofing Inc|MN|1.00|2.00|34.00|69431.00|411730975|'Kato Roofing Inc.'|kato roofing|false
+LLC|Peterson Manufacturing LLC|FL|1.00|1.00|21.00|38602.00|843193744|'Peterson Consulting Group'|peterson|false
+DTTP Waller|Goodman Manufacturing Company|TX|1.00|3.00|9857.00|20501790.00||'Goodman Construction LLC'|goodman|false
+Goodman Business Unit|Goodman|TX|1.00|3.00|2019.00|423730.00||'Goodman Construction LLC'|goodman|false
+Administration Annex|Monarch|NC|1.00|2.00|26.00|50411.00|561326126|'Monarch Consulting Services'|monarch|false
+Anderson Road Group Home|Monarch|NC|1.00|1.00|16.00|18277.00|561326126|'Monarch Consulting Services'|monarch|false
+Andrea Drive Group Home|Monarch|NC|1.00|1.00|4.00|8525.00|561326126|'Monarch Consulting Services'|monarch|false
+Anson Adult Group Home|Monarch|NC|1.00|1.00|7.00|13529.00|561326126|'Monarch Consulting Services'|monarch|false
+Ansonville Group Home|Monarch|NC|1.00|1.00|8.00|17026.00|561326126|'Monarch Consulting Services'|monarch|false
+Asheboro School Road Group Home|Monarch|NC|1.00|1.00|5.00|9553.00|561326126|'Monarch Consulting Services'|monarch|false
+Austin House Group Home|Monarch|NC|1.00|1.00|5.00|7488.00|561326126|'Monarch Consulting Services'|monarch|false
+Azalea Gardens Apartments|Monarch|NC|1.00|1.00|1.00|1008.00|561326126|'Monarch Consulting Services'|monarch|false
+Beach Club of Dare|Monarch|NC|1.00|1.00|3.00|2405.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Cleveland (West Marion Street)|Monarch|NC|1.00|1.00|13.00|22676.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Davidson (Grimes Blvd)|Monarch|NC|1.00|1.00|17.00|23026.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Forsyth (Cherry Street)|Monarch|NC|1.00|2.00|53.00|85194.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Gaston (Court Drive)|Monarch|NC|1.00|2.00|21.00|39007.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Guilford (Northline Avenue)|Monarch|NC|1.00|2.00|43.00|76657.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Lincoln (McBee Street)|Monarch|NC|1.00|1.00|8.00|16693.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Mecklenburg (Executive Center)|Monarch|NC|1.00|2.00|87.00|177569.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Nash (Tiffany Blvd)|Monarch|NC|1.00|1.00|18.00|35859.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Robeson (Godwin Avenue)|Monarch|NC|1.00|2.00|30.00|59745.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Scotland (McAlpine Lane)|Monarch|NC|1.00|1.00|5.00|7083.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wake (Ashville Avenue)|Monarch|NC|1.00|1.00|10.00|21901.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wake (East Holding Avenue)|Monarch|NC|1.00|1.00|2.00|3910.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wake (Judd Parkway)|Monarch|NC|1.00|1.00|1.00|1667.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wake (Navaho Drive)|Monarch|NC|1.00|2.00|35.00|63203.00|561326126|'Monarch Consulting Services'|monarch|false
+Behavioral Health-Wilson (Forest Hills Rd)|Monarch|NC|1.00|1.00|9.00|13696.00|561326126|'Monarch Consulting Services'|monarch|false
+Bladen Opportunities Unlimited|Monarch|NC|1.00|1.00|6.00|7541.00|561326126|'Monarch Consulting Services'|monarch|false
+Briar Creek Group Home|Monarch|NC|1.00|1.00|3.00|5086.00|561326126|'Monarch Consulting Services'|monarch|false
+Brices Creek Road Group Home|Monarch|NC|1.00|1.00|12.00|15798.00|561326126|'Monarch Consulting Services'|monarch|false
+Brighter Vision|Monarch|NC|1.00|1.00|2.00|3324.00|561326126|'Monarch Consulting Services'|monarch|false
+Buffalo Creek Apartments|Monarch|NC|1.00|1.00|2.00|3874.00|561326126|'Monarch Consulting Services'|monarch|false
+Campus Park Drive|Monarch|NC|1.00|1.00|3.00|5889.00|561326126|'Monarch Consulting Services'|monarch|false
+Carmel Forest Drive Group Home|Monarch|NC|1.00|1.00|7.00|11231.00|561326126|'Monarch Consulting Services'|monarch|false
+Cauthen Drive Group Home|Monarch|NC|1.00|1.00|4.00|7751.00|561326126|'Monarch Consulting Services'|monarch|false
+Charlotte Street Group Home|Monarch|NC|1.00|1.00|5.00|10423.00|561326126|'Monarch Consulting Services'|monarch|false
+Circle Drive Group Home|Monarch|NC|1.00|1.00|10.00|14535.00|561326126|'Monarch Consulting Services'|monarch|false
+Circlewood Drive Group Home|Monarch|NC|1.00|1.00|6.00|9931.00|561326126|'Monarch Consulting Services'|monarch|false
+Club Horizon Psychosocial Rehabilitation|Monarch|NC|1.00|1.00|4.00|5437.00|561326126|'Monarch Consulting Services'|monarch|false
+Cohen House Group Home|Monarch|NC|1.00|1.00|7.00|11561.00|561326126|'Monarch Consulting Services'|monarch|false
+Columbus Industries|Monarch|NC|1.00|1.00|14.00|20230.00|561326126|'Monarch Consulting Services'|monarch|false
+Connecticut Avenue Group Home|Monarch|NC|1.00|1.00|5.00|7373.00|561326126|'Monarch Consulting Services'|monarch|false
+Corvair Drive Group Home|Monarch|NC|1.00|1.00|4.00|5770.00|561326126|'Monarch Consulting Services'|monarch|false
+Creative Arts and Community Center|Monarch|NC|1.00|2.00|56.00|74862.00|561326126|'Monarch Consulting Services'|monarch|false
+Dogwood Circle Group Home|Monarch|NC|1.00|1.00|5.00|10653.00|561326126|'Monarch Consulting Services'|monarch|false
+Dogwood House Group Home|Monarch|NC|1.00|1.00|19.00|35516.00|561326126|'Monarch Consulting Services'|monarch|false
+East Main Group Home|Monarch|NC|1.00|1.00|10.00|13278.00|561326126|'Monarch Consulting Services'|monarch|false
+Eklund Apartments|Monarch|NC|1.00|1.00|5.00|9874.00|561326126|'Monarch Consulting Services'|monarch|false
+Forsyth Psychosocial Rehabilitation|Monarch|NC|1.00|1.00|3.00|5364.00|561326126|'Monarch Consulting Services'|monarch|false
+Fort Bragg Drive Group Home|Monarch|NC|1.00|1.00|3.00|6414.00|561326126|'Monarch Consulting Services'|monarch|false
+George Street Group Home|Monarch|NC|1.00|1.00|1.00|1469.00|561326126|'Monarch Consulting Services'|monarch|false
+Goodale School and Recovery Community|Monarch|NC|1.00|1.00|19.00|42787.00|561326126|'Monarch Consulting Services'|monarch|false
+Grand Oaks Apartments|Monarch|NC|1.00|1.00|3.00|3564.00|561326126|'Monarch Consulting Services'|monarch|false
+Green Street Group Home|Monarch|NC|1.00|1.00|3.00|5425.00|561326126|'Monarch Consulting Services'|monarch|false
+Greenwood AUP Center|Monarch|NC|1.00|1.00|9.00|15542.00|561326126|'Monarch Consulting Services'|monarch|false
+Harnett Psychosocial Rehabilitation|Monarch|NC|1.00|1.00|3.00|4967.00|561326126|'Monarch Consulting Services'|monarch|false
+Health Drive Center|Monarch|NC|1.00|2.00|23.00|32244.00|561326126|'Monarch Consulting Services'|monarch|false
+Hoke County #1 Group Home|Monarch|NC|1.00|1.00|3.00|5430.00|561326126|'Monarch Consulting Services'|monarch|false
+Hoke County #2 Group Home|Monarch|NC|1.00|1.00|3.00|4024.00|561326126|'Monarch Consulting Services'|monarch|false
+Hoke Street Group Home|Monarch|NC|1.00|1.00|3.00|6434.00|561326126|'Monarch Consulting Services'|monarch|false
+Hope House Group Home|Monarch|NC|1.00|1.00|4.00|7756.00|561326126|'Monarch Consulting Services'|monarch|false
+Jones County Group Home|Monarch|NC|1.00|1.00|6.00|11134.00|561326126|'Monarch Consulting Services'|monarch|false
+Karen Lane Group Home|Monarch|NC|1.00|1.00|11.00|19083.00|561326126|'Monarch Consulting Services'|monarch|false
+Kimberly Road Group Home|Monarch|NC|1.00|1.00|8.00|16956.00|561326126|'Monarch Consulting Services'|monarch|false
+Lafayette Group Home|Monarch|NC|1.00|1.00|9.00|9989.00|561326126|'Monarch Consulting Services'|monarch|false
+Lake Monroe Group Home|Monarch|NC|1.00|1.00|5.00|5860.00|561326126|'Monarch Consulting Services'|monarch|false
+Lighthouse Club of Currituck|Monarch|NC|1.00|1.00|3.00|4578.00|561326126|'Monarch Consulting Services'|monarch|false
+Lillian Mill Administration Office|Monarch|NC|1.00|2.00|179.00|363157.00|561326126|'Monarch Consulting Services'|monarch|false
+Mainstream Group Home|Monarch|NC|1.00|1.00|7.00|14066.00|561326126|'Monarch Consulting Services'|monarch|false
+Mallard Lane Group Home|Monarch|NC|1.00|1.00|13.00|23408.00|561326126|'Monarch Consulting Services'|monarch|false
+McAlway Road Group Home|Monarch|NC|1.00|1.00|5.00|6839.00|561326126|'Monarch Consulting Services'|monarch|false
+McArthur Apartments|Monarch|NC|1.00|1.00|2.00|2228.00|561326126|'Monarch Consulting Services'|monarch|false
+Meadowview Group Home|Monarch|NC|1.00|1.00|9.00|10191.00|561326126|'Monarch Consulting Services'|monarch|false
+Middleton Street Group Home|Monarch|NC|1.00|1.00|1.00|1526.00|561326126|'Monarch Consulting Services'|monarch|false
+Monarch Behavioral Health Urgent Care|Monarch|NC|1.00|1.00|10.00|20755.00|561326126|'Monarch Consulting Services'|monarch|false
+Montgomery Adult Group Home|Monarch|NC|1.00|1.00|6.00|8131.00|561326126|'Monarch Consulting Services'|monarch|false
+Montgomery Community Living Skills|Monarch|NC|1.00|1.00|6.00|6481.00|561326126|'Monarch Consulting Services'|monarch|false
+Moss I Group Home|Monarch|NC|1.00|1.00|14.00|19392.00|561326126|'Monarch Consulting Services'|monarch|false
+Moss II Group Home|Monarch|NC|1.00|1.00|16.00|21147.00|561326126|'Monarch Consulting Services'|monarch|false
+Mt. Gilead Children's Home|Monarch|NC|1.00|1.00|11.00|16389.00|561326126|'Monarch Consulting Services'|monarch|false
+Myrtlewood Group Home|Monarch|NC|1.00|1.00|12.00|26428.00|561326126|'Monarch Consulting Services'|monarch|false
+New Horizon Enterprises|Monarch|NC|1.00|1.00|10.00|12204.00|561326126|'Monarch Consulting Services'|monarch|false
+New View Apartments|Monarch|NC|1.00|1.00|2.00|3793.00|561326126|'Monarch Consulting Services'|monarch|false
+Newport Group Home|Monarch|NC|1.00|1.00|2.00|4338.00|561326126|'Monarch Consulting Services'|monarch|false
+North 7th Street Group Home|Monarch|NC|1.00|1.00|5.00|10471.00|561326126|'Monarch Consulting Services'|monarch|false
+North Hillside Apartments|Monarch|NC|1.00|1.00|1.00|761.00|561326126|'Monarch Consulting Services'|monarch|false
+North Willow Street Group Home|Monarch|NC|1.00|1.00|1.00|1718.00|561326126|'Monarch Consulting Services'|monarch|false
+Oak Drive Group Home|Monarch|NC|1.00|1.00|3.00|4953.00|561326126|'Monarch Consulting Services'|monarch|false
+Pamlico County Group Home|Monarch|NC|1.00|1.00|3.00|5868.00|561326126|'Monarch Consulting Services'|monarch|false
+Parkland Group Home|Monarch|NC|1.00|1.00|5.00|8206.00|561326126|'Monarch Consulting Services'|monarch|false
+Pence Place Group Home|Monarch|NC|1.00|2.00|30.00|38790.00|561326126|'Monarch Consulting Services'|monarch|false
+Pennsylvania Avenue Group Home|Monarch|NC|1.00|1.00|5.00|10502.00|561326126|'Monarch Consulting Services'|monarch|false
+Pilotview Group Home|Monarch|NC|1.00|1.00|10.00|12217.00|561326126|'Monarch Consulting Services'|monarch|false
+Pineview Group Home|Monarch|NC|1.00|1.00|10.00|18712.00|561326126|'Monarch Consulting Services'|monarch|false
+Plant Street Group Home|Monarch|NC|1.00|1.00|6.00|10293.00|561326126|'Monarch Consulting Services'|monarch|false
+Richmond Adult Group Home|Monarch|NC|1.00|1.00|4.00|6356.00|561326126|'Monarch Consulting Services'|monarch|false
+Richmond Psychosocial Rehabilitation|Monarch|NC|1.00|1.00|6.00|5172.00|561326126|'Monarch Consulting Services'|monarch|false
+Ridgefield Group Home|Monarch|NC|1.00|1.00|13.00|22086.00|561326126|'Monarch Consulting Services'|monarch|false
+River City Achievement Center-Pasquotank|Monarch|NC|1.00|2.00|27.00|26871.00|561326126|'Monarch Consulting Services'|monarch|false
+Rockingham Administration|Monarch|NC|1.00|1.00|1.00|2112.00|561326126|'Monarch Consulting Services'|monarch|false
+Salisbury Ridge Road|Monarch|NC|1.00|1.00|10.00|10907.00|561326126|'Monarch Consulting Services'|monarch|false
+Schooner Shores Group Home|Monarch|NC|1.00|1.00|5.00|9503.00|561326126|'Monarch Consulting Services'|monarch|false
+Seawell Street Group Home|Monarch|NC|1.00|1.00|4.00|6937.00|561326126|'Monarch Consulting Services'|monarch|false
+Second Street Group Home|Monarch|NC|1.00|1.00|12.00|16218.00|561326126|'Monarch Consulting Services'|monarch|false
+SECU Youth Crisis Center|Monarch|NC|1.00|2.00|45.00|50212.00|561326126|'Monarch Consulting Services'|monarch|false
+Simbelyn Group Home|Monarch|NC|1.00|1.00|7.00|7521.00|561326126|'Monarch Consulting Services'|monarch|false
+Southgate Group Home|Monarch|NC|1.00|1.00|13.00|17264.00|561326126|'Monarch Consulting Services'|monarch|false
+Southridge Road Group Home|Monarch|NC|1.00|1.00|11.00|18364.00|561326126|'Monarch Consulting Services'|monarch|false
+Spencer's Place Group Home|Monarch|NC|1.00|1.00|5.00|6805.00|561326126|'Monarch Consulting Services'|monarch|false
+Stanly Industrial Services|Monarch|NC|1.00|2.00|24.00|36383.00|561326126|'Monarch Consulting Services'|monarch|false
+Stokes Opportunity Center|Monarch|NC|1.00|1.00|2.00|1415.00|561326126|'Monarch Consulting Services'|monarch|false
+Studio 651|Monarch|NC|1.00|2.00|95.00|190777.00|561326126|'Monarch Consulting Services'|monarch|false
+Tanglewood Arbor|Monarch|NC|1.00|2.00|32.00|43626.00|561326126|'Monarch Consulting Services'|monarch|false
+The Oaks Group Home|Monarch|NC|1.00|1.00|4.00|7342.00|561326126|'Monarch Consulting Services'|monarch|false
+Tri-City Group Home|Monarch|NC|1.00|1.00|6.00|11904.00|561326126|'Monarch Consulting Services'|monarch|false
+Troy Road Group Home|Monarch|NC|1.00|1.00|5.00|6436.00|561326126|'Monarch Consulting Services'|monarch|false
+Valleyview Group Home|Monarch|NC|1.00|1.00|6.00|7702.00|561326126|'Monarch Consulting Services'|monarch|false
+Vanceboro Group Home|Monarch|NC|1.00|1.00|6.00|11330.00|561326126|'Monarch Consulting Services'|monarch|false
+Vocational Opportunities in the Community|Monarch|NC|1.00|1.00|8.00|11244.00|561326126|'Monarch Consulting Services'|monarch|false
+Vocational Options of Hoke County|Monarch|NC|1.00|2.00|21.00|25161.00|561326126|'Monarch Consulting Services'|monarch|false
+Walnut Cove Apartments|Monarch|NC|1.00|1.00|1.00|1255.00|561326126|'Monarch Consulting Services'|monarch|false
+Wayfarer Apartments|Monarch|NC|1.00|1.00|1.00|2040.00|561326126|'Monarch Consulting Services'|monarch|false
+Wayfarer Court Group Home|Monarch|NC|1.00|1.00|7.00|14983.00|561326126|'Monarch Consulting Services'|monarch|false
+West Blanche Street Group Home|Monarch|NC|1.00|1.00|4.00|7418.00|561326126|'Monarch Consulting Services'|monarch|false
+Windemere Group Home|Monarch|NC|1.00|1.00|5.00|9452.00|561326126|'Monarch Consulting Services'|monarch|false
+Wiregrass Apartments|Monarch|NC|1.00|1.00|1.00|2160.00|561326126|'Monarch Consulting Services'|monarch|false
+Mt. Vernon|Owens Corning|OH|1.00|2.00|40.00|109332.00|371525228|'Owens Corning'|owens corning|false
+Crescent Manufacturing|Crescent Manufacturing|NY|1.00|2.00|155.00|284775.00|222998620|'Crescent Construction Services'|crescent|false
+Advanced Roofing Inc - South Florida|Advanced Roofing|FL|1.00|3.00|322.00|581654.00||'Advanced Roofing Inc.', 'Advanced Roofing Services Inc.', 'Advanced Roofing Systems Inc.', 'Advanced Roofing Systems Ltd.'|advanced roofing|true
+South Florida|Advanced Roofing|FL|1.00|3.00|322.00|581654.00||'Advanced Roofing Inc.', 'Advanced Roofing Services Inc.', 'Advanced Roofing Systems Inc.', 'Advanced Roofing Systems Ltd.'|advanced roofing|true
+Tampa|Advanced Roofing|FL|1.00|2.00|65.00|137439.00||'Advanced Roofing Inc.', 'Advanced Roofing Services Inc.', 'Advanced Roofing Systems Inc.', 'Advanced Roofing Systems Ltd.'|advanced roofing|true
+West Palm Beach|Advanced Roofing|FL|1.00|2.00|18.00|44736.00||'Advanced Roofing Inc.', 'Advanced Roofing Services Inc.', 'Advanced Roofing Systems Inc.', 'Advanced Roofing Systems Ltd.'|advanced roofing|true
+Sanford|Advanced Roofing|FL|1.00|2.00|57.00|109939.00||'Advanced Roofing Inc.', 'Advanced Roofing Services Inc.', 'Advanced Roofing Systems Inc.', 'Advanced Roofing Systems Ltd.'|advanced roofing|true
+Haeber Roofing Company|Haeber Roofing Company|TX|1.00|2.00|38.00|77297.00||'Haeber Roofing'|haeber roofing|false
+Alliance Roofing Holdings Inc|Alliance Roofing|CO|1.00|2.00|18.00|40233.00|853598851|'Alliance Roofing', 'Alliance Roofing, LLC'|alliance roofing|true
+C.O. Beck & Sons|C.O. Beck & Sons|ME|1.00|2.00|20.00|37000.00|010246859|'C.O. Beck & Sons Inc.'|c.o. beck & sons|false
+Tremco East 80th|Tremco CPG Inc|OH|1.00|2.00|42.00|87781.00||'Tremco CPG Inc.'|tremco cpg|false
+Tremco Roofing & Building Maintenance-Weatherproofing Tech Inc|Tremco CPG Inc|OH|1.00|3.00|1311.00|2374237.00||'Tremco CPG Inc.'|tremco cpg|false
+Paragon Medical - Indianapolis|MW Industries|IN|1.00|2.00|78.00|133373.00|351831457|'MW'|mw|false
+Paragon Medical - Instruments & Implants - Pierceton|MW Industries|IN|1.00|3.00|275.00|444751.00|351831457|'MW'|mw|false
+Tremco Barrier Solutions Inc.|Tremco CPG Inc|OH|1.00|2.00|26.00|36220.00||'Tremco CPG Inc.'|tremco cpg|false
+Texas Roof Management Inc.|Texas Roof Management Inc.|TX|1.00|2.00|65.00|135200.00|752629087|'Texas Roof Management Inc.'|texas roof|false
+Bob Hilson & Company inc.|Bob Hilson & Company inc.|FL|1.00|2.00|43.00|82286.00|591894854|'Bob Hilson & Co. Inc.'|bob hilson &|false
+Paragon Medical - Cases & Trays - Pierceton|MW Industries|IN|1.00|3.00|368.00|503826.00|351831457|'MW'|mw|false
+Paragon Medical - Smithfield|MW Industries|UT|1.00|2.00|193.00|298613.00|351831457|'MW'|mw|false
+MW Life Sciences - Vandalia|MW Industries|OH|1.00|2.00|113.00|188740.00|760806287|'MW'|mw|false
+SiVance LLC|Milliken & Company|FL|1.00|2.00|137.00|271070.00|510105342|'Milliken & Company'|milliken &|false
+TEMA Roofing Services|TEMA Roofing Services|OH|1.00|2.00|35.00|60679.00||'TEMA Roofing Services LLC'|tema roofing|false
+Farrell Roofing, Inc|Farrell Roofing, Inc|DE|1.00|2.00|30.00|2874150.00|208890407|'Farrell Roofing', 'Farrell Roofing Inc.'|farrell roofing|true
+Henson Robinson Company|Henson Robinson Company|IL|1.00|2.00|170.00|327989.00|370680340|'Henson Robinson Co.'|henson robinson|false
+Advanced Roof Design, Inc.|Advanced Roof Design, Inc.|CA|1.00|2.00|23.00|44520.00|470858695|'Advanced Roof Design Inc.'|advanced roof design|false
+Tecta America Sacramento, Inc.|Tecta America Sacramento, Inc.|CA|1.00|2.00|45.00|87889.00|202970607|'Tecta America Sacramento Inc.'|tecta america sacramento|false
+Aiken Plant|Owens Corning|SC|1.00|2.00|181.00|447120.00|454533190|'Owens Corning'|owens corning|false
+Office|The Fania Company|NJ|1.00|2.00|33.00|59741.00|221501476|'The Fania Co.'|the fania|false
+Scott Construction Inc.|Scott Construction Inc.|WI|1.00|2.00|98.00|235199.00|390979191|'Scott Enterprises Inc.'|scott|false
+Leading Builders Group LLC (Master)|AECOM|NY|1.00|2.00|150.00|298768.00||'AECOM'|aecom|false
+Hale Construction|Hale Construction|CA|1.00|2.00|110.00|220000.00|813372946|'Hale Associates LLC'|hale|false
+GSM Roofing|GSM Roofing|PA|1.00|2.00|109.00|231257.00|232553249|'GSM Roofing'|gsm roofing|false
+BEST Contracting Services Inc|BEST Contracting Services Inc|CA|1.00|3.00|592.00|1138584.00|953781209|'BEST Contracting Services Inc.'|best contracting|false
+Cox Roofing|Cox Roofing|MO|1.00|2.00|34.00|58442.00||'Cox Roofing'|cox roofing|false
+Johnson's Roofing Service Inc|Johnson's Roofing Service Inc|SC|1.00|2.00|93.00|221910.00|561458196|'Johnson's Roofing Service Inc.'|johnson's roofing service|false
+Guy Roofing Inc.|Guy Roofing Inc.|SC|1.00|2.00|131.00|295310.00|208994230|'Guy Roofing Inc.'|guy roofing|false
+Hillside 1|Dynamic Manufacturing|IL|1.00|3.00|388.00|821469.00|363989759|'Dynamic National'|dynamic|false
+Hillside 2|Dynamic Manufacturing|IL|1.00|3.00|247.00|506331.00|363989759|'Dynamic National'|dynamic|false
+Superior Roofing|Superior Roofing Services Inc|IN|1.00|2.00|48.00|69899.00||'Superior Roofing Inc.', 'Superior Roofing LLC', 'Superior Roofing Services Inc.', 'Superior Roofing Systems Inc.'|superior roofing|true
+Tecta America West Florida LLC|Tecta America West Florida LLC|FL|1.00|2.00|20.00|36536.00|841505685|'Tecta America West Florida LLC'|tecta america west florida|false
+500-NBH-STEEL CENTER|N.B. HANDY COMPANY|VA|1.00|1.00|18.00|33254.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+040-NBH-ROANOKE|N.B. HANDY COMPANY|VA|1.00|2.00|21.00|34143.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+050-NBH-RICHMOND|N.B. HANDY COMPANY|VA|1.00|2.00|25.00|40672.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+030-NBH-RALEIGH|N.B. HANDY COMPANY|NC|1.00|2.00|26.00|40775.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+070-NBH-NORFOLK|N.B. HANDY COMPANY|VA|1.00|1.00|17.00|26668.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+160-NBH-MACHINERY|N.B. HANDY COMPANY|VA|1.00|1.00|8.00|13516.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+020-NBH-LYNCHBURG|N.B. HANDY COMPANY|VA|1.00|1.00|6.00|8585.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+090-NBH-HANOVER|N.B. HANDY COMPANY|MD|1.00|2.00|23.00|37915.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+110-NBH-GREENVILLE|N.B. HANDY COMPANY|SC|1.00|1.00|18.00|29420.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+060-NBH-GREENSBORO|N.B. HANDY COMPANY|NC|1.00|2.00|20.00|29266.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+190-NBH-DAVENPORT|N.B. HANDY COMPANY|FL|1.00|1.00|10.00|20758.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+010-NBH-CORPORATE|N.B. HANDY COMPANY|VA|1.00|2.00|64.00|102224.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+150-NBH-COLUMBIA|N.B. HANDY COMPANY|SC|1.00|1.00|10.00|14134.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+080-NBH-CHARLOTTE|N.B. HANDY COMPANY|NC|1.00|2.00|32.00|50205.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+210-NBH-CHARLESTON|N.B. HANDY COMPANY|SC|1.00|1.00|13.00|19181.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+140-NBH-BALTIMORE|N.B. HANDY COMPANY|MD|1.00|1.00|5.00|7063.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+120-NBH-ATLANTA|N.B. HANDY COMPANY|GA|1.00|2.00|25.00|38721.00|540238570|'N.B. Handy Co.'|n.b. handy|false
+CMR CONSTRUCTION & ROOFING, LLC|CMR CONSTRUCTION & ROOFING, LLC|FL|1.00|2.00|112.00|126404.00|710873844|'CMR Construction & Roofing'|cmr construction & roofing|false
+KAM ROOFING SERVICES LLC|KAM ROOFING SERVICES LLC|FL|1.00|2.00|17.00|33558.00|833997083|'KAM Roofing Services'|kam roofing|false
+MODERN ROOFING, INC.|MODERN ROOFING, INC.|CA|1.00|2.00|20.00|33946.00|161648929|'Modern Roofing Inc.', 'Modern Roofing LLC'|modern roofing|true
+Tecta America - Austin LLC|Tecta America Austin LLC|TX|1.00|2.00|39.00|86738.00||'Tecta America Austin LLC'|tecta america austin|false
+CertainTeed, LLC|CertainTeed, LLC|PA|1.00|2.00|27.00|36817.00||'CertainTeed LLC'|certainteed|false
+Roof Tech|Roof Tech, Inc.|MN|1.00|2.00|36.00|47077.00|411738553|'Roof Tech Inc.'|roof tech|false
+AOC Tennessee Colorants|Alpha Corporation|TN|1.00|2.00|42.00|81434.00|621576207|'Alpha Construction Services'|alpha|false
+Scalo Inc.|Scalo Inc.|PA|1.00|2.00|32.00|64657.00|232885490|'Scalo Incorporated'|scalo|false
+Peterson Construction Co.|Peterson Construction Co.|OH|1.00|2.00|35.00|68986.00||'Peterson Consulting Group'|peterson|false
+Owens Corning|Owens Corning|OH|1.00|2.00|65.00|133282.00|351575937|'Owens Corning'|owens corning|false
+Deer Park Roofing Louisville|Deer Park Roofing|KY|1.00|2.00|39.00|91260.00|311803193|'Deer Park Roofing, LLC'|deer park roofing|false
+Premier Services|Premier Services|TX|1.00|2.00|24.00|39029.00|204499270|'Premier Enterprises'|premier|false
+Sheet Metal|Metal Alliance, Inc.|PA|1.00|2.00|21.00|37637.00|232749020|'Metal Alliance, Inc.'|metal alliance|false
+Roofing|Grace Roofing & Sheet Metal Enterprise|FL|1.00|2.00|30.00|59239.00|263981778|'Grace Roofing & Sheet Metal Enterprise'|grace roofing & sheet metal enterprise|false
+Nations Roof of IL|Nations Roof|IL|1.00|2.00|42.00|69463.00||'Nations Roof', 'Nations Roof LLC'|nations roof|true
+Main Office|Versacon, Inc.|MN|1.00|2.00|24.00|53750.00|800181826|'VersaCon LLC'|versacon|false
+Paramount Roofing, Inc|Paramount Roofing, Inc|NY|1.00|2.00|25.00|45059.00|262459527|'Paramount Roofing Inc.', 'Paramount Roofing LLC'|paramount roofing|true
+Four Seasons Kanga Roof|Four Seasons Kanga Roof|MI|1.00|2.00|45.00|41702.00|371532159|'Four Seasons Kanga Roof'|four seasons kanga roof|false
+Tishman Construction Corporation|AECOM|NY|1.00|3.00|1245.00|2311850.00||'AECOM'|aecom|false
+Empire Roofing Companies Inc|Empire Roofing Companies Inc|TX|1.00|2.00|189.00|422926.00|752759310|'Empire Roofing Companies, Inc.'|empire roofing companies|false
+Empire Roofing Company of Georgia Inc|Empire Roofing Company of Georgia Inc|GA|1.00|2.00|64.00|106522.00|271811195|'Empire Roofing Company of Georgia, Inc.'|empire roofing company of georgia|false
+Empire Roofing Company Southeast LLC|Empire Roofing Company Southeast LLC|FL|1.00|2.00|76.00|166786.00|261887467|'Empire Roofing Company Southeast, LLC'|empire roofing company southeast|false
+Empire Roofing of Oklahoma Inc|Empire Roofing of Oklahoma Inc|OK|1.00|2.00|40.00|81112.00|464038268|'Empire Roofing of Oklahoma, Inc.'|empire roofing of oklahoma|false
+AECOM: CS Federal|AECOM|VA|1.00|2.00|85.00|270982.00||'AECOM'|aecom|false
+Hunt Construction Group|AECOM|IN|1.00|3.00|895.00|1720011.00||'AECOM'|aecom|false
+JHS Restoration|JHS Restoration Inc|CT|1.00|1.00|20.00|30946.00|272097915|'JHS Restoration Inc.'|jhs restoration|false
+Empire Roofing Inc.|Empire Roofing Inc.|TX|1.00|3.00|253.00|486404.00|751828325|'Empire Roofing Corp.', 'Empire Roofing Inc.', 'Empire Roofing LLC', 'Empire Roofing Solutions', 'Empire Roofing Systems Inc.', 'Empire Roofing, Inc.'|empire roofing|true
+Russell Roofing Inc.|Russell Roofing Inc.|PA|1.00|2.00|37.00|57845.00|232680214|'Russell Roofing Co. Inc.'|russell roofing|false
+Owens Corning|Owens Corning|MO|1.00|2.00|190.00|393170.00|250729265|'Owens Corning'|owens corning|false
+Roofs, Inc.|Roofs, Inc.|IL|1.00|2.00|21.00|42000.00|362874756|'Roofs Inc.'|roofs|false
+The Waterview Pines|Monarch|MN|1.00|2.00|98.00|168624.00|834668221|'Monarch Consulting Services'|monarch|false
+Best Roofing Services, LLC|Best Roofing|FL|1.00|3.00|267.00|711229.00||'Best Roofing Company'|best roofing|false
+Nation Roof Residential|Nations Roof LLC|FL|1.00|2.00|126.00|197826.00|815280112|'Nations Roof', 'Nations Roof LLC'|nations roof|true
+Axiom Division 7|Axiom Division 7|WA|1.00|2.00|141.00|293917.00|261489962|'Axiom Division 7 Inc.'|axiom division 7|false
+McKinnis Inc.|McKinnis Inc.|NE|1.00|2.00|80.00|154649.00|470752353|'McKinnis Inc.'|mckinnis|false
+Maintenance Inc.|Maintenance Inc.|TX|1.00|1.00|12.00|24960.00||'Maintenance Management Inc.'|maintenance|false
+Campany Roof Maintenance|Campany Roof Maintenance|FL|1.00|2.00|43.00|100888.00|270278579|'Campany Roof Maintenance LLC'|campany roof maintenance|false
+ARS, a Tecta America Company, LLC|ARS, a Tecta America Company, LLC|SD|1.00|2.00|55.00|106429.00|841505685|'ARS, A Tecta America Company'|ars, a tecta america|false
+Excel Services Inc|Excel Services Inc.|KY|1.00|2.00|120.00|242437.00|204339280|'Excel Construction Group'|excel|false
+Aquatica (APC)|SEA|CA|1.00|3.00|212.00|171956.00|132873726|'SEA, Ltd.'|sea|false
+Anthony Roofing Tecta America, LLC|Anthony Roofing Tecta America, LLC|IL|1.00|2.00|82.00|88800.00|362699848|'Anthony Roofing Tecta America LLC'|anthony roofing tecta america|false
+Spring Sheet Metal & Roofing LLC|Spring Sheet Metal & Roofing, LLC|NY|1.00|2.00|38.00|67064.00|814111885|'Spring Sheet Metal & Roofing, LLC'|spring sheet metal & roofing|false
+Nations Roof Southern Florida|Nations Roof LLC|FL|1.00|2.00|71.00|100581.00|475327013|'Nations Roof', 'Nations Roof LLC'|nations roof|true
+Pioneer Roofing|Pioneer Roofing Co|AZ|1.00|2.00|34.00|62789.00|861037548|'Pioneer Roofing Co.', 'Pioneer Roofing Company', 'Pioneer Roofing Systems Inc.'|pioneer roofing|true
+Black Hawk Roof Company|Black Hawk Roof Co.|IA|1.00|2.00|53.00|137200.00|421405570|'Black Hawk Roof Co. Inc.'|black hawk roof|false
+Commercial Roofing|Commercial Roofing A Tecta America Company|WI|1.00|2.00|20.00|28438.00|842696369|'Commercial Roofing a Tecta America Company LLC'|commercial roofing a tecta america|false
+Fairburn Plant|Owens Corning|GA|1.00|2.00|240.00|527162.00||'Owens Corning'|owens corning|false
+Siplast Modified Bitumen Roll Roofing Facility|Siplast, Inc.|AR|1.00|2.00|69.00|157158.00|742025584|'Siplast'|siplast|false
+The Bri-Den Co.|The Bri-Den Co.|KY|1.00|2.00|33.00|51708.00|825212554|'The Bri-Den Co. Inc.'|the bri-den|false
+N.F. Mansuetto & Sons, Inc.|N.F. Mansuetto & Sons, Inc.|OH|1.00|2.00|80.00|123036.00||'N.F. Mansuetto & Sons Inc.'|n.f. mansuetto & sons|false
+Siplast Liquid Resin Facility|Siplast|AR|1.00|1.00|13.00|25883.00|742025584|'Siplast'|siplast|false
+Rite-Way Roof Corporation|Rite-Way Roof Corporation|CA|1.00|2.00|30.00|41245.00|330978921|'Rite-Way Roof Corporation'|rite-way roof|false
+Business Interiors|Facilitech, Inc.|TX|1.00|2.00|108.00|210247.00|752253859|'Facilitech Construction Group'|facilitech|false
+Center for Organ Recovery and Education|CORE|PA|1.00|2.00|161.00|154595.00|251332885|'Core Consulting Group Inc.', 'Core Contractors Inc.'|core|true
+Atlanta|Allied Management Inc|GA|1.00|2.00|30.00|58818.00|301007753|'Allied Construction Services'|allied|false
+BBB|Allied Management Inc|TX|1.00|2.00|40.00|89362.00|301007753|'Allied Construction Services'|allied|false
+Denver|Allied Management Inc|CO|1.00|1.00|15.00|20197.00|301007753|'Allied Construction Services'|allied|false
+FB1|Allied Management Inc|TX|1.00|2.00|30.00|67436.00|301007753|'Allied Construction Services'|allied|false
+Fort Mill|Allied Management Inc|SC|1.00|1.00|12.00|19333.00|301007753|'Allied Construction Services'|allied|false
+Mira Loma|Allied Management Inc|CA|1.00|1.00|18.00|32113.00|301007753|'Allied Construction Services'|allied|false
+Mykawa|Allied Management Inc|TX|1.00|2.00|300.00|392731.00|301007753|'Allied Construction Services'|allied|false
+Ohio|Allied Management Inc|OH|1.00|2.00|40.00|55626.00|301007753|'Allied Construction Services'|allied|false
+Ridgefield|Allied Management Inc|WA|1.00|1.00|13.00|22851.00|301007753|'Allied Construction Services'|allied|false
+Dayton|Allied Management Inc|NJ|1.00|2.00|10.00|16903.00|301007753|'Allied Construction Services'|allied|false
+StLouis|Allied Management Inc|MO|1.00|1.00|6.00|16308.00|301007753|'Allied Construction Services'|allied|false
+Warren Valve|Allied Management Inc|TX|1.00|2.00|100.00|154685.00|301007753|'Allied Construction Services'|allied|false
+Mykawa6666|Allied Management Inc|TX|1.00|1.00|10.00|20894.00|301007753|'Allied Construction Services'|allied|false
+Allied Pipe HOU|Allied Management Inc|TX|1.00|1.00|15.00|31084.00|301007753|'Allied Construction Services'|allied|false
+Allied Pipe Ill|Allied Management Inc|IL|1.00|1.00|10.00|10478.00|301007753|'Allied Construction Services'|allied|false
+Mid State Roofing Inc|Mid State Roofing Inc|SC|1.00|2.00|24.00|46429.00|202017040|'Mid State Roofing Inc.'|mid state roofing|false
+El Paso|Protech Roofing, LLC|TX|1.00|2.00|54.00|104105.00|274452657|'Protech Roofing LLC', 'PROTECH Roofing Solutions'|protech roofing|true
+Tecta America Colorado|Tecta America Colorado LLC|CO|1.00|2.00|73.00|138259.00|202909369|'Tecta America Colorado LLC'|tecta america colorado|false
+General Coatings Corp|General Coatings Corp|CA|1.00|3.00|333.00|610223.00|330259909|'General Coatings Manufacturing Corp.'|general coatings|false
+The Roofing Company Inc|The Roofing Company Inc|CA|1.00|2.00|15.00|15185.00|383817059|'The Roofing Company Inc.'|the roofing|false
+Interstate Ventures|Interstate Ventures|TN|1.00|2.00|36.00|48735.00|943422031|'Interstate Corp.'|interstate|false
+KPost Roofing and Waterproofing|KPost Company|TX|1.00|3.00|388.00|794312.00|270073666|'KPost Company'|kpost|false
+Willow Lake|Corporate|MN|1.00|3.00|453.00|900576.00|410268370|'Corporate Contractors Inc.'|corporate|false
+Peach State Roofing Lawrenceville|Peach State Roofing, Inc.|GA|1.00|2.00|54.00|96974.00|581920786|'Peach State Roofing Inc.'|peach state roofing|false
+Associated Roofing Professionals, LLC|Associated Roofing Professionals, LLC|IN|1.00|2.00|33.00|47699.00|351844713|'Associated Roofing Professionals Inc.'|associated roofing professionals|false
+Buck Roofing & Construction LLC|Buck Roofing & Construction LLC|KS|1.00|2.00|46.00|97852.00|431926624|'Buck Roofing & Construction LLC'|buck roofing &|false
+All American Roofing, Inc|All American Exterior Solutions|IL|1.00|2.00|11.00|9565.00|363422277|'All American Exterior Solutions'|all american exterior|false
+JB Roofing a Tecta America Company LLC|JB Roofing a Tecta America Company LLC|OH|1.00|2.00|87.00|153369.00|814397282|'JB Roofing a Tecta America Company LLC'|jb roofing a tecta america|false
+Professional Group Management Inc.|Professional Group Management Inc|FL|1.00|2.00|28.00|82759.00|650840982|'Professional Construction Services Inc.'|professional|false
+Elmer W. Davis, Inc|Elmer W. Davis, Inc|NY|1.00|3.00|250.00|280350.00||'Elmer W. Davis Inc.'|elmer w. davis|false
+Crawford Roofing Experts|Crawford Roofing Experts|IL|1.00|1.00|20.00|38714.00|320359884|'Crawford Roofing Experts LLC'|crawford roofing experts|false
+J.D. Miles & Sons Inc.|J.D. Miles & Sons Inc|VA|1.00|2.00|24.00|42639.00|540623631|'J.D. Miles & Sons Inc.'|j.d. miles & sons|false
+Roser Technologies Inc.|Roser Technologies Inc.|PA|1.00|2.00|150.00|291243.00||'Roser Co. Ltd.'|roser|false
+Brox Industries Inc - Contracting|Brox Industries Inc,|MA|1.00|2.00|136.00|208066.00|042772247|'Brox Industries LLC'|brox|false
+Brox Industries Inc. - Materials|Brox Industries Inc.|MA|1.00|2.00|41.00|82512.00|042772247|'Brox Industries LLC'|brox|false
+Browning Chapman, LLC|Browning Chapman, LLC|IN|1.00|2.00|124.00|259259.00|461327461|'Browning Chapman, LLC'|browning chapman|false
+Apollo Roofing and Sheet Metal|Greenwood Industries|RI|1.00|2.00|24.00|49357.00|821688474|'Greenwood Industries Inc.'|greenwood|false
+Greenwood Industries|Greenwood Industries|MA|1.00|3.00|209.00|438064.00|043165907|'Greenwood Industries Inc.'|greenwood|false
+Greenwood Industries CT|Greenwood Industries|CT|1.00|2.00|63.00|133013.00|043165907|'Greenwood Industries Inc.'|greenwood|false
+Monahan & Loughlin|Greenwood Industries|NY|1.00|2.00|40.00|84223.00|834328471|'Greenwood Industries Inc.'|greenwood|false
+Legacy roofing Services LLC|Legacy Roofing Services LLC|OH|1.00|2.00|150.00|277717.00|842210872|'Legacy Roofing', 'Legacy Roofing LLC'|legacy roofing|true
+Alpha Systems LLC|Alpha systems LLC|IN|1.00|3.00|549.00|1105724.00|261393320|'Alpha Construction Services'|alpha|false
+Englert, Inc.|Englert, Inc.|NJ|1.00|2.00|180.00|586614.00|221846809|'Englert Inc.'|englert|false
+Great Lakes Management GTHI Talamore Sun Prairie|Great Lakes Management|WI|1.00|2.00|29.00|17162.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Amira Choice Bloomington|Great Lakes Management|MN|1.00|2.00|35.00|32142.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI NorBella Prior Lake|Great Lakes Management|MN|1.00|2.00|20.00|16922.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Hayden Grove|Great Lakes Management|MN|1.00|2.00|35.00|27917.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI The Glenn Minnetonka|Great Lakes Management|MN|1.00|2.00|77.00|108258.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood  Buffalo AL|Great Lakes Management|MN|1.00|2.00|49.00|63100.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood  Buffalo MC|Great Lakes Management|MN|1.00|2.00|50.00|65126.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI The Glenn Hopkins Terraces|Great Lakes Management|MN|1.00|2.00|98.00|109854.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood Rochester|Great Lakes Management|MN|1.00|2.00|204.00|306259.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Comfort Residence Blaine|Great Lakes Management|MN|1.00|2.00|39.00|30457.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Seven Hills Senior Living|Great Lakes Management|MN|1.00|2.00|45.00|36737.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Talamore St. Cloud|Great Lakes Management|MN|1.00|2.00|72.00|43265.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Comfort Residence St. Louis Park|Great Lakes Management|MN|1.00|2.00|27.00|34594.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Comfort Residence Le Sueur|Great Lakes Management|MN|1.00|2.00|32.00|33186.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management Laurel Village|Great Lakes Management|MN|1.00|2.00|20.00|42133.00|411614587|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management Corporate|Great Lakes Management|MN|1.00|2.00|33.00|74811.00|411614587|'Great Lakes Systems Inc.'|great lakes|false
+Great Lakes Management GTHI Cottagewood  Mankato|Great Lakes Management|MN|1.00|2.00|39.00|35279.00|203937802|'Great Lakes Systems Inc.'|great lakes|false
+Nations Roof of Carolina, LLC|Nations Roof of Carolina|NC|1.00|2.00|28.00|58188.00|205757234|'Nations Roof of Carolina'|nations roof of carolina|false
+Merit Contracting|Merit Contracting|MN|1.00|2.00|68.00|111565.00|411426936|'Merit Contracting Inc.'|merit contracting|false
+Roofers Edge INC.|Progressive Roofing|PA|1.00|1.00|19.00|13950.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Columbus Roofing & Sheetmetal|Progressive Roofing|OH|1.00|2.00|42.00|35206.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Classic Roofing|Classic Roofing|AZ|1.00|2.00|49.00|108360.00|860345657|'Classic Roofing LLC'|classic roofing|false
+Draper Progressive|Progressive Roofing|UT|1.00|1.00|11.00|25760.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Knoxville Progressive|Progressive Roofing|TN|1.00|1.00|2.00|15609.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+South California Service - Progressive|Progressive Roofing|CA|1.00|1.00|7.00|12891.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Seattle Progressive|Progressive Roofing|WA|1.00|1.00|4.00|11142.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Portland Progressive|Progressive Roofing|OR|1.00|2.00|10.00|23494.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Missoula Progressive|Progressive Roofing|MT|1.00|2.00|12.00|29075.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Maryland Progressive|Progressive Roofing|MD|1.00|1.00|14.00|33700.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+New Orleans Progressive|Progressive Roofing|LA|1.00|2.00|34.00|60188.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Fontana Progressive|Progressive Roofing|CA|1.00|2.00|6.00|25841.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Albuquerque Progressive|Progressive Roofing|NM|1.00|2.00|20.00|43784.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Denver Progressive|Progressive Roofing|CO|1.00|2.00|5.00|9424.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Dallas Progressive|Progressive Roofing|TX|1.00|2.00|56.00|121563.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Flagstaff Progressive|Progressive Roofing|AZ|1.00|2.00|25.00|47065.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Phoenix Progressive|Progressive Roofing|AZ|1.00|3.00|524.00|1202563.00|860345657|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+CRS Doraville|Commercial Roofing Specialties, Inc.|GA|1.00|2.00|80.00|149965.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+CRS College Park|Commercial Roofing Specialties, Inc.|GA|1.00|2.00|29.00|53393.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+CRS Kennesaw|Commercial Roofing Specialties, Inc|GA|1.00|1.00|14.00|28549.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+CRS Chattanooga|Commercial Roofing Specialties, Inc.|TN|1.00|1.00|16.00|27373.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+CRS Savannah|Commercial Roofing Specialties, Inc.|GA|1.00|2.00|23.00|43584.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+CRS Nashville|Commercial Roofing Specialties, Inc.|TN|1.00|1.00|15.00|32300.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+CRS Knoxville|Commercial Roofing Specialties, Inc|TN|1.00|1.00|12.00|24540.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+CRS Jacksonville|Commercial Roofing Specialties, Inc|FL|1.00|2.00|23.00|39121.00|581457202|'Commercial Roofing Specialties Inc.'|commercial roofing specialties|false
+Detwiler Roofing, LLC|Detwiler Roofing, LLC|PA|1.00|2.00|49.00|101920.00|460559033|'Detwiler Roofing LLC'|detwiler roofing|false
+Simpson Unlimited, Inc.|Simpson Unlimited, Inc.|VA|1.00|2.00|109.00|255050.00|541771632|'Simpson Unlimited Inc.', 'Simpson Unlimited, Inc.'|simpson unlimited|true
+Main Office|Dickson Company|WA|1.00|2.00|101.00|169526.00|910779580|'Dickson Contractors Inc.'|dickson|false
+RAS Services, Inc.|RAS Services Inc.|TX|1.00|2.00|246.00|209788.00|870733880|'RAS Systems LLC'|ras|false
+Dynamic National|Dynamic Holdings|FL|1.00|2.00|51.00|86344.00|832750109|'Dynamic National'|dynamic|false
+Bitec Inc|Bitec Inc|AR|1.00|2.00|39.00|90027.00|710640983|'Bitec Inc.'|bitec|false
+Aavid Thermalloy|Boyd Corporation|NH|1.00|2.00|129.00|272487.00||'Boyd Inc.'|boyd|false
+Ann Arbor Hilton Garden Inn|Raymond Management Company|MI|1.00|2.00|25.00|43203.00|262870950|'Raymond Group'|raymond|false
+Northgate Hampton Inn & Suites|Raymond Management Company|TX|1.00|2.00|20.00|41788.00|474119291|'Raymond Group'|raymond|false
+Northgate Hilton Garden Inn|Raymond Management Company|TX|1.00|2.00|33.00|67810.00|474127063|'Raymond Group'|raymond|false
+SpringHill Suites The Woodlands|Raymond Management Company|TX|1.00|2.00|19.00|42616.00|472740275|'Raymond Group'|raymond|false
+Homewood Suites Fort Worth Medical Center|Raymond Management Company|TX|1.00|2.00|21.00|38152.00|472836036|'Raymond Group'|raymond|false
+Fort Worth Downtown Hampton Inn & Suites|Raymond Management Company|TX|1.00|2.00|39.00|82159.00|812714959|'Raymond Group'|raymond|false
+Fort Worth Hilton Garden Inn|Raymond Management Company|TX|1.00|2.00|39.00|82159.00|472863145|'Raymond Group'|raymond|false
+Fargo Home2 Suites|Raymond Management Company|ND|1.00|2.00|27.00|39870.00|472873259|'Raymond Group'|raymond|false
+Fargo Hilton Garden Inn|Raymond Management Company|ND|1.00|2.00|52.00|72358.00|472883748|'Raymond Group'|raymond|false
+Moorhead Courtyard|Raymond Management Company|MN|1.00|2.00|57.00|65624.00|472901917|'Raymond Group'|raymond|false
+Fort Worth Residence Inn|Raymond Management Company|TX|1.00|2.00|12.00|31024.00|851015646|'Raymond Group'|raymond|false
+Mason Hilton Garden Inn|Raymond Management Company|OH|1.00|2.00|26.00|42116.00|843359503|'Raymond Group'|raymond|false
+AC Hotel Liberty|Raymond Management Company|OH|1.00|2.00|30.00|55411.00|464064406|'Raymond Group'|raymond|false
+Chicago North Shore Hampton Inn & Suites|Raymond Management Company|IL|1.00|2.00|31.00|64802.00|452880754|'Raymond Group'|raymond|false
+Rosemont Hampton Inn & Suites|Raymond Management Company|IL|1.00|2.00|23.00|48409.00|474229861|'Raymond Group'|raymond|false
+Boise Hampton Inn & Suites|Raymond Management Company|ID|1.00|2.00|32.00|64578.00|272361884|'Raymond Group'|raymond|false
+Boise Home2 Suites|Raymond Management Company|ID|1.00|1.00|24.00|46507.00|834423287|'Raymond Group'|raymond|false
+Rogers Hampton Inn|Raymond Management Company|AR|1.00|2.00|19.00|37833.00|272361516|'Raymond Group'|raymond|false
+Rogers Homewood Suites|Raymond Management Company|AR|1.00|2.00|20.00|38390.00|272361426|'Raymond Group'|raymond|false
+Ann Arbor Towneplace Suites|Raymond Management Company|MI|1.00|2.00|15.00|29519.00|472825630|'Raymond Group'|raymond|false
+Rochester North Hampton Inn & Suites|Raymond Management Company|MN|1.00|2.00|25.00|39648.00|273705024|'Raymond Group'|raymond|false
+Rogers Residence Inn|Raymond Management Company|AR|1.00|2.00|13.00|27977.00|272361516|'Raymond Group'|raymond|false
+Portland Hampton Inn & Suites|Raymond Management Company|OR|1.00|2.00|27.00|59710.00|812723252|'Raymond Group'|raymond|false
+O'Hare Hilton Garden Inn|Raymond Management Company|IL|1.00|2.00|49.00|93731.00|452880643|'Raymond Group'|raymond|false
+Oklahoma City Hilton Garden Inn|Raymond Management Company|OK|1.00|2.00|52.00|100062.00|272361602|'Raymond Group'|raymond|false
+Oklahoma City Hampton Inn & Suites|Raymond Management Company|OK|1.00|2.00|30.00|52206.00|272361602|'Raymond Group'|raymond|false
+St. Paul SpringHill Suites|Raymond Management Company|MN|1.00|1.00|24.00|58356.00|834405982|'Raymond Group'|raymond|false
+St Paul Hampton Inn & Suites|Raymond Management Company|MN|1.00|1.00|19.00|37657.00|852638729|'Raymond Group'|raymond|false
+Madison Hilton Garden Inn|Raymond Management Company|WI|1.00|1.00|23.00|55661.00|852676044|'Raymond Group'|raymond|false
+Madison SpringHill Suites|Raymond Management Company|WI|1.00|2.00|35.00|55637.00|825053208|'Raymond Group'|raymond|false
+Madison Downtown Hampton Inn & Suites|Raymond Management Company|WI|1.00|2.00|42.00|61678.00|472985777|'Raymond Group'|raymond|false
+Milwaukee Hilton Garden Inn|Raymond Management Company|WI|1.00|2.00|38.00|59545.00|472801498|'Raymond Group'|raymond|false
+Milwaukee Home2|Raymond Management Company|WI|1.00|2.00|22.00|37149.00|474888925|'Raymond Group'|raymond|false
+Liberty Hampton Inn|Raymond Management Company|MO|1.00|2.00|20.00|35404.00|272361665|'Raymond Group'|raymond|false
+Joliet TownePlace Suites|Raymond Management Company|IL|1.00|2.00|23.00|41435.00|472915683|'Raymond Group'|raymond|false
+Liberty TownePlace Suites|Raymond Management Company|MO|1.00|2.00|20.00|35773.00|815441585|'Raymond Group'|raymond|false
+Kansas City Residence Inn|Raymond Management Company|MO|1.00|1.00|21.00|40257.00|852624092|'Raymond Group'|raymond|false
+Overland Park Fairfield Inn & Suites|Raymond Management Company|KS|1.00|1.00|18.00|27995.00|852595610|'Raymond Group'|raymond|false
+Overland Park Residence Inn|Raymond Management Company|KS|1.00|2.00|19.00|30983.00|852574397|'Raymond Group'|raymond|false
+Joliet Home2 Suites|Raymond Management Company|IL|1.00|2.00|25.00|38444.00|813817343|'Raymond Group'|raymond|false
+Raymond Management Company Madison Office|Raymond Management Company|WI|1.00|2.00|59.00|114974.00|391424051|'Raymond Group'|raymond|false
+Forest Park Hampton Inn & Suites|Raymond Management Company|MO|1.00|2.00|26.00|43537.00|272361816|'Raymond Group'|raymond|false
+St Louis Hampton Inn|Raymond Management Company|MO|1.00|2.00|28.00|58150.00|273147179|'Raymond Group'|raymond|false
+Warren Construction & Roofing, Inc|Warren Construction & Roofing, Inc|CA|1.00|2.00|30.00|47422.00|202626621|'Warren Construction & Roofing Inc.'|warren construction & roofing|false
+Sullivan Roofing Inc|Sullivan Roofing|IL|1.00|2.00|72.00|154450.00|364256185|'Sullivan Roofing Inc.'|sullivan roofing|false
+Langer Roofing & Sheet Metal Inc.|Langer Roofing & Sheet Metal Inc.|WI|1.00|2.00|125.00|211204.00|390667560|'Langer Roofing & Sheet Metal Inc.'|langer roofing & sheet metal|false
+The Lawson Roofing Co. Inc.|The Lawson Roofing Co. Inc.|CA|1.00|2.00|135.00|229751.00|942401421|'The Lawson Roofing Co. Inc.'|the lawson roofing|false
+Camino del Sol Funeral Home and Crematory Center|Greenwood Inc|AZ|1.00|1.00|25.00|28405.00|370816080|'Greenwood Industries Inc.'|greenwood|false
+Greenwood Plastics|Greenwood Inc|IL|1.00|2.00|64.00|89791.00|370816080|'Greenwood Industries Inc.'|greenwood|false
+Sunset Funeral Home|Greenwood Inc.|IL|1.00|2.00|24.00|31870.00|370816080|'Greenwood Industries Inc.'|greenwood|false
+Trigard Memorials|Greenwood Inc.|IL|1.00|1.00|17.00|28493.00|370816080|'Greenwood Industries Inc.'|greenwood|false
+ABR Construction Inc.|ABR Construction Inc.|KY|1.00|2.00|129.00|149297.00|610971502|'ABR Construction Inc.'|abr|false
+Thoroughbred Contractors LLC|Thoroughbred Contractors LLC|KY|1.00|2.00|37.00|63623.00|412088912|'Thoroughbred Contractors'|thoroughbred|false
+TruCraft Roofing, LLC|TruCraft Roofing, LLC|OH|1.00|2.00|45.00|108354.00|273250335|'TruCraft Roofing LLC'|trucraft roofing|false
+ALVA ROOFING COMPANY|ALVA ROOFING COMPANY|OK|1.00|2.00|50.00|63871.00||'Alva Roofing Co.'|alva roofing|false
+Legacy Roofing, Inc|Legacy Roofing, Inc.|UT|1.00|2.00|50.00|10400.00|824442952|'Legacy Roofing', 'Legacy Roofing LLC'|legacy roofing|true
+Skyline Roofing, LLC|Skyline Roofing, LLC|NH|1.00|2.00|35.00|28101.00|842129081|'Skyline Roofing Inc.', 'Skyline Roofing Services LLC'|skyline roofing|true
+Thermo King Dallas Convoy Servicing|United Holdings|TX|1.00|2.00|85.00|118825.00|364953426|'United Contractors'|united|false
+Thermo King of Houston|United Holdings|TX|1.00|2.00|60.00|85028.00|562426273|'United Contractors'|united|false
+Thermo King of San Antonio|United Holdings|TX|1.00|2.00|20.00|41069.00|562426273|'United Contractors'|united|false
+UE Manufacturing LLC OKC|United Holdings|OK|1.00|2.00|160.00|226397.00|841585012|'United Contractors'|united|false
+United Engines Little Rock|United Holdings|AR|1.00|2.00|29.00|49867.00|841585010|'United Contractors'|united|false
+United Engines Shreveport|United Holdings|LA|1.00|2.00|22.00|37835.00|841585010|'United Contractors'|united|false
+United Engines Tulsa|United Holdings|OK|1.00|2.00|21.00|40693.00|841585012|'United Contractors'|united|false
+United Holdings|United Holdings|OK|1.00|2.00|41.00|144433.00|270002970|'United Contractors'|united|false
+United Engines|United Holdings|OK|1.00|2.00|57.00|103606.00|841585010|'United Contractors'|united|false
+Precision Manufacturing Group Inc|Precision Manufacturing Group Inc|MI|1.00|2.00|24.00|44275.00|833049373|'Precision Construction Services'|precision|false
+Laraway Roofing, Inc.|Laraway Roofing, Inc.|MN|1.00|1.00|11.00|20013.00|410986127|'Laraway Roofing Inc.'|laraway roofing|false
+Daugherty|Daugherty Construction Inc|OH|1.00|2.00|23.00|40263.00||'Daugherty Construction Inc.'|daugherty|false
+Saukville|JT Rams LLC|WI|1.00|2.00|22.00|39100.00||'JT Rams'|jt rams|false
+JRT Top notch Roofs, LLC|JRT Top Notch Roofs, LLC|WI|1.00|2.00|20.00|25246.00|452933462|'JRT Top Notch Roofs LLC'|jrt top notch roofs|false
+Harbor Roofing and Contracting, Inc. 2020|Harbor Roofing and Contracting, Inc.|MD|1.00|2.00|90.00|120527.00|464705635|'Harbor Roofing and Contracting, Inc.'|harbor roofing and contracting|false
+Matthew Warren Inc.|MW Industries Inc.|NC|1.00|3.00|1851.00|3492474.00|382938499|'MW'|mw|false
+Owens Corning Thermafiber Joplin|Owens Corning|MO|1.00|2.00|120.00|460514.00||'Owens Corning'|owens corning|false
+O'Neal Steel Incorporate_Waterloo|O'Neal Industries|IA|1.00|2.00|23.00|45426.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Birmingham|O'Neal Industries|AL|1.00|2.00|112.00|247617.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Ft. Wayne|O'Neal Industries|IN|1.00|2.00|20.00|43099.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Grand Pairie|O'Neal Industries|TX|1.00|2.00|42.00|90747.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Greensboro|O'Neal Industries|NC|1.00|2.00|32.00|61634.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Jackson|O'Neal Industries|MS|1.00|2.00|22.00|47226.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Jacksonville|O'Neal Industries|FL|1.00|2.00|22.00|44722.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Mobile|O'Neal Industries|AL|1.00|2.00|21.00|42207.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel Incorporated_Shelbyville|O'Neal Industries|IN|1.00|2.00|63.00|129503.00|630196990|'O'Neal Construction'|o'neal|false
+O'Neal Steel, LLC Corporate Office|O'Neal Industries|AL|1.00|2.00|170.00|356761.00|630196990|'O'Neal Construction'|o'neal|false
+Southern Construction Company|Southern Construction Company|MO|1.00|2.00|39.00|63211.00|431237037|'Southern National'|southern|false
+JSR, Inc|JSR, Inc|TX|1.00|2.00|114.00|251853.00|760735639|'JSR Services LLC'|jsr|false
+Weaver Metal & Roofing, Inc.|Weaver Metal & Roofing, Inc.|NY|1.00|2.00|39.00|66526.00|161343726|'Weaver Metal & Roofing Inc.'|weaver metal & roofing|false
+American Roofing & Metal|American Roofing & Metal|KY|1.00|2.00|190.00|332392.00|611092077|'American Roofing & Metal Co. Inc.'|american roofing & metal|false
+Professional Construction Inc.|Professional Construction Inc.|WI|1.00|2.00|27.00|43688.00|201338948|'Professional Construction Services Inc.'|professional|false
+EFI, Inc.|EFI, Inc.|MI|1.00|2.00|81.00|165213.00||'EFI Global Inc'|efi|false
+Progressive Roofing Inc.|Progressive Roofing Inc.|MA|1.00|2.00|13.00|26258.00|043425540|'Progressive Roofing', 'Progressive Roofing Inc.', 'Progressive Roofing Services'|progressive roofing|true
+Wrangler Roofing Inc|Wrangler Roofing Inc|TX|1.00|2.00|21.00|36504.00|273308263|'Wrangler Roofing'|wrangler roofing|false
+Gresham Foamular|Owens Corning|OR|1.00|2.00|43.00|75922.00||'Owens Corning'|owens corning|false
+Owens Corning|Owens Corning|SC|1.00|2.00|42.00|83193.00||'Owens Corning'|owens corning|false
+HAYDON CORPORATION - CA|HAYDON CORPORATION|CA|1.00|2.00|28.00|21600.00|222864690|'Haydon Corporation'|haydon|false
+Haydon Corporation|Haydon Corporation|NJ|1.00|2.00|115.00|140275.00|222864690|'Haydon Corporation'|haydon|false
+Owens Corning - Fresno|Owens Corning|TX|1.00|1.00|3.00|6300.00||'Owens Corning'|owens corning|false
+Continental Tire Mt. Vernon|Continental Tire the Americas llc|IL|1.00|3.00|3600.00|8442824.00||'Continental Tire the Americas LLC.'|continental tire the americas|false
+Corporate Technologies LLC|Corporate Technologies LLC|MN|1.00|2.00|274.00|330478.00|202409337|'Corporate Contractors Inc.'|corporate|false
+MRC Roofing, LLC|MRC Roofing, LLC|HI|1.00|2.00|29.00|57310.00|274488625|'MRC Roofing LLC'|mrc roofing|false
+Anderson Development Company|Anderson Development Company|MI|1.00|2.00|121.00|238631.00||'Anderson Associates'|anderson|false
+Filotto Construction, Inc.|Filotto Roofing|IL|1.00|2.00|30.00|36758.00|363964971|'Filotto Roofing, Inc.'|filotto roofing|false
+Patriot Roofing, Inc.|Patriot Roofing, Inc.|NJ|1.00|2.00|149.00|137236.00|223101723|'Patriot Roofing', 'Patriot Roofing LLC'|patriot roofing|true
+Buckhorn Inc|Myers Industries|MO|1.00|3.00|225.00|828302.00||'Myers Consulting'|myers|false
+Limestone Plant|Milliken & Company|SC|1.00|3.00|260.00|458823.00||'Milliken & Company'|milliken &|false
+Milliken & Co. Gerrish Plant|Milliken & Co.|SC|1.00|2.00|160.00|247615.00|510105342|'Milliken & Company'|milliken &|false
+Gilliland Plant|Milliken & Company|SC|1.00|2.00|200.00|301705.00|510105342|'Milliken & Company'|milliken &|false
+Magnolia Finishing Plant|Milliken & Company|SC|1.00|3.00|361.00|657742.00|510105342|'Milliken & Company'|milliken &|false
+Milliken Golden Valley|Milliken & Company|NC|1.00|2.00|115.00|241924.00|510105342|'Milliken & Company'|milliken &|false
+Milliken Hatch|Milliken & Company|NC|1.00|2.00|63.00|149461.00|510105342|'Milliken & Company'|milliken &|false
+Construction|Cedar Roofing Company|IL|1.00|2.00|79.00|160000.00|830344362|'Cedar Roofing Co. LLC'|cedar roofing|false
+Milliken Hickory Plant|Milliken & Company|KY|1.00|2.00|40.00|68270.00|270610083|'Milliken & Company'|milliken &|false
+Milliken & Company - Alma Plant|Milliken & Company|GA|1.00|2.00|104.00|174240.00|510105342|'Milliken & Company'|milliken &|false
+Restoration Systems Inc.|Restoration Systems Inc.|MN|1.00|2.00|44.00|63216.00|411890683|'Restoration Services Inc.'|restoration|false
+Barrett Inc.|Barrett Inc.|CT|1.00|2.00|82.00|137325.00|060681058|'Barrett Inc.'|barrett|false
+United Manufacturing Inc.|United Manufacturing Inc.|KS|1.00|2.00|30.00|55640.00|480684406|'United Contractors'|united|false
+Watkins Development Corp.|Watkins Development Corp.|TX|1.00|2.00|24.00|50416.00||'Watkins Construction'|watkins|false
+Corporate|Corporate|MN|1.00|2.00|76.00|142387.00|411989305|'Corporate Contractors Inc.'|corporate|false
+CCW - Carlisle|Carlisle Construction Materials|PA|1.00|2.00|39.00|78229.00||'Carlisle Construction Materials'|carlisle construction materials|false

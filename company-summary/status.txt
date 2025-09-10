@@ -1,0 +1,144 @@
+# Project Status - Company Analysis Dashboard
+
+## Current Work Session (2025-01-XX)
+
+### ACTIVE TASK: Setting up Lambda API for Parameter Store Authentication
+
+**Problem Identified:**
+- Current Parameter Store implementation won't work in browser (CloudFront deployment)
+- Need backend API to securely fetch credentials
+
+**Solution in Progress:**
+Lambda + API Gateway approach for secure credential fetching
+
+**Steps Completed:**
+✅ Updated parameter names to "treville-demo/auth" prefix
+✅ Configured us-east-1 region in authentication service
+✅ Identified browser security limitation with direct Parameter Store access
+
+**Next Steps - Lambda Setup:**
+
+1. **Create Lambda Function (IN PROGRESS)**
+   - Go to AWS Console → Lambda
+   - Create function: "treville-demo-auth-api"
+   - Runtime: Node.js 20.x
+   - Replace code with provided JavaScript (see details below)
+
+2. **Add IAM Permissions**
+   - Configuration → Permissions → Click execution role
+   - Add AmazonSSMReadOnlyAccess policy
+
+3. **Create API Gateway**
+   - HTTP API: "treville-demo-auth-api"
+   - Route: GET /auth
+   - Integration: Lambda function
+   - Get Invoke URL for frontend
+
+4. **Update Frontend Code**
+   - Modify src/services/auth.ts to call Lambda API instead of direct Parameter Store
+   - Update for browser compatibility
+
+**Lambda Function Code:**
+```javascript
+import { SSMClient, GetParameterCommand } from '@aws-sdk/client-ssm';
+
+const ssmClient = new SSMClient({ region: 'us-east-1' });
+
+export const handler = async (event) => {
+    const headers = {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+        'Content-Type': 'application/json'
+    };
+
+    try {
+        if (event.httpMethod === 'OPTIONS') {
+            return { statusCode: 200, headers, body: '' };
+        }
+
+        const [usernameResponse, passwordResponse] = await Promise.all([
+            ssmClient.send(new GetParameterCommand({
+                Name: '/treville-demo/auth/username',
+                WithDecryption: false
+            })),
+            ssmClient.send(new GetParameterCommand({
+                Name: '/treville-demo/auth/password',
+                WithDecryption: true
+            }))
+        ]);
+
+        return {
+            statusCode: 200,
+            headers,
+            body: JSON.stringify({
+                username: usernameResponse.Parameter?.Value || '',
+                password: passwordResponse.Parameter?.Value || ''
+            })
+        };
+    } catch (error) {
+        console.error('Error fetching credentials:', error);
+        return {
+            statusCode: 500,
+            headers,
+            body: JSON.stringify({ error: 'Failed to fetch credentials' })
+        };
+    }
+};
+```
+
+**Expected API URL Format:**
+`https://abc123.execute-api.us-east-1.amazonaws.com/auth`
+
+## Project Overview
+
+**Tech Stack:**
+- React + TypeScript + Vite
+- Mantine UI components
+- AWS deployment (S3 + CloudFront)
+- AWS Parameter Store for credentials
+- Lambda + API Gateway for secure authentication
+
+**Key Features:**
+- McKinsey-styled company analysis dashboard
+- OSHA data columns with grouped headers
+- Citation tooltips and company detail panels
+- Secure AWS-based authentication
+- Responsive table layout
+
+**Deployment Status:**
+- Frontend: Ready for build/deploy
+- Backend: Lambda API setup in progress
+- Infrastructure: CloudFront/S3 ready
+- Security: Parameter Store configured
+
+## Recent Completed Work
+
+- ✅ McKinsey visual styling implementation
+- ✅ OSHA data integration (2020-2024 employee/hours data)
+- ✅ Grouped column headers with visual distinction
+- ✅ Table compactness and citation tooltip improvements
+- ✅ TypeScript build error fixes
+- ✅ Parameter Store security implementation
+- ✅ Comprehensive deployment documentation
+- ✅ Parameter naming update to "treville-demo/auth"
+- ✅ us-east-1 region configuration
+
+## Files Modified Today
+
+- `src/services/auth.ts` - Updated parameter paths and region
+- `DEPLOYMENT.md` - Updated with treville-demo parameter naming
+
+## Next Session Priorities
+
+1. Complete Lambda + API Gateway setup
+2. Update frontend authentication service for Lambda API
+3. Test end-to-end authentication flow
+4. Update deployment documentation
+5. Build and deploy to CloudFront
+
+**Important Notes:**
+- Dev server running in background (multiple instances)
+- All Parameter Store parameters use "/treville-demo/auth/" prefix
+- Region configured for us-east-1
+- Ready for production deployment once Lambda API is complete
