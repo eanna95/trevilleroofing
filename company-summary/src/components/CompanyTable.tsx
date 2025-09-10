@@ -13,7 +13,7 @@ import {
   ActionIcon,
   Anchor,
 } from '@mantine/core';
-import { IconFilter, IconSettings, IconCheck, IconEdit, IconX, IconDownload } from '@tabler/icons-react';
+import { IconFilter, IconSettings, IconCheck, IconEdit, IconX } from '@tabler/icons-react';
 import { DndContext, closestCenter } from '@dnd-kit/core';
 import {
   SortableContext,
@@ -470,94 +470,8 @@ export function CompanyTable() {
     });
   };
 
-  const exportToCSV = () => {
-    // Get current filtered and sorted companies
-    const dataToExport = filteredAndSortedCompanies.map(company => {
-      // Helper function to get edited value or original
-      const getValue = (key: keyof Company) => {
-        const editedValue = cellEdits[company.company_name]?.[key];
-        return editedValue !== undefined ? editedValue : (company[key] || '');
-      };
-
-      // Helper function to format citations as comma-separated string
-      const formatCitations = (citations: string[] | undefined) => {
-        return citations && citations.length > 0 ? citations.join(', ') : '';
-      };
-
-      // Parse contact info to extract individual contacts
-      let contactData: Record<string, string> = {};
-      if (company.contact_info) {
-        try {
-          const contacts = JSON.parse(company.contact_info);
-          if (Array.isArray(contacts)) {
-            contacts.forEach(contact => {
-              const position = (contact.position || 'contact').toLowerCase();
-              contactData[`${position}_name`] = `${contact.first_name || ''} ${contact.last_name || ''}`.trim();
-              contactData[`${position}_email`] = contact.email || '';
-            });
-          }
-        } catch {
-          // If parsing fails, just leave contact data empty
-        }
-      }
-
-      // Build the CSV row object
-      return {
-        company_name: getValue('company_name'),
-        state: getValue('state'),
-        investment_grade: getValue('investment_grade'),
-        investment_grade_summary: company.investment_grade_summary || '',
-        investment_grade_citations: formatCitations(company.investment_grade_citations),
-        est_annual_revenue: getValue('est_annual_revenue'),
-        est_annual_revenue_citations: formatCitations(company.est_annual_revenue_citations),
-        est_yoy_growth: getValue('est_yoy_growth'),
-        est_yoy_growth_citations: formatCitations(company.est_yoy_growth_citations),
-        pe_backed: getValue('pe_backed'),
-        pe_backed_citations: formatCitations(company.pe_backed_citations),
-        can_accommodate_allocation: getValue('can_accommodate_allocation'),
-        can_accommodate_allocation_citations: formatCitations(company.can_accommodate_allocation_citations),
-        website: getValue('website'),
-        // Contact info - dynamically add all found positions
-        ...contactData,
-        // OSHA data for all years
-        osha_annual_average_employees_2020: getValue('annual_average_employees_2020'),
-        osha_annual_average_employees_2021: getValue('annual_average_employees_2021'),
-        osha_annual_average_employees_2022: getValue('annual_average_employees_2022'),
-        osha_annual_average_employees_2023: getValue('annual_average_employees_2023'),
-        osha_annual_average_employees_2024: getValue('annual_average_employees_2024'),
-        osha_total_hours_worked_2020: getValue('total_hours_worked_2020'),
-        osha_total_hours_worked_2021: getValue('total_hours_worked_2021'),
-        osha_total_hours_worked_2022: getValue('total_hours_worked_2022'),
-        osha_total_hours_worked_2023: getValue('total_hours_worked_2023'),
-        osha_total_hours_worked_2024: getValue('total_hours_worked_2024'),
-      };
-    });
-
-    // Convert to CSV
-    const csv = Papa.unparse(dataToExport);
-    
-    // Create and download file
-    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-    const link = document.createElement('a');
-    const url = URL.createObjectURL(blob);
-    link.setAttribute('href', url);
-    link.setAttribute('download', `treville-roofing-company-analysis-${new Date().toISOString().split('T')[0]}.csv`);
-    link.style.visibility = 'hidden';
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
-
   const transformCSVToCompany = (csvRow: CompanyCSV): Company => {
-    // Handle empty or invalid Metrics field
-    let metrics: MetricData[] = [];
-    try {
-      if (csvRow.Metrics && csvRow.Metrics.trim()) {
-        metrics = JSON.parse(csvRow.Metrics);
-      }
-    } catch (error) {
-      console.warn(`Failed to parse metrics for company ${csvRow["Company Name"]}:`, error);
-    }
+    const metrics: MetricData[] = JSON.parse(csvRow.Metrics);
     
     // Create a map for easy lookup
     const metricMap = new Map<string, MetricData>();
@@ -704,7 +618,7 @@ export function CompanyTable() {
   const columns: DataTableColumn<Company>[] = visibleColumns.map((colConfig, index) => ({
     accessor: colConfig.key,
     className: colConfig.group ? `grouped-column ${colConfig.group.replace(/\s+/g, '-').toLowerCase()}-group` : 
-               index === 0 ? 'pinned-column' : undefined,
+               index === 0 ? 'pinned-column sticky-first-column' : undefined,
     title: (
       <div 
         style={{ 
@@ -723,7 +637,14 @@ export function CompanyTable() {
           borderRadius: '0',
           textShadow: '0 1px 2px rgba(0,0,0,0.3)',
           boxShadow: colConfig.group ? '0 4px 8px rgba(0,0,0,0.15)' : '0 2px 4px rgba(0,0,0,0.1)',
-          border: colConfig.group ? '2px solid rgba(255,255,255,0.2)' : '1px solid var(--eanna-gray-300)'
+          border: colConfig.group ? '2px solid rgba(255,255,255,0.2)' : '1px solid var(--eanna-gray-300)',
+          ...(index === 0 ? {
+            position: 'sticky',
+            left: 0,
+            zIndex: 20,
+            borderRight: '2px solid rgba(44, 62, 80, 0.1)',
+            boxShadow: '2px 0 4px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.1)'
+          } : {})
         }}
       >
         {colConfig.group && (
@@ -876,6 +797,9 @@ export function CompanyTable() {
               borderRadius="0"
               shadow="none"
               storeColumnsKey="company-table-columns"
+              scrollAreaProps={{
+                style: { position: 'relative' }
+              }}
               styles={{
                 header: {
                   background: 'linear-gradient(135deg, var(--eanna-gray-800) 0%, var(--eanna-deep-blue) 100%)',
@@ -912,17 +836,8 @@ export function CompanyTable() {
             </SortableContext>
           </DndContext>
 
-          {/* Action Buttons */}
+          {/* Customize View Button */}
           <Group justify="flex-end" mt="md">
-            <Button 
-              leftSection={<IconDownload size={16} />}
-              size="sm"
-              className="professional-button"
-              onClick={exportToCSV}
-              variant="outline"
-            >
-              Export CSV
-            </Button>
             <Popover position="top-end" withArrow shadow="none">
               <Popover.Target>
                 <Button 

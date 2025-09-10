@@ -5,6 +5,7 @@ import { Notifications } from '@mantine/notifications'
 import '@mantine/core/styles.css'
 import '@mantine/notifications/styles.css'
 import 'mantine-datatable/styles.layer.css'
+import './navy-override.css'
 import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
