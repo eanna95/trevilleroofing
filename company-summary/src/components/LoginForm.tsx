@@ -6,7 +6,6 @@ import {
   PasswordInput,
   Button,
   Text,
-  Group,
   Box,
   Alert,
   Stack,
@@ -146,18 +145,6 @@ export function LoginForm({ onLogin }: LoginFormProps) {
           </Stack>
         </form>
 
-        <Group justify="center" mt="xl">
-          <Text 
-            size="xs" 
-            ta="center"
-            style={{ 
-              color: 'var(--eanna-gray-500)',
-              fontFamily: 'var(--eanna-font-sans)'
-            }}
-          >
-            Secure authentication powered by AWS
-          </Text>
-        </Group>
       </Paper>
     </Box>
   );

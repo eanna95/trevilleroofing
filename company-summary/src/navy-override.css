@@ -104,13 +104,124 @@ div[style*="width: 38%"] {
   margin: 0 0.5rem !important;
 }
 
-/* Make table headers sticky */
-.mantine-DataTable-root thead th {
+/* Clean table header styling without sticky functionality */
+.mantine-DataTable-root thead th,
+.mantine-DataTable-root thead tr th,
+.mantine-DataTable-root table thead th {
+  background: linear-gradient(135deg, var(--eanna-gray-800) 0%, var(--eanna-deep-blue) 100%) !important;
+  color: white !important;
+  font-weight: 800 !important;
+  border-bottom: 3px solid var(--eanna-electric-blue) !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3) !important;
+}
+
+/* TARGET THE EXACT SHADOW ELEMENTS! */
+.mantine-datatable-scroll-area-shadow,
+.mantine-datatable-scroll-area-top-shadow,
+.mantine-datatable-scroll-area-bottom-shadow {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* ULTRA DEEP MANTINE STICKY HEADER APPROACH */
+/* Force sticky positioning on mantine-datatable's internal structure */
+.mantine-DataTable-root {
+  position: relative !important;
+}
+
+/* Target the exact table structure mantine creates */
+.mantine-DataTable-root .mantine-Table-root {
+  position: relative !important;
+}
+
+.mantine-DataTable-root .mantine-Table-root thead {
   position: sticky !important;
   top: 0 !important;
-  z-index: 10 !important;
-  background: white !important;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+  z-index: 30 !important;
+  background: linear-gradient(135deg, var(--eanna-gray-800) 0%, var(--eanna-deep-blue) 100%) !important;
+}
+
+.mantine-DataTable-root .mantine-Table-root thead th {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 30 !important;
+  background: linear-gradient(135deg, var(--eanna-gray-800) 0%, var(--eanna-deep-blue) 100%) !important;
+  border-bottom: 3px solid var(--eanna-electric-blue) !important;
+}
+
+/* Ensure the scroll container is properly positioned */
+.mantine-DataTable-root .mantine-ScrollArea-viewport {
+  position: relative !important;
+}
+
+/* Force table layout to support sticky */
+.mantine-DataTable-root table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  position: relative !important;
+}
+
+/* ULTIMATE ULTRA DEEP SHADOW REMOVAL */
+
+/* Target CSS masks that create scroll shadows */
+.mantine-ScrollArea-viewport,
+.mantine-DataTable-root .mantine-ScrollArea-viewport {
+  -webkit-mask: none !important;
+  mask: none !important;
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+}
+
+/* Target table body specifically where shadows likely appear */
+.mantine-DataTable-root tbody,
+.mantine-DataTable-root table tbody,
+.mantine-DataTable-root [data-mantine-datatable] tbody {
+  box-shadow: none !important;
+  background: none !important;
+  background-image: none !important;
+  filter: none !important;
+  -webkit-mask: none !important;
+  mask: none !important;
+  border-image: none !important;
+}
+
+/* Remove shadows from table body wrapper divs */
+.mantine-DataTable-root tbody::before,
+.mantine-DataTable-root tbody::after,
+.mantine-DataTable-root tbody tr::before,
+.mantine-DataTable-root tbody tr::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Override any border-image that might create shadow effects */
+.mantine-DataTable-root *,
+.mantine-DataTable-root table,
+.mantine-DataTable-root tbody {
+  border-image: none !important;
+  border-image-source: none !important;
+}
+
+/* Nuclear removal of all pseudo-elements globally in DataTable */
+.mantine-DataTable-root *::before,
+.mantine-DataTable-root *::after {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  opacity: 0 !important;
+}
+
+/* Remove inline styles that might be applied by JavaScript */
+.mantine-DataTable-root [style*="box-shadow"],
+.mantine-DataTable-root [style*="background"],
+.mantine-DataTable-root [style*="mask"] {
+  box-shadow: none !important;
+  background: none !important;
+  mask: none !important;
+  -webkit-mask: none !important;
 }
 
 /* Make first column (company name) sticky horizontally */
