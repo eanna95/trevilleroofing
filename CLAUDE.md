@@ -100,3 +100,27 @@ The `utils/` package contains shared functionality used across all tools. This i
 - **Documentation**: Each utility function has clear docstrings explaining purpose and parameters
 
 This structure ensures consistent behavior, reduces code duplication, and maintains high code quality across the video processing pipeline.
+
+## Mantine DataTable Development
+
+### Documentation Reference
+- **Primary Documentation**: [Mantine DataTable Examples](https://icflorescu.github.io/mantine-datatable/examples/)
+- Use this as the authoritative reference for all DataTable features and implementations
+
+### Development Guidelines
+- **Prefer Built-in Features**: Always check the official documentation before implementing custom CSS or JavaScript solutions
+- **Examples First**: Review existing examples in the documentation to understand the proper implementation patterns
+- **Custom CSS Last Resort**: Only use custom styling when a feature is explicitly not supported by the component
+- **Common Features Available**: The DataTable supports many built-in features including:
+  - Column pinning (`pinFirstColumn`, `pinLastColumn`)
+  - Sticky headers (`stickyHeader`, `stickyHeaderOffset`)
+  - Row highlighting (`highlightOnHover`)
+  - Scrolling behavior (`scrollAreaProps`)
+  - Striping (`striped`)
+  - Borders (`withTableBorder`, `withColumnBorders`)
+
+### Best Practices
+1. **Check Documentation First**: Before adding custom styles, verify the feature isn't already built-in
+2. **Use Component Props**: Leverage the extensive prop system rather than CSS overrides
+3. **Follow Examples**: Match the patterns shown in the official examples
+4. **Test Built-in Features**: Ensure built-in functionality works before adding customizations
