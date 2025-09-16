@@ -1,0 +1,28 @@
+Optimal Search Terms Analysis
+============================
+
+Selected terms: roofing, construction, roof, contracting, america, exteriors, building, metal, contractors, enterprises, group, and, systems, solar, corporation, restoration, home, sons, industries, painting, roofs, associates, service, companies, property, coatings, holdings, brothers, son, builders, exterior, management, energy, specialty, insulation, south, taylor, first, john, custom, waterproofing, contractor, commercial, residential, coating, architectural, central, maintenance, quality, products
+Coverage: 2601/2924 companies (89.0%)
+Uncovered: 323 companies
+
+Top keywords by frequency:
+  roofing: 2018 companies
+  contractors: 254 companies
+  and: 191 companies
+  construction: 172 companies
+  metal: 122 companies
+  sheet: 103 companies
+  roof: 84 companies
+  building: 81 companies
+  systems: 59 companies
+  commercial: 56 companies
+  america: 53 companies
+  contractor: 50 companies
+  tecta: 46 companies
+  contracting: 45 companies
+  group: 40 companies
+  dba: 39 companies
+  waterproofing: 35 companies
+  exteriors: 35 companies
+  solar: 30 companies
+  restoration: 30 companies

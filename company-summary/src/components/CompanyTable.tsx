@@ -30,22 +30,24 @@ interface MetricData {
 }
 
 interface CompanyCSV {
-  "Company Name": string;
-  "State": string;
-  "Investment Grade": string;
-  "Metrics": string; // JSON string
-  "Website"?: string;
-  "Contact Info"?: string;
-  "annual_average_employees_2020"?: string;
-  "annual_average_employees_2021"?: string;
-  "annual_average_employees_2022"?: string;
-  "annual_average_employees_2023"?: string;
-  "annual_average_employees_2024"?: string;
-  "total_hours_worked_2020"?: string;
-  "total_hours_worked_2021"?: string;
-  "total_hours_worked_2022"?: string;
-  "total_hours_worked_2023"?: string;
-  "total_hours_worked_2024"?: string;
+  company_name: string;
+  state: string;
+  investment_grade: string;
+  metrics: string; // JSON string
+  website?: string;
+  contact_info?: string;
+  last_interaction_date?: string;
+  last_interaction_id?: string;
+  annual_average_employees_2020?: string;
+  annual_average_employees_2021?: string;
+  annual_average_employees_2022?: string;
+  annual_average_employees_2023?: string;
+  annual_average_employees_2024?: string;
+  total_hours_worked_2020?: string;
+  total_hours_worked_2021?: string;
+  total_hours_worked_2022?: string;
+  total_hours_worked_2023?: string;
+  total_hours_worked_2024?: string;
 }
 
 interface Company {
@@ -66,6 +68,8 @@ interface Company {
   good_reputation_citations: string[];
   website?: string;
   contact_info?: string;
+  last_interaction_date?: string;
+  last_interaction_id?: string;
   annual_average_employees_2020?: string;
   annual_average_employees_2021?: string;
   annual_average_employees_2022?: string;
@@ -107,16 +111,18 @@ const columnConfigs: ColumnConfig[] = [
   { key: 'est_yoy_growth', label: 'Est. YoY Growth (%)', type: 'metric', visible: true, order: 4 },
   { key: 'pe_backed', label: 'PE-backed (y/n)', type: 'metric', visible: true, order: 5 },
   { key: 'can_accommodate_allocation', label: 'Can Accommodate $10M', type: 'metric', visible: true, order: 6 },
-  { key: 'annual_average_employees_2020', label: '2020', type: 'metric', visible: true, order: 7, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2021', label: '2021', type: 'metric', visible: true, order: 8, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2022', label: '2022', type: 'metric', visible: true, order: 9, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2023', label: '2023', type: 'metric', visible: true, order: 10, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2024', label: '2024', type: 'metric', visible: true, order: 11, group: 'Avg Employees (OSHA)' },
-  { key: 'total_hours_worked_2020', label: '2020', type: 'metric', visible: true, order: 12, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2021', label: '2021', type: 'metric', visible: true, order: 13, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2022', label: '2022', type: 'metric', visible: true, order: 14, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2023', label: '2023', type: 'metric', visible: true, order: 15, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2024', label: '2024', type: 'metric', visible: true, order: 16, group: 'Total Hours Worked (OSHA)' },
+  { key: 'last_interaction_date', label: 'Last Interaction Date', type: 'metric', visible: true, order: 7, group: 'Affinity' },
+  { key: 'last_interaction_id', label: 'Last Interaction IDs', type: 'metric', visible: true, order: 8, group: 'Affinity' },
+  { key: 'annual_average_employees_2020', label: '2020', type: 'metric', visible: true, order: 9, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2021', label: '2021', type: 'metric', visible: true, order: 10, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2022', label: '2022', type: 'metric', visible: true, order: 11, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2023', label: '2023', type: 'metric', visible: true, order: 12, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2024', label: '2024', type: 'metric', visible: true, order: 13, group: 'Avg Employees (OSHA)' },
+  { key: 'total_hours_worked_2020', label: '2020', type: 'metric', visible: true, order: 14, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2021', label: '2021', type: 'metric', visible: true, order: 15, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2022', label: '2022', type: 'metric', visible: true, order: 16, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2023', label: '2023', type: 'metric', visible: true, order: 17, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2024', label: '2024', type: 'metric', visible: true, order: 18, group: 'Total Hours Worked (OSHA)' },
 ];
 
 
@@ -396,6 +402,8 @@ export function CompanyTable() {
     good_reputation_citations: '',
     website: '',
     contact_info: '',
+    last_interaction_date: '',
+    last_interaction_id: '',
     annual_average_employees_2020: '',
     annual_average_employees_2021: '',
     annual_average_employees_2022: '',
@@ -567,8 +575,8 @@ export function CompanyTable() {
   };
 
   const transformCSVToCompany = (csvRow: CompanyCSV): Company => {
-    const metrics: MetricData[] = JSON.parse(csvRow.Metrics);
-    
+    const metrics: MetricData[] = JSON.parse(csvRow.metrics);
+
     // Create a map for easy lookup
     const metricMap = new Map<string, MetricData>();
     metrics.forEach(metric => {
@@ -580,20 +588,20 @@ export function CompanyTable() {
     let investmentGradeSummary = '';
     let investmentGradeCitations: string[] = [];
     try {
-      const gradeData = JSON.parse(csvRow["Investment Grade"]);
+      const gradeData = JSON.parse(csvRow.investment_grade);
       investmentGrade = gradeData.grade || 'Unknown';
       investmentGradeSummary = gradeData.summary || '';
       investmentGradeCitations = gradeData.citations || [];
     } catch {
       // Fallback if not JSON format
-      investmentGrade = csvRow["Investment Grade"];
+      investmentGrade = csvRow.investment_grade;
       investmentGradeSummary = '';
     }
 
     // Transform to our expected format
     return {
-      company_name: csvRow["Company Name"],
-      state: csvRow["State"],
+      company_name: csvRow.company_name,
+      state: csvRow.state,
       investment_grade: investmentGrade,
       investment_grade_summary: investmentGradeSummary,
       investment_grade_citations: investmentGradeCitations,
@@ -608,19 +616,33 @@ export function CompanyTable() {
       good_reputation: metricMap.get('reputation')?.metric?.toString() || 'Unknown',
       good_reputation_citations: metricMap.get('reputation')?.citations || [],
       // Add website and contact info
-      website: csvRow["Website"] || '',
-      contact_info: csvRow["Contact Info"] || '',
+      website: csvRow.website || '',
+      contact_info: csvRow.contact_info || '',
+      // Add new Affinity data
+      last_interaction_date: csvRow.last_interaction_date ? (() => {
+        try {
+          const date = new Date(csvRow.last_interaction_date);
+          return date.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric'
+          });
+        } catch {
+          return csvRow.last_interaction_date;
+        }
+      })() : '',
+      last_interaction_id: csvRow.last_interaction_id ? csvRow.last_interaction_id.replace(/"/g, '').replace(/,/g, ', ') : '',
       // Add new employee and hours data from direct CSV columns
-      annual_average_employees_2020: csvRow["annual_average_employees_2020"] || '',
-      annual_average_employees_2021: csvRow["annual_average_employees_2021"] || '',
-      annual_average_employees_2022: csvRow["annual_average_employees_2022"] || '',
-      annual_average_employees_2023: csvRow["annual_average_employees_2023"] || '',
-      annual_average_employees_2024: csvRow["annual_average_employees_2024"] || '',
-      total_hours_worked_2020: csvRow["total_hours_worked_2020"] || '',
-      total_hours_worked_2021: csvRow["total_hours_worked_2021"] || '',
-      total_hours_worked_2022: csvRow["total_hours_worked_2022"] || '',
-      total_hours_worked_2023: csvRow["total_hours_worked_2023"] || '',
-      total_hours_worked_2024: csvRow["total_hours_worked_2024"] || '',
+      annual_average_employees_2020: csvRow.annual_average_employees_2020 || '',
+      annual_average_employees_2021: csvRow.annual_average_employees_2021 || '',
+      annual_average_employees_2022: csvRow.annual_average_employees_2022 || '',
+      annual_average_employees_2023: csvRow.annual_average_employees_2023 || '',
+      annual_average_employees_2024: csvRow.annual_average_employees_2024 || '',
+      total_hours_worked_2020: csvRow.total_hours_worked_2020 || '',
+      total_hours_worked_2021: csvRow.total_hours_worked_2021 || '',
+      total_hours_worked_2022: csvRow.total_hours_worked_2022 || '',
+      total_hours_worked_2023: csvRow.total_hours_worked_2023 || '',
+      total_hours_worked_2024: csvRow.total_hours_worked_2024 || '',
     };
   };
 
@@ -722,10 +744,12 @@ export function CompanyTable() {
           flexDirection: 'column', 
           alignItems: 'center', 
           width: '100%',
-          background: colConfig.group === 'Avg Employees (OSHA)' ? 
-            'linear-gradient(135deg, var(--eanna-electric-blue) 0%, var(--eanna-cyan) 100%)' : 
-            colConfig.group === 'Total Hours Worked (OSHA)' ? 
-            'linear-gradient(135deg, var(--eanna-cyan) 0%, var(--eanna-accent-gold) 100%)' : 
+          background: colConfig.group === 'Affinity' ?
+            'linear-gradient(135deg, var(--eanna-accent-gold) 0%, var(--eanna-deep-blue) 100%)' :
+            colConfig.group === 'Avg Employees (OSHA)' ?
+            'linear-gradient(135deg, var(--eanna-electric-blue) 0%, var(--eanna-cyan) 100%)' :
+            colConfig.group === 'Total Hours Worked (OSHA)' ?
+            'linear-gradient(135deg, var(--eanna-cyan) 0%, var(--eanna-accent-gold) 100%)' :
             'linear-gradient(135deg, var(--eanna-gray-800) 0%, var(--eanna-deep-blue) 100%)',
           color: 'var(--eanna-white)',
           padding: '12px 6px',
@@ -936,8 +960,8 @@ export function CompanyTable() {
               stickyHeader
               stickyHeaderOffset={0}
               scrollAreaProps={{
-                type: 'scroll',
-                scrollbars: 'y'
+                type: 'always',
+                scrollbars: 'xy'
               }}
               styles={{
                 header: {
@@ -1144,7 +1168,7 @@ export function CompanyTable() {
 
             {/* Investment Grade Summary */}
             <div style={{ marginBottom: '1.5rem' }}>
-              <h3 style={{ 
+              <h3 style={{
                 fontFamily: 'var(--eanna-font-serif)',
                 color: 'var(--eanna-deep-blue)',
                 marginBottom: '0.75rem',
@@ -1166,6 +1190,63 @@ export function CompanyTable() {
                 {selectedCompany.investment_grade_summary || 'No summary available'}
               </div>
             </div>
+
+            {/* Last Interaction (Affinity) */}
+            {(selectedCompany.last_interaction_date || selectedCompany.last_interaction_id) && (
+              <div style={{ marginBottom: '1.5rem' }}>
+                <h3 style={{
+                  fontFamily: 'var(--eanna-font-serif)',
+                  color: 'var(--eanna-deep-blue)',
+                  marginBottom: '0.75rem',
+                  fontSize: '1.1rem'
+                }}>
+                  Last Interaction (Affinity)
+                </h3>
+                <div style={{
+                  padding: '1.25rem',
+                  background: 'linear-gradient(135deg, var(--eanna-accent-gold) 0%, rgba(255, 215, 0, 0.1) 100%)',
+                  border: '1px solid var(--eanna-gray-300)',
+                  borderLeft: '4px solid var(--eanna-accent-gold)',
+                  borderRadius: '6px',
+                  fontFamily: 'var(--eanna-font-sans)',
+                  fontSize: '0.85rem',
+                  lineHeight: '1.5',
+                  boxShadow: '0 2px 8px rgba(0,0,0,0.08)'
+                }}>
+                  <div style={{
+                    display: 'grid',
+                    gridTemplateColumns: '1fr',
+                    gap: '0.75rem',
+                    fontSize: '0.85rem'
+                  }}>
+                    {selectedCompany.last_interaction_date && (
+                      <div>
+                        <strong style={{ color: 'var(--eanna-deep-blue)' }}>Date:</strong>{' '}
+                        <span style={{
+                          color: 'var(--eanna-gray-800)',
+                          fontWeight: 500,
+                          fontSize: '0.9rem'
+                        }}>
+                          {selectedCompany.last_interaction_date}
+                        </span>
+                      </div>
+                    )}
+                    {selectedCompany.last_interaction_id && (
+                      <div>
+                        <strong style={{ color: 'var(--eanna-deep-blue)' }}>IDs:</strong>{' '}
+                        <span style={{
+                          color: 'var(--eanna-gray-800)',
+                          fontWeight: 500,
+                          fontSize: '0.9rem'
+                        }}>
+                          {selectedCompany.last_interaction_id}
+                        </span>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </div>
+            )}
 
             {/* OSHA Data Table */}
             <div style={{ marginBottom: '1.5rem' }}>
