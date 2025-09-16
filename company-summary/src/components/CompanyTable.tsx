@@ -737,7 +737,7 @@ export function CompanyTable() {
     accessor: colConfig.key,
     className: colConfig.group ? `grouped-column ${colConfig.group.replace(/\s+/g, '-').toLowerCase()}-group` : undefined,
     title: (
-      <div 
+      <div
         style={{
           display: 'flex',
           flexDirection: 'column',
@@ -756,7 +756,8 @@ export function CompanyTable() {
           borderRadius: '0',
           textShadow: '0 1px 2px rgba(0,0,0,0.3)',
           boxShadow: colConfig.group ? '0 4px 8px rgba(0,0,0,0.15)' : '0 2px 4px rgba(0,0,0,0.1)',
-          border: colConfig.group ? '2px solid rgba(255,255,255,0.2)' : '1px solid var(--eanna-gray-300)'
+          border: colConfig.group ? '2px solid rgba(255,255,255,0.2)' : '1px solid var(--eanna-gray-300)',
+          minHeight: '60px'
         }}
       >
         {colConfig.group && (
@@ -907,7 +908,7 @@ export function CompanyTable() {
               {columnSettings.map((col) => (
                 <Checkbox
                   key={col.key}
-                  label={col.label}
+                  label={col.group ? `${col.group} - ${col.label}` : col.label}
                   checked={col.visible}
                   onChange={() => toggleColumnVisibility(col.key)}
                   size="sm"
@@ -950,37 +951,20 @@ export function CompanyTable() {
               borderRadius="0"
               shadow="none"
               storeColumnsKey="company-table-columns"
-              stickyHeader
-              stickyHeaderOffset={0}
               pinFirstColumn
+              backgroundColor="white"
+              borderColor="var(--eanna-gray-300)"
+              rowBorderColor="var(--eanna-gray-200)"
+              c="var(--eanna-gray-800)"
               scrollAreaProps={{
                 type: 'hover',
                 scrollbarSize: 12
               }}
               styles={{
                 header: {
-                  background: 'linear-gradient(135deg, var(--eanna-gray-800) 0%, var(--eanna-deep-blue) 100%)',
-                  borderBottom: '3px solid var(--eanna-electric-blue)',
-                  fontWeight: 800,
-                  fontFamily: 'var(--eanna-font-sans)',
-                  color: 'var(--eanna-white)',
-                  padding: '8px 6px',
-                  fontSize: '0.75rem',
-                  height: 'auto',
-                  lineHeight: '1.2',
-                  textShadow: '0 1px 2px rgba(0,0,0,0.3)',
-                  letterSpacing: '0.3px'
-                },
-                table: {
-                  fontFamily: 'var(--eanna-font-sans)',
-                  fontSize: '0.75rem',
-                  tableLayout: 'auto',
-                  width: '100%',
-                  maxWidth: 'none'
-                },
-                root: {
-                  width: '100%',
-                  maxWidth: 'none'
+                  position: 'sticky',
+                  top: 0,
+                  zIndex: 10
                 }
               }}
             />
