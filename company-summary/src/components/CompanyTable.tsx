@@ -735,14 +735,13 @@ export function CompanyTable() {
 
   const columns: DataTableColumn<Company>[] = visibleColumns.map((colConfig, index) => ({
     accessor: colConfig.key,
-    className: colConfig.group ? `grouped-column ${colConfig.group.replace(/\s+/g, '-').toLowerCase()}-group` : 
-               index === 0 ? 'pinned-column sticky-first-column' : undefined,
+    className: colConfig.group ? `grouped-column ${colConfig.group.replace(/\s+/g, '-').toLowerCase()}-group` : undefined,
     title: (
       <div 
-        style={{ 
-          display: 'flex', 
-          flexDirection: 'column', 
-          alignItems: 'center', 
+        style={{
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
           width: '100%',
           background: colConfig.group === 'Affinity' ?
             'linear-gradient(135deg, var(--eanna-accent-gold) 0%, var(--eanna-deep-blue) 100%)' :
@@ -757,14 +756,7 @@ export function CompanyTable() {
           borderRadius: '0',
           textShadow: '0 1px 2px rgba(0,0,0,0.3)',
           boxShadow: colConfig.group ? '0 4px 8px rgba(0,0,0,0.15)' : '0 2px 4px rgba(0,0,0,0.1)',
-          border: colConfig.group ? '2px solid rgba(255,255,255,0.2)' : '1px solid var(--eanna-gray-300)',
-          ...(index === 0 ? {
-            position: 'sticky',
-            left: 0,
-            zIndex: 20,
-            borderRight: '2px solid rgba(44, 62, 80, 0.1)',
-            boxShadow: '2px 0 4px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.1)'
-          } : {})
+          border: colConfig.group ? '2px solid rgba(255,255,255,0.2)' : '1px solid var(--eanna-gray-300)'
         }}
       >
         {colConfig.group && (
@@ -821,17 +813,18 @@ export function CompanyTable() {
       </div>
     ),
     render: (company) => {
-      // Clean cell styling - no borders or backgrounds needed
+      // Clean cell styling - add background for pinned first column
       const cellStyle = {
-        padding: '8px'
+        padding: '8px',
+        backgroundColor: index === 0 ? 'white' : undefined
       };
       
       if (colConfig.type === 'definition') {
         if (colConfig.key === 'company_name') {
           return (
-            <div 
+            <div
               className="company-name-clickable"
-              style={{ 
+              style={{
                 ...cellStyle,
                 fontSize: '0.875rem',
                 fontFamily: 'var(--eanna-font-sans)'
@@ -848,8 +841,8 @@ export function CompanyTable() {
         }
         return (
           <div style={cellStyle}>
-            <Text size="sm" style={{ 
-              color: 'var(--eanna-gray-700)', 
+            <Text size="sm" style={{
+              color: 'var(--eanna-gray-700)',
               fontWeight: 500,
               fontFamily: 'var(--eanna-font-sans)'
             }}>{company[colConfig.key] as string}</Text>
@@ -959,9 +952,10 @@ export function CompanyTable() {
               storeColumnsKey="company-table-columns"
               stickyHeader
               stickyHeaderOffset={0}
+              pinFirstColumn
               scrollAreaProps={{
-                type: 'always',
-                scrollbars: 'xy'
+                type: 'hover',
+                scrollbarSize: 12
               }}
               styles={{
                 header: {
@@ -978,22 +972,15 @@ export function CompanyTable() {
                   letterSpacing: '0.3px'
                 },
                 table: {
-                  borderRadius: '8px',
-                  overflow: 'hidden',
                   fontFamily: 'var(--eanna-font-sans)',
                   fontSize: '0.75rem',
                   tableLayout: 'auto',
                   width: '100%',
-                  maxWidth: 'none',
-                  boxShadow: 'none',
-                  border: '1px solid var(--eanna-gray-300)'
+                  maxWidth: 'none'
                 },
                 root: {
                   width: '100%',
-                  maxWidth: 'none',
-                  borderRadius: '8px',
-                  overflow: 'hidden',
-                  boxShadow: 'none'
+                  maxWidth: 'none'
                 }
               }}
             />
@@ -1191,62 +1178,6 @@ export function CompanyTable() {
               </div>
             </div>
 
-            {/* Last Interaction (Affinity) */}
-            {(selectedCompany.last_interaction_date || selectedCompany.last_interaction_id) && (
-              <div style={{ marginBottom: '1.5rem' }}>
-                <h3 style={{
-                  fontFamily: 'var(--eanna-font-serif)',
-                  color: 'var(--eanna-deep-blue)',
-                  marginBottom: '0.75rem',
-                  fontSize: '1.1rem'
-                }}>
-                  Last Interaction (Affinity)
-                </h3>
-                <div style={{
-                  padding: '1.25rem',
-                  background: 'linear-gradient(135deg, var(--eanna-accent-gold) 0%, rgba(255, 215, 0, 0.1) 100%)',
-                  border: '1px solid var(--eanna-gray-300)',
-                  borderLeft: '4px solid var(--eanna-accent-gold)',
-                  borderRadius: '6px',
-                  fontFamily: 'var(--eanna-font-sans)',
-                  fontSize: '0.85rem',
-                  lineHeight: '1.5',
-                  boxShadow: '0 2px 8px rgba(0,0,0,0.08)'
-                }}>
-                  <div style={{
-                    display: 'grid',
-                    gridTemplateColumns: '1fr',
-                    gap: '0.75rem',
-                    fontSize: '0.85rem'
-                  }}>
-                    {selectedCompany.last_interaction_date && (
-                      <div>
-                        <strong style={{ color: 'var(--eanna-deep-blue)' }}>Date:</strong>{' '}
-                        <span style={{
-                          color: 'var(--eanna-gray-800)',
-                          fontWeight: 500,
-                          fontSize: '0.9rem'
-                        }}>
-                          {selectedCompany.last_interaction_date}
-                        </span>
-                      </div>
-                    )}
-                    {selectedCompany.last_interaction_id && (
-                      <div>
-                        <strong style={{ color: 'var(--eanna-deep-blue)' }}>IDs:</strong>{' '}
-                        <span style={{
-                          color: 'var(--eanna-gray-800)',
-                          fontWeight: 500,
-                          fontSize: '0.9rem'
-                        }}>
-                          {selectedCompany.last_interaction_id}
-                        </span>
-                      </div>
-                    )}
-                  </div>
-                </div>
-              </div>
-            )}
 
             {/* OSHA Data Table */}
             <div style={{ marginBottom: '1.5rem' }}>
@@ -1331,10 +1262,57 @@ export function CompanyTable() {
               </table>
             </div>
 
+            {/* Last Interaction (Affinity) */}
+            <div style={{ marginBottom: '1.5rem' }}>
+              <h3 style={{
+                fontFamily: 'var(--eanna-font-serif)',
+                color: 'var(--eanna-deep-blue)',
+                marginBottom: '0.75rem',
+                fontSize: '1.1rem'
+              }}>
+                Last Interaction (Affinity)
+              </h3>
+              <div style={{
+                padding: '0.875rem',
+                backgroundColor: 'white',
+                border: '1px solid var(--eanna-gray-200)',
+                borderLeft: '4px solid var(--eanna-accent-gold)',
+                borderRadius: '6px',
+                fontFamily: 'var(--eanna-font-sans)',
+                fontSize: '0.8rem',
+                lineHeight: '1.4'
+              }}>
+                <div style={{
+                  display: 'grid',
+                  gridTemplateColumns: '1fr 1fr',
+                  gap: '1rem'
+                }}>
+                  <div>
+                    <strong style={{ color: 'var(--eanna-deep-blue)' }}>Date:</strong>{' '}
+                    <span style={{
+                      color: 'var(--eanna-gray-800)',
+                      fontWeight: 500
+                    }}>
+                      {selectedCompany.last_interaction_date || 'N/A'}
+                    </span>
+                  </div>
+                  <div>
+                    <strong style={{ color: 'var(--eanna-deep-blue)' }}>IDs:</strong>{' '}
+                    <span style={{
+                      color: 'var(--eanna-gray-800)',
+                      fontWeight: 500
+                    }}>
+                      {selectedCompany.last_interaction_id || 'N/A'}
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             {/* Contact Information Section */}
             {selectedCompany.contact_info && (
-              <div>
-                <h3 style={{ 
+              <div style={{ marginBottom: '1.5rem' }}>
+                <h3 style={{
                   fontFamily: 'var(--eanna-font-serif)',
                   color: 'var(--eanna-deep-blue)',
                   marginBottom: '0.75rem',
@@ -1346,6 +1324,7 @@ export function CompanyTable() {
                   padding: '0.875rem',
                   backgroundColor: 'var(--eanna-light-blue)',
                   border: '1px solid var(--eanna-gray-200)',
+                  borderRadius: '6px',
                   fontFamily: 'var(--eanna-font-sans)',
                   fontSize: '0.8rem',
                   lineHeight: '1.4'
@@ -1355,8 +1334,8 @@ export function CompanyTable() {
                       const contacts = JSON.parse(selectedCompany.contact_info);
                       if (Array.isArray(contacts)) {
                         return (
-                          <table style={{ 
-                            width: 'auto', 
+                          <table style={{
+                            width: 'auto',
                             borderCollapse: 'collapse',
                             fontFamily: 'var(--eanna-font-sans)',
                             fontSize: '0.8rem'
@@ -1364,8 +1343,8 @@ export function CompanyTable() {
                             <tbody>
                               {contacts.map((contact, index) => (
                                 <tr key={index}>
-                                  <td style={{ 
-                                    padding: '3px 8px 3px 0', 
+                                  <td style={{
+                                    padding: '3px 8px 3px 0',
                                     verticalAlign: 'top',
                                     whiteSpace: 'nowrap'
                                   }}>
@@ -1374,14 +1353,14 @@ export function CompanyTable() {
                                     </strong>{' '}
                                     {contact.first_name} {contact.last_name}
                                   </td>
-                                  <td style={{ 
-                                    padding: '3px 0', 
+                                  <td style={{
+                                    padding: '3px 0',
                                     verticalAlign: 'top'
                                   }}>
                                     {contact.email && (
                                       <>
                                         <strong>Email:</strong>{' '}
-                                        <a 
+                                        <a
                                           href={`mailto:${contact.email}`}
                                           style={{ color: 'var(--eanna-electric-blue)' }}
                                         >
