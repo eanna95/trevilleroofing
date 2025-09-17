@@ -13,6 +13,7 @@ export interface Company {
   can_accommodate_allocation_citations: string[];
   good_reputation: string;
   good_reputation_citations: string[];
+  phone_numbers?: string[];
 }
 
 export interface ColumnConfig {

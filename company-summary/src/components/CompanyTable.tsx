@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import { DataTable } from 'mantine-datatable';
 import Papa from 'papaparse';
+import { parseAndFormatPhoneNumbers, formatPhoneNumbersForDisplay } from '../utils/phoneUtils';
 import {
   Box,
   TextInput,
@@ -36,6 +37,7 @@ interface CompanyCSV {
   metrics: string; // JSON string
   website?: string;
   contact_info?: string;
+  phone_numbers?: string; // JSON string
   last_interaction_date?: string;
   last_interaction_id?: string;
   annual_average_employees_2020?: string;
@@ -68,6 +70,7 @@ interface Company {
   good_reputation_citations: string[];
   website?: string;
   contact_info?: string;
+  phone_numbers?: string[];
   last_interaction_date?: string;
   last_interaction_id?: string;
   annual_average_employees_2020?: string;
@@ -111,18 +114,19 @@ const columnConfigs: ColumnConfig[] = [
   { key: 'est_yoy_growth', label: 'Est. YoY Growth (%)', type: 'metric', visible: true, order: 4 },
   { key: 'pe_backed', label: 'PE-backed (y/n)', type: 'metric', visible: true, order: 5 },
   { key: 'can_accommodate_allocation', label: 'Can Accommodate $10M', type: 'metric', visible: true, order: 6 },
-  { key: 'last_interaction_date', label: 'Last Interaction Date', type: 'metric', visible: true, order: 7, group: 'Affinity' },
-  { key: 'last_interaction_id', label: 'Last Interaction IDs', type: 'metric', visible: true, order: 8, group: 'Affinity' },
-  { key: 'annual_average_employees_2020', label: '2020', type: 'metric', visible: true, order: 9, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2021', label: '2021', type: 'metric', visible: true, order: 10, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2022', label: '2022', type: 'metric', visible: true, order: 11, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2023', label: '2023', type: 'metric', visible: true, order: 12, group: 'Avg Employees (OSHA)' },
-  { key: 'annual_average_employees_2024', label: '2024', type: 'metric', visible: true, order: 13, group: 'Avg Employees (OSHA)' },
-  { key: 'total_hours_worked_2020', label: '2020', type: 'metric', visible: true, order: 14, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2021', label: '2021', type: 'metric', visible: true, order: 15, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2022', label: '2022', type: 'metric', visible: true, order: 16, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2023', label: '2023', type: 'metric', visible: true, order: 17, group: 'Total Hours Worked (OSHA)' },
-  { key: 'total_hours_worked_2024', label: '2024', type: 'metric', visible: true, order: 18, group: 'Total Hours Worked (OSHA)' },
+  { key: 'phone_numbers', label: 'Phone Numbers', type: 'definition', visible: true, order: 7 },
+  { key: 'last_interaction_date', label: 'Last Interaction Date', type: 'metric', visible: true, order: 8, group: 'Affinity' },
+  { key: 'last_interaction_id', label: 'Last Interaction IDs', type: 'metric', visible: true, order: 9, group: 'Affinity' },
+  { key: 'annual_average_employees_2020', label: '2020', type: 'metric', visible: true, order: 10, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2021', label: '2021', type: 'metric', visible: true, order: 11, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2022', label: '2022', type: 'metric', visible: true, order: 12, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2023', label: '2023', type: 'metric', visible: true, order: 13, group: 'Avg Employees (OSHA)' },
+  { key: 'annual_average_employees_2024', label: '2024', type: 'metric', visible: true, order: 14, group: 'Avg Employees (OSHA)' },
+  { key: 'total_hours_worked_2020', label: '2020', type: 'metric', visible: true, order: 15, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2021', label: '2021', type: 'metric', visible: true, order: 16, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2022', label: '2022', type: 'metric', visible: true, order: 17, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2023', label: '2023', type: 'metric', visible: true, order: 18, group: 'Total Hours Worked (OSHA)' },
+  { key: 'total_hours_worked_2024', label: '2024', type: 'metric', visible: true, order: 19, group: 'Total Hours Worked (OSHA)' },
 ];
 
 
@@ -402,6 +406,7 @@ export function CompanyTable() {
     good_reputation_citations: '',
     website: '',
     contact_info: '',
+    phone_numbers: '',
     last_interaction_date: '',
     last_interaction_id: '',
     annual_average_employees_2020: '',
@@ -531,6 +536,7 @@ export function CompanyTable() {
       return {
         company_name: getValue('company_name'),
         state: getValue('state'),
+        phone_numbers: formatPhoneNumbersForDisplay(company.phone_numbers || []),
         investment_grade: getValue('investment_grade'),
         investment_grade_summary: company.investment_grade_summary || '',
         investment_grade_citations: formatCitations(company.investment_grade_citations),
@@ -542,7 +548,12 @@ export function CompanyTable() {
         pe_backed_citations: formatCitations(company.pe_backed_citations),
         can_accommodate_allocation: getValue('can_accommodate_allocation'),
         can_accommodate_allocation_citations: formatCitations(company.can_accommodate_allocation_citations),
+        good_reputation: getValue('good_reputation'),
+        good_reputation_citations: formatCitations(company.good_reputation_citations),
         website: getValue('website'),
+        // Affinity data
+        last_interaction_date: getValue('last_interaction_date'),
+        last_interaction_id: getValue('last_interaction_id'),
         // Contact info - dynamically add all found positions
         ...contactData,
         // OSHA data for all years
@@ -618,6 +629,8 @@ export function CompanyTable() {
       // Add website and contact info
       website: csvRow.website || '',
       contact_info: csvRow.contact_info || '',
+      // Parse and format phone numbers
+      phone_numbers: csvRow.phone_numbers ? parseAndFormatPhoneNumbers(csvRow.phone_numbers) : [],
       // Add new Affinity data
       last_interaction_date: csvRow.last_interaction_date ? (() => {
         try {
@@ -837,6 +850,19 @@ export function CompanyTable() {
               }}
             >
               {company[colConfig.key] as string}
+            </div>
+          );
+        }
+        if (colConfig.key === 'phone_numbers') {
+          return (
+            <div style={cellStyle}>
+              <Text size="sm" style={{
+                color: 'var(--eanna-gray-700)',
+                fontWeight: 500,
+                fontFamily: 'var(--eanna-font-sans)'
+              }}>
+                {formatPhoneNumbersForDisplay(company.phone_numbers || [])}
+              </Text>
             </div>
           );
         }
@@ -1091,10 +1117,10 @@ export function CompanyTable() {
               </div>
               {selectedCompany.website && (
                 <div>
-                  <strong style={{ color: 'var(--eanna-deep-blue)' }}>Website:</strong> 
-                  <a 
-                    href={selectedCompany.website.startsWith('http') ? selectedCompany.website : `https://${selectedCompany.website}`} 
-                    target="_blank" 
+                  <strong style={{ color: 'var(--eanna-deep-blue)' }}>Website:</strong>
+                  <a
+                    href={selectedCompany.website.startsWith('http') ? selectedCompany.website : `https://${selectedCompany.website}`}
+                    target="_blank"
                     rel="noopener noreferrer"
                     style={{ marginLeft: '8px', color: 'var(--eanna-electric-blue)' }}
                   >
@@ -1294,7 +1320,7 @@ export function CompanyTable() {
             </div>
 
             {/* Contact Information Section */}
-            {selectedCompany.contact_info && (
+            {(selectedCompany.contact_info || (selectedCompany.phone_numbers && selectedCompany.phone_numbers.length > 0)) && (
               <div style={{ marginBottom: '1.5rem' }}>
                 <h3 style={{
                   fontFamily: 'var(--eanna-font-serif)',
@@ -1313,58 +1339,76 @@ export function CompanyTable() {
                   fontSize: '0.8rem',
                   lineHeight: '1.4'
                 }}>
-                  {(() => {
-                    try {
-                      const contacts = JSON.parse(selectedCompany.contact_info);
-                      if (Array.isArray(contacts)) {
-                        return (
-                          <table style={{
-                            width: 'auto',
-                            borderCollapse: 'collapse',
-                            fontFamily: 'var(--eanna-font-sans)',
-                            fontSize: '0.8rem'
-                          }}>
-                            <tbody>
-                              {contacts.map((contact, index) => (
-                                <tr key={index}>
-                                  <td style={{
-                                    padding: '3px 8px 3px 0',
-                                    verticalAlign: 'top',
-                                    whiteSpace: 'nowrap'
-                                  }}>
-                                    <strong style={{ color: 'var(--eanna-deep-blue)' }}>
-                                      {(contact.position || 'CONTACT').toUpperCase()}:
-                                    </strong>{' '}
-                                    {contact.first_name} {contact.last_name}
-                                  </td>
-                                  <td style={{
-                                    padding: '3px 0',
-                                    verticalAlign: 'top'
-                                  }}>
-                                    {contact.email && (
-                                      <>
-                                        <strong>Email:</strong>{' '}
-                                        <a
-                                          href={`mailto:${contact.email}`}
-                                          style={{ color: 'var(--eanna-electric-blue)' }}
-                                        >
-                                          {contact.email}
-                                        </a>
-                                      </>
-                                    )}
-                                  </td>
-                                </tr>
-                              ))}
-                            </tbody>
-                          </table>
-                        );
-                      } else {
-                        return selectedCompany.contact_info;
-                      }
-                    } catch {
-                      return selectedCompany.contact_info;
-                    }
-                  })()}
+                  {/* Phone Numbers */}
+                  {selectedCompany.phone_numbers && selectedCompany.phone_numbers.length > 0 && (
+                    <div style={{ marginBottom: selectedCompany.contact_info ? '1rem' : '0' }}>
+                      <strong style={{ color: 'var(--eanna-deep-blue)' }}>Phone Numbers:</strong>{' '}
+                      <span style={{
+                        color: 'var(--eanna-gray-700)',
+                        fontWeight: 500
+                      }}>
+                        {formatPhoneNumbersForDisplay(selectedCompany.phone_numbers)}
+                      </span>
+                    </div>
+                  )}
+
+                  {/* Contact Info */}
+                  {selectedCompany.contact_info && (
+                    <>
+                      {(() => {
+                        try {
+                          const contacts = JSON.parse(selectedCompany.contact_info);
+                          if (Array.isArray(contacts)) {
+                            return (
+                              <table style={{
+                                width: 'auto',
+                                borderCollapse: 'collapse',
+                                fontFamily: 'var(--eanna-font-sans)',
+                                fontSize: '0.8rem'
+                              }}>
+                                <tbody>
+                                  {contacts.map((contact, index) => (
+                                    <tr key={index}>
+                                      <td style={{
+                                        padding: '3px 8px 3px 0',
+                                        verticalAlign: 'top',
+                                        whiteSpace: 'nowrap'
+                                      }}>
+                                        <strong style={{ color: 'var(--eanna-deep-blue)' }}>
+                                          {(contact.position || 'CONTACT').toUpperCase()}:
+                                        </strong>{' '}
+                                        {contact.first_name} {contact.last_name}
+                                      </td>
+                                      <td style={{
+                                        padding: '3px 0',
+                                        verticalAlign: 'top'
+                                      }}>
+                                        {contact.email && (
+                                          <>
+                                            <strong>Email:</strong>{' '}
+                                            <a
+                                              href={`mailto:${contact.email}`}
+                                              style={{ color: 'var(--eanna-electric-blue)' }}
+                                            >
+                                              {contact.email}
+                                            </a>
+                                          </>
+                                        )}
+                                      </td>
+                                    </tr>
+                                  ))}
+                                </tbody>
+                              </table>
+                            );
+                          } else {
+                            return selectedCompany.contact_info;
+                          }
+                        } catch {
+                          return selectedCompany.contact_info;
+                        }
+                      })()}
+                    </>
+                  )}
                 </div>
               </div>
             )}
